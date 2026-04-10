@@ -42,25 +42,30 @@ API Calls (Python) → Clean & Store (SQLite) → Analyze (SQL) → Visualize (P
 ```
 meddevice-market-research/
 │
-├── 01_collect_fda_510k.py          # FDA 510(k) clearance data collection
-├── 02_collect_adverse_events.py    # FDA MAUDE adverse event collection
-├── 02b_clean_adverse_events.py     # Adverse event cleaning & filtering
-├── 03_collect_trials.py            # ClinicalTrials.gov data collection
-├── 04_collect_sec.py               # SEC EDGAR financial data collection
-├── 05_load_sql.py                  # Load all datasets into SQLite
-├── 06_cross_analysis.py            # Cross-dataset SQL analysis
-├── 07_visualize.py                 # Python charts (Matplotlib)
-├── 08_export_powerbi.py            # Export CSVs for Power BI
-├── 09_excel_summary.py             # Excel summary workbook
+├── 01-1_GetDataFDA510.py           # FDA 510(k) clearance data collection
+├── 01-2_GetAdverseEvents.py        # FDA MAUDE adverse event collection
+├── 01-3_GetTrials.py               # ClinicalTrials.gov data collection
+├── 01-4_GetSEC.py                  # SEC EDGAR financial data collection
+├── 02-1_CleanLoadDataFDA510k.py    # Clean & load 510(k) into SQLite
+├── 02-2_CleanLoadAdverseData.py    # Clean & load adverse events into SQLite
+├── 02-3_CleanLoadTrialData.py      # Clean & load trials into SQLite
+├── 02-4_CleanLoadSEC.py            # Clean & load financials into SQLite
+├── 03_Analysis.py                  # SQL cross-dataset analysis
+├── 04_SavedforPowerBI.py           # Export CSVs for Power BI
+├── 05_ExcelSum.py                  # Excel summary workbook
 │
 ├── data/
-│   ├── raw/                        # Raw CSVs from APIs
-│   ├── clean/                      # Cleaned CSVs
-│   └── powerbi_ready/              # Aggregated CSVs for Power BI
+│   ├── fda_510k.csv
+│   ├── fda_adverse_events_clean.csv
+│   ├── clinical_trials.csv
+│   ├── sec_financials.csv
+│   ├── MedDevice.db
+│   └── meddevice_market_research.xlsx
 │
 ├── screenshots/
-│   └── dashboard.png               # Power BI dashboard screenshot
+│   └── dashboard.png
 │
+├── Dashboard.pbix
 ├── requirements.txt
 └── README.md
 ```
@@ -204,8 +209,8 @@ pip install -r requirements.txt
 **Ignatius Gilbert Wicaksana**
 Biomedical Engineering Graduate — Universitas Gadjah Mada
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/[your-handle])
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/[your-handle])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ignatius-gilbert)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com//giillbertt)
 
 ---
 
