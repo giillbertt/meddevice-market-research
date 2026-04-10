@@ -1,0 +1,982 @@
+nct_id,title,status,start_date,completion_date,phase,enrollment,study_type,sponsor,sponsor_class,fda_regulated
+NCT04823858,3Spine Lumbar Fusion Real World Evidence Study,ACTIVE_NOT_RECRUITING,2021-05-25,2029-11-15,,176,OBSERVATIONAL,3Spine,INDUSTRY,True
+NCT02989948,Physician-Modified Fenestrated and Branched Aortic Endografting for TAAA,ACTIVE_NOT_RECRUITING,2020-04-22,2031-12-31,NA,38,INTERVENTIONAL,Yale University,OTHER,True
+NCT04747626,B-SAFER: Branched Stented Anastomosis Frozen Elephant Trunk Repair,RECRUITING,2021-03-25,2030-12-31,NA,590,INTERVENTIONAL,"Eric Roselli, M. D.",OTHER,True
+NCT02935478,Bariatric Embolization of Arteries in Obese Patients With HCC to Allow Salvage Liver Transplantation,SUSPENDED,2017-10-18,2027-12,NA,8,INTERVENTIONAL,St. Louis University,OTHER,True
+NCT07485985,Coronary Sinus Reducer Therapy for Persisting Angina,NOT_YET_RECRUITING,2026-04-01,2028-07-01,NA,25,INTERVENTIONAL,UMC Utrecht,OTHER,True
+NCT02228720,Clinical Evaluation of Propel Nova Sinus Implant in Peripheral Sinus Ostia,COMPLETED,2014-06,2015-01,NA,15,INTERVENTIONAL,Intersect ENT,INDUSTRY,True
+NCT04686084,Dual Energy Cone-Beam Computed Tomography (DE-CBCT) Assessment of Jaw Bone Density,COMPLETED,2021-03-26,2021-11-29,NA,26,INTERVENTIONAL,"University of California, Los Angeles",OTHER,True
+NCT06906926,Harmony TPV EMEA PMS,RECRUITING,2025-07-30,2032-12-31,NA,80,INTERVENTIONAL,Medtronic Cardiovascular,INDUSTRY,True
+NCT03403426,ReFlow Medical Wingman Catheter Wing-IT Clinical Trial,COMPLETED,2018-02-13,2019-08-08,NA,85,INTERVENTIONAL,"ReFlow Medical, Inc.",INDUSTRY,True
+NCT03361917,Standard Colonoscopy Versus Colonoscopy With Endocuff Vision,COMPLETED,2017-12-11,2018-04-18,NA,200,INTERVENTIONAL,Indiana University,OTHER,True
+NCT01864291,Auditory Brainstem Implant (ABI) in Pediatric Non-Neurofibromatosis Type 2 Subjects,TERMINATED,2013-05,2019-04-25,NA,9,INTERVENTIONAL,Massachusetts Eye and Ear Infirmary,OTHER,True
+NCT06940752,VINTAGE (Ventricular Intramyocardial Navigation for Tachycardia Ablation Guided by Electrograms) Using Commercial Off-The-Shelf (COTS) Catheters,ENROLLING_BY_INVITATION,2026-04-12,2027-07-01,NA,30,INTERVENTIONAL,"National Heart, Lung, and Blood Institute (NHLBI)",NIH,True
+NCT04902079,Observational and Prospective Registry on Cardiac Contractility Modulation (CCM) Therapy,UNKNOWN,2021-03-08,2023-12-31,,20,OBSERVATIONAL,Monaldi Hospital,OTHER,True
+NCT04768543,Stimulation Therapy for Apnea: Reporting Thoughts,COMPLETED,2020-03-02,2021-05-01,,26,OBSERVATIONAL,University of Pittsburgh,OTHER,True
+NCT03049748,Self-Management App for Patients With Left-Ventricular Assist Devices,COMPLETED,2017-01-30,2019-07-01,NA,40,INTERVENTIONAL,University of Michigan,OTHER,True
+NCT03705481,GRX With ReMOTE: First in Human in India,COMPLETED,2018-12-03,2018-12-07,NA,5,INTERVENTIONAL,Corindus Inc.,INDUSTRY,True
+NCT04539964,Vagus Nerve Stimulation for Moderate to Severe Rheumatoid Arthritis,ACTIVE_NOT_RECRUITING,2021-01-11,2027-10,PHASE3,243,INTERVENTIONAL,SetPoint Medical Corporation,INDUSTRY,True
+NCT06067204,Automatic Ventilation in Prehospital Resuscitation on OHCA,RECRUITING,2023-10-02,2026-09-30,NA,514,INTERVENTIONAL,National Taiwan University Hospital,OTHER,True
+NCT03450733,Wright Medical Technology Metal-on-Metal 522 Post-Market Surveillance Study,COMPLETED,2018-04-11,2022-06-18,,173,OBSERVATIONAL,MicroPort Orthopedics Inc.,INDUSTRY,True
+NCT02987387,COMPASSION XT PAS - Post-approval Study of the SAPIEN XT THV in Patients With Pulmonary Valve Dysfunction,COMPLETED,2017-07-17,2025-09-30,,57,OBSERVATIONAL,Edwards Lifesciences,INDUSTRY,True
+NCT06010563,VenusP-Valve Pivotal Study (PROTEUS STUDY),RECRUITING,2024-06-11,2034-08-30,NA,60,INTERVENTIONAL,Venus MedTech (HangZhou) Inc.,INDUSTRY,True
+NCT04245345,Accelerometer Sensing for Micra AV Study,COMPLETED,2020-06-09,2022-01-10,NA,157,INTERVENTIONAL,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True
+NCT03988465,HemoSonics - UTMB Cardiac Surgery Study,COMPLETED,2019-06-19,2020-05-15,,30,OBSERVATIONAL,HemoSonics LLC,INDUSTRY,True
+NCT05650658,Left vs Left Randomized Clinical Trial,RECRUITING,2023-09-13,2029-06-30,NA,2136,INTERVENTIONAL,Baylor College of Medicine,OTHER,True
+NCT04891289,Gemcitabine and Oxaliplatin Chemotherapy With or Without a Floxuridine and Dexamethasone Pump in People With Cholangiocarcinoma That Cannot Be Removed With Surgery,RECRUITING,2021-05-07,2027-05,PHASE2,164,INTERVENTIONAL,Memorial Sloan Kettering Cancer Center,OTHER,True
+NCT05677568,The CINCH-FMR Post-Market Registry: Percutaneous Repair in Functional Mitral Regurgitation,ENROLLING_BY_INVITATION,2017-06-24,2030-06-30,,250,OBSERVATIONAL,"Cardiac Dimensions, Inc.",INDUSTRY,True
+NCT05204082,A Study to Evaluate SU-VEID™ for Improving Peripheral Venous Access Success in Children,TERMINATED,2022-03-28,2022-07-21,NA,169,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT06834607,"Physician Modified Endovascular Grafts for the Treatment of Elective, Symptomatic or Ruptured Complex Aortic Aneurysms",RECRUITING,2025-06-01,2032-05-01,NA,15,INTERVENTIONAL,Akhilesh Jain,OTHER,True
+NCT04829734,Effects of Photobiomodulation Therapy Combined With Static Magnetic Field in Patients With Lateral Epicondylitis,COMPLETED,2021-04-12,2021-09-15,NA,50,INTERVENTIONAL,University of Nove de Julho,OTHER,True
+NCT06155409,Safety and Performance of the SPINEVISION Hexanium ACIF in the Treatment of Cervical Spine Degenerative Disc Disease,ACTIVE_NOT_RECRUITING,2021-07-06,2027-07-31,,148,OBSERVATIONAL,SPINEVISION SAS,INDUSTRY,True
+NCT05676944,Vestibular Implantation in Older Adults,RECRUITING,2023-04-11,2028-01-31,NA,15,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT05934487,PROACTIVE-HF-2 Trial Heart Failure NYHA Class II and III,RECRUITING,2023-11-29,2033-09,NA,1750,INTERVENTIONAL,"Endotronix, Inc.",INDUSTRY,True
+NCT07290998,Alpha Radiation Emitters Device (DaRT) for the Treatment of Locally Recurrent Prostate Cancer,NOT_YET_RECRUITING,2026-05,2029-05,NA,12,INTERVENTIONAL,Alpha Tau Medical LTD.,INDUSTRY,True
+NCT04229017,Study of Posterior Cervical Stabilization System (PCSS) as Part of Circumferential Fusion to Treat Multilevel DDD,ACTIVE_NOT_RECRUITING,2020-03-18,2025-12,NA,236,INTERVENTIONAL,"Providence Medical Technology, Inc.",INDUSTRY,True
+NCT04408846,Minimally Invasive Surgery Versus Traditional Open Surgery In The Treatment Of Single Level Lumbar Stenosis,WITHDRAWN,2020-12-01,2023-12-01,NA,0,INTERVENTIONAL,Novosibirsk Research Institute of Traumatology and Orthopaedics n.a. Ya.L. Tsivyan,OTHER_GOV,True
+NCT06195046,Baroreflex Activation Therapy in Left Ventricular Assist Device Patients Study,WITHDRAWN,2025-07-01,2025-07-01,NA,0,INTERVENTIONAL,Medical University of South Carolina,OTHER,True
+NCT06430268,Efficacy of Non-surgical and Surgical Surface Decontamination Methods on Peri-implantitis-affected Implants,ENROLLING_BY_INVITATION,2024-05-21,2027-06-30,NA,90,INTERVENTIONAL,Andrea Ravida,OTHER,True
+NCT02339974,Heterotopic Implantation Of the Edwards-Sapien Transcatheter Aortic Valve in the Inferior VEna Cava for the Treatment of Severe Tricuspid Regurgitation (HOVER),COMPLETED,2015-01,2025-06,PHASE3,15,INTERVENTIONAL,Henry Ford Health System,OTHER,True
+NCT07034924,Temporary Aortic Compression With the Abdominal Tourniquet for Refractory Postpartum Hemorrhage,RECRUITING,2025-07-01,2026-07,NA,20,INTERVENTIONAL,LLC UkrMedGroup,INDUSTRY,True
+NCT05070013,Adaptive Neurostimulation to Restore Sleep in Parkinson's Disease (Aim 2),RECRUITING,2021-11-18,2026-06-30,NA,20,INTERVENTIONAL,University of Nebraska,OTHER,True
+NCT05524220,Effect of Nasal Positive Airway Pressure Versus Standard Care on Oxygenation and Ventilation During Propofol-based Sedation for Colonoscopy in Patients With High Risk of Airway Obstruction,COMPLETED,2022-12-19,2023-08-09,NA,139,INTERVENTIONAL,"The University of Texas Health Science Center, Houston",OTHER,True
+NCT03738462,A Study to Evaluate the Conformis Hip System,TERMINATED,2018-11-26,2022-06-06,,49,OBSERVATIONAL,Restor3D,INDUSTRY,True
+NCT06615635,Clinical Study Protocol for Cutaneous SCC for Immunocompromised Patients,NOT_YET_RECRUITING,2025-12,2026-12,NA,28,INTERVENTIONAL,Alpha Tau Medical LTD.,INDUSTRY,True
+NCT01517659,Non-Invasive Reduction of Fat in the Inner Thighs,COMPLETED,2012-12,2014-10,NA,45,INTERVENTIONAL,Zeltiq Aesthetics,INDUSTRY,True
+NCT04421040,Long-term Monitoring of Patients With Cardiac Amyloidosis With Implantable Event Monitors,COMPLETED,2020-10-07,2023-03-22,NA,24,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT06020508,Lumoptik BRIGHTPOINT Reflectometer Device for Lumbar Epidural Placement,RECRUITING,2023-09-12,2026-07,,36,OBSERVATIONAL,"Hospital for Special Surgery, New York",OTHER,True
+NCT07100340,Feasibility and Safety of the Augmented Reality Guidance Software TAVIPILOT Software During Transcatheter Aortic Valve Replacement (TAVR/TAVI),NOT_YET_RECRUITING,2025-09-15,2026-03-15,NA,10,INTERVENTIONAL,Caranx Medical,INDUSTRY,True
+NCT03868618,Dual-sided Hypoglossal neRvE stimulAtion for the treatMent of Obstructive Sleep Apnea (DREAM),ACTIVE_NOT_RECRUITING,2020-10-14,2028-02,NA,115,INTERVENTIONAL,Nyxoah S.A.,INDUSTRY,True
+NCT03501810,Study Assessing Safety and Performance of OrtoWell Distractor in Patients Undergoing Spinal Surgery,UNKNOWN,2018-04-05,2018-09-30,,32,OBSERVATIONAL,OrtoWay AB,INDUSTRY,True
+NCT07357428,Connect-One: Early Feasibility Study of Connexus® Brain-Computer Interface (BCI),RECRUITING,2026-01,2032-01,NA,2,INTERVENTIONAL,Paradromics,INDUSTRY,True
+NCT05336877,Aveir VR Coverage With Evidence Development Post-Approval Study,RECRUITING,2022-06-21,2028-01-01,,8744,OBSERVATIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT05946629,SELUTION 4 De Novo Small Vessel IDE Trial,RECRUITING,2023-10-20,2031-06,NA,960,INTERVENTIONAL,M.A. Med Alliance S.A.,INDUSTRY,True
+NCT04098367,Clinical Investigation of the AcrySof IQ Vivity Extended Vision Intraocular Lens (IOL),COMPLETED,2019-11-18,2021-07-22,NA,222,INTERVENTIONAL,Alcon Research,INDUSTRY,True
+NCT03145636,The ReNEW Study: Maestro® New Enrollment Post-Approval Study Protocol,UNKNOWN,2017-08-30,2024-12,NA,4,INTERVENTIONAL,ReShape Lifesciences,INDUSTRY,True
+NCT03322592,EUS-FNB With ROSE Vs. EUS-FNB Without ROSE,COMPLETED,2018-03-29,2020-07-30,NA,800,INTERVENTIONAL,Azienda Ospedaliera Universitaria Integrata Verona,OTHER,True
+NCT04906811,Prospective Comparison of Revolve™ and AuraGen 123 With AuraClens™ in Autologous Fat Grafting to the Breast,TERMINATED,2021-05-20,2024-02-12,NA,17,INTERVENTIONAL,AuraGen Aesthetics LLC,INDUSTRY,True
+NCT05183399,Treatment of Patients With Traumatic or Iatrogenic Vessel Injuries,COMPLETED,2016-12-01,2021-02-14,,30,OBSERVATIONAL,W.L.Gore & Associates,INDUSTRY,True
+NCT07005232,Lead Evaluation for Defibrillation and Reliability Post Approval Study,ENROLLING_BY_INVITATION,2026-02,2032-09,,2000,OBSERVATIONAL,Medtronic,INDUSTRY,True
+NCT03720639,Confirm Rx™ Versus Reveal LINQ™ - Which is More Reliable in Data Transmission? A Randomized Clinical Study,COMPLETED,2018-05-18,2020-03-09,NA,209,INTERVENTIONAL,Sparrow Clinical Research Institute,OTHER,True
+NCT06338709,Clinical Study Protocol for the Assessment of Safety and Efficacy of the BARICLIP®,NOT_YET_RECRUITING,2025-06,2026-08,NA,165,INTERVENTIONAL,Advanced Bariatric Technology,INDUSTRY,True
+NCT03381677,Pedicle Osteotomy for Stenosis Trial,SUSPENDED,2017-10-26,2024-10-26,NA,344,INTERVENTIONAL,Innovative Surgical Designs,INDUSTRY,True
+NCT01555619,Quadripolar Pacing Post Approval Study,COMPLETED,2012-02-15,2019-02-28,,1971,OBSERVATIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT03767595,ProACT Post-Approval Study,RECRUITING,2019-02-19,2030-09-01,NA,145,INTERVENTIONAL,Uromedica,INDUSTRY,True
+NCT02700165,Fat Reduction in the Submandibular/Submental Area,COMPLETED,2016-02,2016-12,NA,14,INTERVENTIONAL,Zeltiq Aesthetics,INDUSTRY,True
+NCT07477054,A Post-Approval Multicenter Study to Assess the Continued Safety and Effectiveness of the AeroPace® System,NOT_YET_RECRUITING,2026-07-01,2028-02-01,NA,120,INTERVENTIONAL,Lungpacer Medical Inc.,INDUSTRY,True
+NCT02941146,DualSculpting the Abdomen Using CoolSculpting,COMPLETED,2016-10,2017-03-29,NA,15,INTERVENTIONAL,Zeltiq Aesthetics,INDUSTRY,True
+NCT06203262,Ventricular Catheter Ablation Study (VCAS),RECRUITING,2024-04-12,2027-06-30,NA,60,INTERVENTIONAL,Field Medical,INDUSTRY,True
+NCT04000659,Episealer® Knee System IDE Clinical Study,ACTIVE_NOT_RECRUITING,2020-06-18,2028-06,NA,13,INTERVENTIONAL,Episurf Medical Inc.,INDUSTRY,True
+NCT03437473,Safety and Efficacy of Vagus Nerve Stimulator in Patients With Rheumatoid Arthritis (RA),COMPLETED,2018-03-06,2018-12-10,NA,14,INTERVENTIONAL,SetPoint Medical Corporation,INDUSTRY,True
+NCT07074288,Obstructive Sleep Apnea Non-PAP Outcomes and Viable Alternatives,RECRUITING,2025-06-30,2026-05,NA,60,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT07025356,"Observational Study of the the Use of a Trigeminal Vagal Nerve Stimulator in the Routine Care of Native Americans With Diabetic Neuropathy Pain. Pain Scores, Drug Use and Glucose Measurements Will be Assessed",COMPLETED,2022-09-23,2025-06-01,,83,OBSERVATIONAL,Vagus Nerve Society,OTHER,True
+NCT02357082,Mayo Clinic Cardiac Implantable Electronic Device MRI Registry,COMPLETED,2016-12,2022-04-20,,1000,OBSERVATIONAL,Mayo Clinic,OTHER,True
+NCT06168669,A Safety and Effectiveness Prospective Blinded Clinical Study to Validate xBar System as Monitoring Tool for Anastomotic Leaks Detection,RECRUITING,2023-03-11,2025-12-01,NA,190,INTERVENTIONAL,Exero Medical Ltd.,INDUSTRY,True
+NCT05099380,Validation of Senofilcon A With New UV / HEV Filter,COMPLETED,2021-10-05,2021-11-24,NA,296,INTERVENTIONAL,"Johnson & Johnson Vision Care, Inc.",INDUSTRY,True
+NCT04875429,Zenith® Fenestrated+ Clinical Study,RECRUITING,2023-12-08,2031-11,NA,105,INTERVENTIONAL,Cook Research Incorporated,INDUSTRY,True
+NCT06594705,The JenaValve ALIGN-AR LVAD Registry,RECRUITING,2024-12-09,2027-08,NA,50,INTERVENTIONAL,"JenaValve Technology, Inc.",INDUSTRY,True
+NCT05884359,Left Bundle Branch Area Mapping for Conduction System Pacing,RECRUITING,2023-06-01,2026-12,,30,OBSERVATIONAL,"Steward St. Elizabeth's Medical Center of Boston, Inc.",OTHER,True
+NCT04289480,Safety and Effectiveness of ENTERPRISE 2 Device in the Endovascular Treatment of Intracranial Aneurysms,ACTIVE_NOT_RECRUITING,2020-07-30,2026-09-10,,164,OBSERVATIONAL,Medos International SARL,INDUSTRY,True
+NCT02904096,Radiesse® Safety Study For the Treatment of Hands,COMPLETED,2016-06-10,2019-01-09,NA,256,INTERVENTIONAL,"Merz North America, Inc.",INDUSTRY,True
+NCT05339061,Physician Modified Endograft For Complex Aortic Aneurysm Repair,RECRUITING,2023-03-01,2029-12,NA,40,INTERVENTIONAL,"University of California, Davis",OTHER,True
+NCT02747420,PTNS Versus Sham Efficacy in Treatment of BPS,COMPLETED,2016-06,2020-03,NA,40,INTERVENTIONAL,NYU Langone Health,OTHER,True
+NCT04244370,Caterpillar™ Arterial Embolization Device Post-Market Study,COMPLETED,2020-04-30,2022-08-12,NA,50,INTERVENTIONAL,C. R. Bard,INDUSTRY,True
+NCT03285724,Safety and Performance Study of the Harpoon Mitral Valve Repair System,TERMINATED,2017-05-16,2018-04-20,NA,1,INTERVENTIONAL,Edwards Lifesciences,INDUSTRY,True
+NCT03886727,Effectiveness of Rubber Dam Isolation Versus Cotton Roll Isolation on Bonded Fissure Sealant Retention,UNKNOWN,2020-02-01,2021-06-01,NA,50,INTERVENTIONAL,"Zafer Cavit Cehreli, DDS, PhD",OTHER,True
+NCT06113354,EXPLORE MRace: Early Feasibility Experience of Posterior Leaflet Restoration to Reduce Mitral Regurgitation Using the MRace Implant,NOT_YET_RECRUITING,2023-12,2029-12,NA,10,INTERVENTIONAL,Polares Medical SA,INDUSTRY,True
+NCT05870488,iFuse TORQ for the Treatment of Sacroiliac Joint Dysfunction,ACTIVE_NOT_RECRUITING,2023-05-23,2027-11,PHASE4,110,INTERVENTIONAL,"SI-BONE, Inc.",INDUSTRY,True
+NCT06916286,Evaluating the Effect of Surgical Drain Securement on Patient Quality of Life and Postoperative Drain-related Complications,RECRUITING,2025-05-05,2027-05-30,NA,140,INTERVENTIONAL,Wake Forest University Health Sciences,OTHER,True
+NCT03508778,Clinical Evaluation of the FluidVision Accommodation Intraocular Lens (AIOL),COMPLETED,2018-02-27,2019-12-06,NA,95,INTERVENTIONAL,PowerVision,INDUSTRY,True
+NCT04725890,Safety and Feasibility of a Novel Endoscopic Intervention for the Treatment of Type II Diabetes,COMPLETED,2021-04-20,2024-12-22,NA,65,INTERVENTIONAL,"Endogenex, Inc.",INDUSTRY,True
+NCT02678689,"A Safety, Tolerability, and Efficacy Study of BMN 190 in Pediatric Patients < 18 Years of Age With CLN2 Disease",COMPLETED,2016-01-22,2022-04-20,PHASE2,14,INTERVENTIONAL,BioMarin Pharmaceutical,INDUSTRY,True
+NCT03085238,Metastatic Tumor Cell Trap Device in Patients With Advanced Ovarian Cancer,COMPLETED,2017-03-09,2019-12-31,NA,23,INTERVENTIONAL,"MTrap, Inc.",INDUSTRY,True
+NCT07151638,First-in-Human Safety Study for Fractomer™ Biomatrix,COMPLETED,2025-08-11,2025-11-05,NA,2,INTERVENTIONAL,"inSoma Bio, Inc.",INDUSTRY,True
+NCT06775626,Body Composition and Sport Performance Among Young Female Soccer Players Using Subdermic Etonogestrel,SUSPENDED,2025-04-01,2025-12,EARLY_PHASE1,40,INTERVENTIONAL,Maíta Poli de Araújo,OTHER,True
+NCT05301335,"Spinal COrd NeuromodulaTor by SpIneX and ScoNE to Treat NeurogeniC BladdEr - SCONE ""CONTINENCE"" Clinical Study",COMPLETED,2022-05-25,2024-05-01,NA,126,INTERVENTIONAL,SpineX Inc.,INDUSTRY,True
+NCT06190717,Maturation of Arteriovenous Fistula With Automated Sonography Assessments Trial,RECRUITING,2024-02-21,2026-02-01,NA,304,INTERVENTIONAL,"Sonavex, Inc.",INDUSTRY,True
+NCT03199391,BioWick SureLock Clinical Outcomes Study,COMPLETED,2017-04-26,2021-05-05,NA,71,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT05371535,A Clinical Trial to Evaluate the Safety and Effectiveness of MatrixOssTM Bone Graft,UNKNOWN,2022-05-30,2023-06-30,NA,188,INTERVENTIONAL,Collagen Matrix,INDUSTRY,True
+NCT01740700,Zenith® p-Branch® OTS Multicenter Study,COMPLETED,2013-01,2020-06-22,NA,30,INTERVENTIONAL,Cook Research Incorporated,INDUSTRY,True
+NCT05736848,A Retrospective Assessment of OviTex PRS (OviTex),RECRUITING,2022-09-27,2026-12-31,,200,OBSERVATIONAL,Tela Bio Inc,INDUSTRY,True
+NCT04027140,MDR - M/L Taper With Kinectiv Technology Stems and Necks,TERMINATED,2020-01-22,2024-11-05,,36,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT03008837,Feasibility Study: fMRI Evaluation of Auricular PENFS for Fibromyalgia,COMPLETED,2017-06-01,2019-05-31,NA,27,INTERVENTIONAL,VA Office of Research and Development,FED,True
+NCT07226375,Endoscopic Tissue Cutting and Abdominal Extraction Device vs. Conventional Cold Scalpel,RECRUITING,2025-11-13,2026-12-17,NA,84,INTERVENTIONAL,Ege University,OTHER,True
+NCT05779683,Caretaker in the Cardiovascular Intensive Care Unit (CVICU),COMPLETED,2021-11-01,2021-12-28,,50,OBSERVATIONAL,Wake Forest University Health Sciences,OTHER,True
+NCT06107361,Evaluating the Role of the Guidewire in Peripheral Intravenous Access: A Randomized Controlled Trial of Ultrasound-Guided Catheter Survival,RECRUITING,2023-11-07,2026-05,NA,360,INTERVENTIONAL,Corewell Health East,OTHER,True
+NCT06819683,Validation of Nanosensor Oxygen Measurement,RECRUITING,2025-01-02,2026-09,PHASE1,96,INTERVENTIONAL,Children's Hospital of Philadelphia,OTHER,True
+NCT04662970,Optimization of Cardiac Resynchronization Therapy by Non-Invasive Imaging of Cardiac Electrophysiology,RECRUITING,2020-01-01,2027-12-31,NA,25,INTERVENTIONAL,Medical University Innsbruck,OTHER,True
+NCT06382272,A Bionic Breast Project Using Neuroprosthesis to Reduce Chronic Pain After Mastectomy,RECRUITING,2025-05-14,2028-01-31,NA,8,INTERVENTIONAL,University of Chicago,OTHER,True
+NCT03231046,Modality Augmentation for Navigation: Intuitive Fusion With Optical Lightweight Device (US/CBCT),WITHDRAWN,2018-04-01,2019-03,NA,0,INTERVENTIONAL,Clear Guide Medical,INDUSTRY,True
+NCT02483988,The SUN Clinical Trial (Safety Utilizing NUsurface Meniscus Implant),UNKNOWN,2015-12,2023-12,NA,115,INTERVENTIONAL,Active Implants,INDUSTRY,True
+NCT01964261,Sensory Motor Transformations in Human Cortex,RECRUITING,2013-11-01,2027-01-31,NA,5,INTERVENTIONAL,"Richard A. Andersen, PhD",OTHER,True
+NCT06968741,A Study to Assess the Safety and Effectiveness of the UrOActive® Artificial Urinary sPHincter (AUS),RECRUITING,2025-05-19,2031-12,NA,140,INTERVENTIONAL,UroMems SAS,INDUSTRY,True
+NCT04396379,Epicardial Mitral Touch System for Mitral Insufficiency,NOT_YET_RECRUITING,2023-09-10,2027-12-31,NA,10,INTERVENTIONAL,Mitre Medical Corp.,INDUSTRY,True
+NCT03189303,Cup Position in THA With Standard Instruments,COMPLETED,2017-09-07,2021-12-14,,183,OBSERVATIONAL,DePuy Orthopaedics,INDUSTRY,True
+NCT06203054,CLIP-IT Post-Market Study,ACTIVE_NOT_RECRUITING,2024-02-26,2029-02,NA,150,INTERVENTIONAL,Medtronic Cardiac Surgery,INDUSTRY,True
+NCT03093935,StimRouter™ for Pain Management in Post-stroke Shoulder Pain,TERMINATED,2018-07-01,2020-11-20,NA,6,INTERVENTIONAL,Bioness Inc,INDUSTRY,True
+NCT07224308,Long-Term Efficacy and Duration of MFU-V at Multiple Depths and at 1.5 mm,RECRUITING,2025-10-24,2026-12-30,NA,20,INTERVENTIONAL,The Levine Center for Plastic Surgery,OTHER,True
+NCT06355791,Post-Market Clinical Study of Functional Motion Outcomes in Subjects Treated With the Minuteman Device,RECRUITING,2024-05-29,2030-12,NA,150,INTERVENTIONAL,Spinal Simplicity LLC,INDUSTRY,True
+NCT04656678,Focal US-guided Cryo-ablation Using DynaCAD / UroNAV Preplanning / Guidance of Intermediate Risk Prostate Cancer,UNKNOWN,2020-11-25,2025-10-30,NA,200,INTERVENTIONAL,Northwell Health,OTHER,True
+NCT02583178,Feasibility Study of a Left Atrial Appendage Closure Device in Patients With Atrial Fibrillation,UNKNOWN,2017-08-25,2024-08,NA,7,INTERVENTIONAL,Aegis Medical Innovations,INDUSTRY,True
+NCT03838978,"Calypso Knee System Clinical Study, OUS",COMPLETED,2019-02-08,2025-03-14,NA,81,INTERVENTIONAL,Moximed,INDUSTRY,True
+NCT02782715,Microwave Ablation With MRI-Guided SBRT Boost in Renal Cell Carcinoma,TERMINATED,2018-06-28,2023-01-10,"PHASE1, PHASE2",3,INTERVENTIONAL,"University of Wisconsin, Madison",OTHER,True
+NCT03255798,A Prospective Evaluation of Glaucoma Subjects Treated With Two Second Generation iStents and One iStent Supra,TERMINATED,2017-08-01,2019-06-06,NA,7,INTERVENTIONAL,Glaukos Corporation,INDUSTRY,True
+NCT06653387,"A Single-arm, Pivotal Study to Evaluate Acute Device and Technical Success of the CGuard Prime Carotid Stent System When Used in Conjunction to the ENROUTE Transcarotid Neuroprotection System in Patients Undergoing Carotid Artery Stenting Via the Transcarotid Artery Revascularization Approach",RECRUITING,2024-11-20,2027-11-20,NA,50,INTERVENTIONAL,InspireMD,INDUSTRY,True
+NCT05574868,Rigicon Infla10® Three-Piece Inflatable Penile Prosthesis (ERASE ED),RECRUITING,2022-07-11,2026-05-21,NA,182,INTERVENTIONAL,"Rigicon, Inc.",INDUSTRY,True
+NCT02943850,CNS10-NPC-GDNF for the Treatment of ALS,COMPLETED,2017-04-01,2019-10-18,PHASE1,18,INTERVENTIONAL,Cedars-Sinai Medical Center,OTHER,True
+NCT02931240,BioVentrix Revivent TC™ System Clinical Study,ACTIVE_NOT_RECRUITING,2017-08-29,2027-06-30,NA,126,INTERVENTIONAL,BioVentrix,INDUSTRY,True
+NCT03022708,Xeltis Bioabsorbable Pulmonary Valved Conduit Pivotal Study,ACTIVE_NOT_RECRUITING,2017-05-08,2026-12,NA,56,INTERVENTIONAL,Xeltis,INDUSTRY,True
+NCT04246268,Assessment of the INVOcell Intravaginal Culture System,SUSPENDED,2020-10,2022-03,NA,180,INTERVENTIONAL,"INVO Bioscience, Inc.",INDUSTRY,True
+NCT06393907,Hemostatic Forceps vs. Bipolar Electrocautery Probes for High-Risk Bleeding Gastroduodenal Ulcers,RECRUITING,2024-03-26,2026-04-26,NA,150,INTERVENTIONAL,Mahidol University,OTHER,True
+NCT05034471,Mi-STITCH™ and Mi-KNOT™ Device Technologies - Improvement of Mitral Valve Repair,UNKNOWN,2021-08-05,2023-04,NA,12,INTERVENTIONAL,Medical University of Vienna,OTHER,True
+NCT04028687,MDR - PMCF Study for Taperloc Complete Stems,RECRUITING,2020-02-13,2032-02-12,,820,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT07217236,Proactive Risk Evaluation for Cardiac Implantable Electronic Device Strategy Using AI-ECG,RECRUITING,2025-11-01,2026-10-31,NA,11492,INTERVENTIONAL,"National Defense Medical Center, Taiwan",OTHER,True
+NCT04033692,MDR-JuggerKnot Mini Soft Anchor in Maxillofacial TMJ,WITHDRAWN,2021-12-01,2022-11-01,,0,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT04987138,Safety and Effectiveness Study of the Zenflow Spring System,ACTIVE_NOT_RECRUITING,2021-09-30,2026-06,NA,279,INTERVENTIONAL,"Zenflow, Inc.",INDUSTRY,True
+NCT04905290,Conduction System Pacing Optimized Therapy,COMPLETED,2021-11-27,2023-11-02,NA,60,INTERVENTIONAL,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True
+NCT06431815,ADVENT Post Approval Study,ACTIVE_NOT_RECRUITING,2024-09-25,2029-10,,228,OBSERVATIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT03544515,Peri-implantitis Treatment: Clinical Results of Conventional Treatment vs. the Addition of Biolase,COMPLETED,2019-01-14,2021-08-15,NA,32,INTERVENTIONAL,Columbia University,OTHER,True
+NCT03213210,Efficacy of Synthetic Bone Graft for Treatment of Peri-implantitis,TERMINATED,2018-11-12,2020-01-31,NA,5,INTERVENTIONAL,Sunstar Americas,INDUSTRY,True
+NCT05127915,US Pivotal Clinical Study of the Adient Absorbable Filter for the Prevention of Pulmonary Embolism,ACTIVE_NOT_RECRUITING,2023-01-27,2026-12-31,NA,854,INTERVENTIONAL,Adient Medical,INDUSTRY,True
+NCT04977310,TARGET-LOAD Pilot Study Comparing Hemodynamics-guided LVAD Unloading Vs. Standard of Care,WITHDRAWN,2025-03-31,2026-09-01,NA,0,INTERVENTIONAL,STAVROS G DRAKOS,OTHER,True
+NCT05666713,NHLBI Transmural Electrosurgery LeafLet Traversal And Laceration Evaluation (TELLTALE) BASILICA-TAVR Trial,COMPLETED,2023-02-21,2025-04-25,NA,90,INTERVENTIONAL,"National Heart, Lung, and Blood Institute (NHLBI)",NIH,True
+NCT05136820,"Flow Regulation by Opening the SepTum in Patients With Heart Failure; a Prospective, Randomized, Sham-controlled, Double-blind, Global Multicenter Study",ACTIVE_NOT_RECRUITING,2023-03-09,2029-02,NA,15,INTERVENTIONAL,Occlutech International AB,INDUSTRY,True
+NCT04730271,Comparison of Alignment Achieved Using the VELYS Robotic-Assisted Solution Versus Manual Instrumentation in Total Knee Arthroplasty,COMPLETED,2021-02-23,2023-09-06,NA,200,INTERVENTIONAL,DePuy Orthopaedics,INDUSTRY,True
+NCT05529901,Japan Post Marketing Surveillance of the GORE® CARDIOFORM Septal Occluder,ACTIVE_NOT_RECRUITING,2022-10-03,2029-08,,300,OBSERVATIONAL,W.L.Gore & Associates,INDUSTRY,True
+NCT04426344,Core Warming of COVID-19 Patients,WITHDRAWN,2020-10,2020-12,NA,0,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT04684212,Can the Lambre Device Occlude IRRegular And Large Appendages in Patients With Non-Valvular AF,WITHDRAWN,2024-06-01,2024-07-11,NA,0,INTERVENTIONAL,Brian O'Neill MD,OTHER,True
+NCT03255928,Dynamics of Platelet Activation in Patients With Ventricular Assist Device (VAD),RECRUITING,2017-06-29,2026-12-31,,60,OBSERVATIONAL,Scientific Institute San Raffaele,OTHER,True
+NCT04009512,Endovascular Repair of Thoracoabdominal Aortic Aneurysms,ACTIVE_NOT_RECRUITING,2020-10-06,2026-08-26,NA,15,INTERVENTIONAL,Matthew Eagleton,OTHER,True
+NCT05866419,Study of an Intrathecal Port and Catheter System for Subjects With Spinal Muscular Atrophy,RECRUITING,2023-11-27,2027-03,NA,90,INTERVENTIONAL,"Alcyone Therapeutics, Inc",INDUSTRY,True
+NCT05548192,SmartPICC-1 Feasibility Study Technical Feasibility Study,COMPLETED,2021-04-01,2022-08-23,,42,OBSERVATIONAL,Piccolo Medical,INDUSTRY,True
+NCT03290534,Feasibility Study to Treat Lung Cancer With the Permanently Implantable LDR CivaSheet®,RECRUITING,2019-03-13,2027-12,PHASE2,40,INTERVENTIONAL,CivaTech Oncology,INDUSTRY,True
+NCT05924945,Impact of Bridge™ Device to Treat Opioid Withdrawal Symptoms,TERMINATED,2023-06-08,2024-08-19,NA,13,INTERVENTIONAL,Masimo Corporation,INDUSTRY,True
+NCT04630171,VerTouch Device: A Prospective Randomized Controlled Trial,COMPLETED,2021-01-01,2023-11-29,NA,86,INTERVENTIONAL,Northwestern University,OTHER,True
+NCT04811807,Clinical Response of Impulsivity After Brain Stimulation in Parkinson's Disease,UNKNOWN,2021-10,2024-11,,50,OBSERVATIONAL,King's College London,OTHER,True
+NCT04540302,The Merit WRAPSODY AV Access Efficacy Study (WAVE),ACTIVE_NOT_RECRUITING,2021-03-09,2026-01,NA,357,INTERVENTIONAL,"Merit Medical Systems, Inc.",INDUSTRY,True
+NCT06776913,Randomized Controlled Trial Comparing Adult to Pediatric Colonoscope in Obese Patients.,COMPLETED,2025-01-06,2025-09-24,NA,244,INTERVENTIONAL,Cleveland Clinic Florida,OTHER,True
+NCT04393779,Observational Registry on the HARPOON Device,TERMINATED,2020-10-02,2022-11-17,NA,26,INTERVENTIONAL,Edwards Lifesciences,INDUSTRY,True
+NCT05332873,Rivet PVS Therapy in Group 2 PH-HFpEF Canada,WITHDRAWN,2023-10,2025-05,NA,0,INTERVENTIONAL,NXT Biomedical,INDUSTRY,True
+NCT07361445,Agilis RF TSP Early Feasibility Study,RECRUITING,2026-02-16,2026-08-03,NA,20,INTERVENTIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT03643224,DiamondTemp™ System for the Treatment of Persistent Atrial Fibrillation,COMPLETED,2018-09-19,2024-10-31,NA,376,INTERVENTIONAL,Medtronic Cardiac Ablation Solutions,INDUSTRY,True
+NCT03838341,Stand-alone Totally Thoracoscopic Left Atrial Appendage Occlusion Using AtriClip® Device in Non-valvular Atrial Fibrillation.,UNKNOWN,2015-06-08,2025-01-01,,100,OBSERVATIONAL,"Central Clinical Hospital of the Ministry of Internal Affairs and Administration, Warsaw, Poland",OTHER,True
+NCT05555173,IVs With Buzzy in Chronic Pain Patients,WITHDRAWN,2022-10-01,2023-10-20,NA,0,INTERVENTIONAL,"Steward St. Elizabeth's Medical Center of Boston, Inc.",OTHER,True
+NCT02006433,Treatment of Pain and Autonomic Dysreflexia in Spinal Cord Injury With Deep Brain Stimulation,COMPLETED,2013-12,2017-09,NA,4,INTERVENTIONAL,Jonathan Jagid,OTHER,True
+NCT03622866,Algovita Spinal Cord Stimulation System Hi-Fi Study,TERMINATED,2018-11-02,2020-04-27,NA,20,INTERVENTIONAL,Nuvectra,INDUSTRY,True
+NCT04755231,Post-Market Clinical Study of the PanOptix Intraocular Lens (IOL) in a Chinese Population,COMPLETED,2021-04-19,2023-03-15,NA,181,INTERVENTIONAL,Alcon Research,INDUSTRY,True
+NCT04225520,AMEND-CRT: Mechanical Dyssynchrony as Selection Criterion for CRT,ACTIVE_NOT_RECRUITING,2020-12-10,2030-12-01,NA,500,INTERVENTIONAL,Universitaire Ziekenhuizen KU Leuven,OTHER,True
+NCT03758222,Safety and Feasibility of the XFLO Expander System (Mercury),UNKNOWN,2018-11-07,2025-08,NA,45,INTERVENTIONAL,"MedeonBio, Inc.",INDUSTRY,True
+NCT05746325,Tumor Treating Fields for the Treatment of Leptomeningeal Metastases of the Spine in Patients With Breast or Lung Cancer,RECRUITING,2023-04-07,2027-03-01,NA,5,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT06660225,Deep Brain Stimulation for Refractory Obsessive-Compulsive Disorder,NOT_YET_RECRUITING,2026-02,2031-01,NA,10,INTERVENTIONAL,Nader Pouratian,OTHER,True
+NCT07216222,K08 VR Fear Conditioning,ENROLLING_BY_INVITATION,2025-03-01,2030-02-28,NA,70,INTERVENTIONAL,"University of California, Los Angeles",OTHER,True
+NCT04312256,Thumb vs Great Toe Recovery,COMPLETED,2020-08-18,2021-01-19,NA,81,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT04544345,Impact of Atrio-ventricular Optimization With His Bundle Pacing on Treatment of Atrio-ventricular Dromotropathy,COMPLETED,2019-12-23,2023-01-04,NA,17,INTERVENTIONAL,University Medical Centre Ljubljana,OTHER,True
+NCT04976972,A Comparison of Patients Receiving a Total Knee Replacement With Robotic Assistance or With Conventional Instrumentation,WITHDRAWN,2021-09-30,2021-09-30,NA,0,INTERVENTIONAL,Smith & Nephew Orthopaedics AG,INDUSTRY,True
+NCT05497206,ROSA® Hip System THA PMCF,TERMINATED,2024-06-05,2024-12-20,NA,12,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT03868670,Responsive Neurostimulation For Loss Of Control Eating,ACTIVE_NOT_RECRUITING,2019-04-10,2028-01-01,NA,6,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT01779856,"Monitoring in Dialysis -- a Prospective, Multi-center, Single-arm, Non-randomized, Observational Study in Patients Who Are Undergoing Hemodialysis.",COMPLETED,2013-01,2015-09,NA,81,INTERVENTIONAL,Medtronic Corporate Technologies and New Ventures,INDUSTRY,True
+NCT05361941,Multicenter Trial of Antibiotic Eluting Graft for Promoting New Bone Growth In/near Infected Bone Cavities,RECRUITING,2023-08-31,2025-12-31,NA,204,INTERVENTIONAL,"Elute, Inc.",INDUSTRY,True
+NCT04634383,A Phase I Feasibility Study of an Intracortical Visual Prosthesis (ICVP) for People With Blindness,UNKNOWN,2020-08-20,2023-08-31,NA,5,INTERVENTIONAL,Illinois Institute of Technology,OTHER,True
+NCT04627441,Transcutaneous and Epidural Stimulation in SCI,WITHDRAWN,2022-12-16,2025-12-16,NA,0,INTERVENTIONAL,"Kristin Zhao, PhD",OTHER,True
+NCT04015154,A Post-Market Clinical Evaluation of the Treatment of Femur Fractures With the Femoral Nail PF,ACTIVE_NOT_RECRUITING,2019-09-12,2026-05,,53,OBSERVATIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT03826186,CompuFlo Thoracic Epidural Study,COMPLETED,2019-03-26,2022-06-01,NA,120,INTERVENTIONAL,YATISH SIDDAPURA RANGANATH,OTHER,True
+NCT04929470,Safety and Performance of Ultra/Ultra 3D Cl With HiFocus SlimJ Electrode in Adults With Severe-to-profound Hearing Loss,ACTIVE_NOT_RECRUITING,2021-07-06,2026-05,,30,OBSERVATIONAL,Advanced Bionics AG,INDUSTRY,True
+NCT04483089,An Observational Real-world Study Evaluating Severe Tricuspid Regurgitation Patients Treated with the Abbott TriClip™ Device (bRIGHT),ACTIVE_NOT_RECRUITING,2020-08-27,2028-01,,511,OBSERVATIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT07011420,Effects of Myoelectric Channel Count and Targeting for Upper Limb Prosthetic Control,RECRUITING,2025-10,2026-06,NA,32,INTERVENTIONAL,"Liberating Technologies, Inc.",INDUSTRY,True
+NCT04528680,Ultrasound-based Blood-brain Barrier Opening and Albumin-bound Paclitaxel and Carboplatin for Recurrent Glioblastoma,ACTIVE_NOT_RECRUITING,2020-10-29,2025-11-30,"PHASE1, PHASE2",57,INTERVENTIONAL,Northwestern University,OTHER,True
+NCT06029959,Stroke and CPAP Outcome Study 3,COMPLETED,2023-10-01,2025-01-01,NA,36,INTERVENTIONAL,University of Washington,OTHER,True
+NCT05035823,COMMAND Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis,ACTIVE_NOT_RECRUITING,2022-04-27,2026-09,NA,6,INTERVENTIONAL,"Synchron Medical, Inc.",INDUSTRY,True
+NCT02625324,Valiant Evo International Clinical Trial,COMPLETED,2016-04,2023-03-02,NA,100,INTERVENTIONAL,Medtronic Cardiovascular,INDUSTRY,True
+NCT04514627,Neuromodulation With Percutaneous Electrical Nerve Field Stimulation for Adults With COVID-19,COMPLETED,2020-07-13,2022-03-22,NA,55,INTERVENTIONAL,Olive View-UCLA Education & Research Institute,OTHER,True
+NCT02843945,Initial Feasibility Study to Treat Borderline Resectable Pancreatic Cancer With a Planar LDR Source,RECRUITING,2017-05-31,2028-10-30,"PHASE1, PHASE2",80,INTERVENTIONAL,CivaTech Oncology,INDUSTRY,True
+NCT05936619,"MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",RECRUITING,2026-02-20,2031-09-01,NA,2,INTERVENTIONAL,Nader Pouratian,OTHER,True
+NCT03616028,The CONFORMAL Early Feasibility Study,ACTIVE_NOT_RECRUITING,2019-02-22,2028-06,NA,64,INTERVENTIONAL,"Conformal Medical, Inc",INDUSTRY,True
+NCT06526195,Trial to Evaluate Safety And Effectiveness of Mechanical Circulatory Support in Patients With Advancing Heart Failure,RECRUITING,2024-12-13,2032-09,NA,850,INTERVENTIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT04056741,Administration of Surfactant Through an Instillation Device Infasurf® (Calfactant) in Neonates- A Pilot Study,SUSPENDED,2025-02-07,2026-03-12,PHASE2,55,INTERVENTIONAL,ONY,INDUSTRY,True
+NCT04066374,Feasibility Study for Intrathoracic Nerve Stimulation,COMPLETED,2019-08-13,2024-06-11,NA,10,INTERVENTIONAL,The Cleveland Clinic,OTHER,True
+NCT07065760,"University of Utah PS-IDE: Physician Modified Endovascular Grafts for the Treatment of Elective, Symptomatic or Ruptured Juxtarenal Aortic Aneurysms",NOT_YET_RECRUITING,2025-08-01,2032-08-01,NA,15,INTERVENTIONAL,Cali Johnson,OTHER,True
+NCT06027996,Melodi Matrix™ in Breast Reconstruction,RECRUITING,2024-08-09,2028-06,NA,702,INTERVENTIONAL,"Melodi Health, Inc.",INDUSTRY,True
+NCT04758624,Elucidating the Temporality of Structural and Functional Connectivity Changes in Essential Tremor After Successful Deep Brain Stimulation to the Dentato-rubro-thalamic Tract,RECRUITING,2021-12-04,2026-08-31,NA,72,INTERVENTIONAL,Northwell Health,OTHER,True
+NCT04331769,Clinical Evaluation of the AccuCinch® Ventricular Restoration System in Patients Who Present With Symptomatic Heart Failure With Reduced Ejection Fraction (HFrEF): The CORCINCH-HF Study,RECRUITING,2020-12-21,2030-12-21,NA,400,INTERVENTIONAL,"Ancora Heart, Inc.",INDUSTRY,True
+NCT03227627,Outcomes of Using LNMES on Tracheostomized Children,WITHDRAWN,2017-05-01,2020-05-01,NA,0,INTERVENTIONAL,Children's Hospital Los Angeles,OTHER,True
+NCT04100720,Early Feasibility Study of the Cardiovalve System for Tricuspid Regurgitation,WITHDRAWN,2024-02,2030-12,NA,0,INTERVENTIONAL,Boston Biomedical Associates,OTHER,True
+NCT07084142,Developing a Digital Aid to Improve ICD Decisions,RECRUITING,2025-08,2026-06,NA,600,INTERVENTIONAL,Stanford University,OTHER,True
+NCT07113288,Inspire UAS High Apnea Hypopnea Index (AHI)/High Body Mass Index (BMI) Post-Approval Study,RECRUITING,2025-07-31,2032-01-01,,70,OBSERVATIONAL,"Inspire Medical Systems, Inc.",INDUSTRY,True
+NCT04949854,Evaluating the Role of the Guidewire in Peripheral Intravenous Access,WITHDRAWN,2023-12,2023-12,NA,0,INTERVENTIONAL,Corewell Health East,OTHER,True
+NCT05393622,Brain Stimulation for Severe Depression,UNKNOWN,2022-07-28,2025-12,NA,20,INTERVENTIONAL,Inner Cosmos Inc,INDUSTRY,True
+NCT03993886,A Study AnalyZing a NovEl Wearable SeNsor for Remote PatIent Health Monitoring,COMPLETED,2019-01-17,2020-07-14,NA,80,INTERVENTIONAL,ReThink Medical,INDUSTRY,True
+NCT07105436,Thopaz for PALs Evaluation,RECRUITING,2026-01-01,2026-09,,20,OBSERVATIONAL,Kai Swenson,OTHER,True
+NCT02489539,Assessment of the GORE® EXCLUDER® Conformable AAA Endoprosthesis in the Treatment of Abdominal Aortic Aneurysms,ACTIVE_NOT_RECRUITING,2017-12-19,2027-12-31,NA,175,INTERVENTIONAL,W.L.Gore & Associates,INDUSTRY,True
+NCT03421665,Evaluation of the Titan 3-D™ Wedge System,WITHDRAWN,2018-06-15,2022-09-01,,0,OBSERVATIONAL,Paragon 28,INDUSTRY,True
+NCT03361007,Polish Registry of Common Carotid Artery Access for TAVI,UNKNOWN,2018-01-01,2024-05-30,,200,OBSERVATIONAL,Medical University of Warsaw,OTHER,True
+NCT05019664,Affixus Natural Nail System Humeral Nail PMCF,RECRUITING,2022-08-29,2027-08,,100,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT05317728,Clinical Study of a Fluid Accommodating Intraocular Lens (IOL) Design,ACTIVE_NOT_RECRUITING,2023-03-31,2026-12,NA,175,INTERVENTIONAL,Alcon Research,INDUSTRY,True
+NCT05348928,A Pilot Study of the Feasibility and Accuracy of the TrueVie CGM System - A Non-Significant Risk Study,COMPLETED,2022-05-04,2022-06-16,,16,OBSERVATIONAL,Sinocare Meditech Inc.,INDUSTRY,True
+NCT06204900,A Post-marketing Study to Evaluate a Novel Surgical Monitoring Technique Using the EARP Nerve Cuff in TLIF Surgery.,RECRUITING,2024-06-07,2025-07,NA,30,INTERVENTIONAL,"Retropsoas Technologies, LLC",INDUSTRY,True
+NCT05415592,A Study of Participants Undergoing Radial Head Replacement Using the DePuy Synthes Radial Head Replacement System for Partial Replacement of the Elbow Joint,WITHDRAWN,2023-03-31,2030-03-31,,0,OBSERVATIONAL,"DePuy Synthes Products, Inc.",INDUSTRY,True
+NCT04671771,A Study to Evaluate the Safety and Effectiveness of the InnAVasc Arteriovenous Graft for Hemodialysis Access in Patients With End-Stage Renal Disease,RECRUITING,2020-12-03,2029-07-01,NA,133,INTERVENTIONAL,W.L.Gore & Associates,INDUSTRY,True
+NCT07209098,Propensity-Matched Study of Cardiac Contractility Modulation Therapy in Heart Failure,RECRUITING,2025-11-18,2031-04,,4200,OBSERVATIONAL,Impulse Dynamics,INDUSTRY,True
+NCT04818593,A Sibling Oocyte Study- Comparison of ZyMotTM Microfluidics Device to Density Gradient for Sperm Selection During ICSI,COMPLETED,2021-06-18,2021-11-29,NA,108,INTERVENTIONAL,NYU Langone Health,OTHER,True
+NCT03873714,Pipeline™ Vantage Embolization Device With Shield Technology™ for Wide-Necked Intracranial Aneurysms (ADVANCE),TERMINATED,2020-04-02,2023-09-18,NA,14,INTERVENTIONAL,Medtronic Neurovascular Clinical Affairs,INDUSTRY,True
+NCT03596671,BlueWind RENOVA iStim™ System for the Treatment of OAB,COMPLETED,2019-06-12,2025-01-24,NA,282,INTERVENTIONAL,BlueWind Medical,INDUSTRY,True
+NCT05344417,Low Pressure Pneumoperitoneum and Postoperative Ileus,RECRUITING,2024-03-06,2027-07-31,NA,125,INTERVENTIONAL,Ohio State University,OTHER,True
+NCT07070089,BosSTENT Implantation to Treat Pulse-Synchronous Tinnitus,NOT_YET_RECRUITING,2026-01,2028-01,NA,90,INTERVENTIONAL,"Sonorous NV, Inc",INDUSTRY,True
+NCT03865576,Validation of Non-Invasive Intracranial Pressure (ICP) Monitoring Device,UNKNOWN,2019-03-01,2019-10-31,,80,OBSERVATIONAL,Boston Neurosciences,INDUSTRY,True
+NCT07217691,Optimization of Commissural Alignment During Transcatheter Aortic Valve Implantation With Evolut FX+,NOT_YET_RECRUITING,2025-11-01,2026-05-01,NA,40,INTERVENTIONAL,Oslo University Hospital,OTHER,True
+NCT06693115,Continuous Glucose Monitoring Using a New Subcutaneous Insulin Protocol for Mild to Moderate Diabetic Ketoacidosis,WITHDRAWN,2026-01,2026-05,NA,0,INTERVENTIONAL,HealthPartners Institute,OTHER,True
+NCT06823089,Early Feasibility Study of Cartilage Defect Repair,RECRUITING,2025-11-06,2031-10,NA,15,INTERVENTIONAL,"Cytex Therapeutics, Inc.",OTHER,True
+NCT07264868,Home Neuromodulation for Neurogenic Bladder Management in Spinal Cord Injury,NOT_YET_RECRUITING,2026-02-28,2028-09-01,NA,21,INTERVENTIONAL,"The University of Texas Health Science Center, Houston",OTHER,True
+NCT06661668,Laparoscopic Implantation of a Gastric Pacemaker in the Treatment of Gastroparesis,RECRUITING,2023-01-01,2026-12-31,,50,OBSERVATIONAL,Evangelic Hospital Kalk Cologne,OTHER,True
+NCT04561778,HIS-Purkinje Conduction System Pacing Optimized Trial of Cardiac Resynchronization Therapy,COMPLETED,2021-04-15,2023-09-30,NA,100,INTERVENTIONAL,Pugazhendhi Vijayaraman,OTHER,True
+NCT04261478,Endovascular Acute Stroke Intervention - Tandem OCclusion Trial,RECRUITING,2020-08-31,2027-03,NA,458,INTERVENTIONAL,Centre hospitalier de l'Université de Montréal (CHUM),OTHER,True
+NCT03400150,BioProtect Balloon Implant™ Balloon System Pivotal Study BP-007,COMPLETED,2018-01-03,2021-12-10,NA,222,INTERVENTIONAL,BioProtect,INDUSTRY,True
+NCT04705376,Cryotherapy Following Rotator Cuff Repair Surgery,WITHDRAWN,2021-01-01,2021-11-01,NA,0,INTERVENTIONAL,University Hospitals Cleveland Medical Center,OTHER,True
+NCT05504538,Coracoid Tunnel Widening After ACJ Tight Rope Fixation,COMPLETED,2016-07,2018-07-15,NA,23,INTERVENTIONAL,Cairo University,OTHER,True
+NCT06323980,INHANCE Stemless Reverse Shoulder IDE,RECRUITING,2025-03-04,2028-09-29,NA,168,INTERVENTIONAL,DePuy Orthopaedics,INDUSTRY,True
+NCT03473405,Air Barrier System for the Reduction of Airborne Colony Forming Units During Total Knee Arthroplasty,UNKNOWN,2019-02,2019-07,NA,40,INTERVENTIONAL,"Nimbic Systems, LLC",INDUSTRY,True
+NCT06646029,Pilot Study on The Effectiveness of Relative Motion Orthosis in Finger Motion,RECRUITING,2024-12-07,2028-12,NA,64,INTERVENTIONAL,NYU Langone Health,OTHER,True
+NCT03873207,Offloading Device for Post Surgical Foot Procedures,WITHDRAWN,2022-10-01,2022-10-01,NA,0,INTERVENTIONAL,"Jeffrey A. Gusenoff, MD",OTHER,True
+NCT01284283,2-Year Post-Approval Study to Investigate the Scandinavian Total Ankle Replacement System (STAR) Ankle Under Actual Conditions of Use,COMPLETED,2009-11,2021-03,NA,102,INTERVENTIONAL,"Encore Medical, L.P.",INDUSTRY,True
+NCT02251522,A Single Time-Point Study to Evaluate the ConforMIS iTotal® (CR) Knee Versus Off-the-Shelf,COMPLETED,2014-10,2016-12,,873,OBSERVATIONAL,Restor3D,INDUSTRY,True
+NCT07011888,Innovative Physiotherapy in Stroke Rehabilitation,NOT_YET_RECRUITING,2025-11-15,2026-01-30,NA,1,INTERVENTIONAL,Sevval Yesilkır,OTHER,True
+NCT05675046,Multicenter Prospective Trial of Office-based Carpal Tunnel Release With Ultrasound Guidance (ROBUST),COMPLETED,2023-02-16,2025-08-06,NA,149,INTERVENTIONAL,"Sonex Health, Inc.",INDUSTRY,True
+NCT04836936,Auriculotherapy in the Treatment of Pre-Operative Anxiety,RECRUITING,2021-04-13,2026-06-30,NA,60,INTERVENTIONAL,Jacques E. Chelly,OTHER,True
+NCT03390036,Study of Cingal for the Relief of Knee Osteoarthritis Compared to Triamcinolone Hexacetonide at 39 Weeks Follow up,COMPLETED,2017-12-07,2018-07-30,PHASE3,526,INTERVENTIONAL,"Anika Therapeutics, Inc.",INDUSTRY,True
+NCT03097744,Predictors of Early Success From Circumferential Compression STITCH Meniscal Repairs,COMPLETED,2017-02-01,2018-04-20,,23,OBSERVATIONAL,"Smith & Nephew, Inc.",INDUSTRY,True
+NCT03138798,Dental Support Device in the Second Stage of Labor,COMPLETED,2017-01-06,2017-11-07,NA,348,INTERVENTIONAL,Angela Bianco,OTHER,True
+NCT06529835,"A Comparison of NeuroSpan Bridge, NeuraGen Nerve Guide, and Nerve Autograft for Peripheral Nerve Repair",RECRUITING,2025-03-21,2028-08,NA,80,INTERVENTIONAL,Auxilium Biotechnologies,INDUSTRY,True
+NCT00456378,Study of the Safety and Effectiveness of DIAM™ Spinal Stabilization System Versus Conservative Care,TERMINATED,2006-12,2018-11-20,NA,311,INTERVENTIONAL,Medtronic Spinal and Biologics,INDUSTRY,True
+NCT03642639,A Study to Look at Performance of MICRUSFRAME and GALAXY Coils for the Treatment of Intracranial Aneurysms,COMPLETED,2018-08-23,2025-06-12,NA,809,INTERVENTIONAL,"Cerenovus, Part of DePuy Synthes Products, Inc.",INDUSTRY,True
+NCT04784156,Use of a Sustained Dynamic Compression Intramedullary Nail for Subtalar Arthrodesis,UNKNOWN,2021-06,2024-03,,60,OBSERVATIONAL,"MedShape, Inc",INDUSTRY,True
+NCT04568356,A Clinical Evaluation of COVID-19 Rapid Point of Care Antigen Tests,COMPLETED,2020-04-24,2020-09-24,NA,200,INTERVENTIONAL,"E25Bio, Inc.",INDUSTRY,True
+NCT06256640,Mandibular Advancement Device (MAD) in Pregnant Women With Obstructive Sleep Apnea (OSA),WITHDRAWN,2024-02-01,2025-02-01,NA,0,INTERVENTIONAL,Henry Ford Health System,OTHER,True
+NCT03194568,Vertebral Body Tethering Outcomes for Pediatric Idiopathic Scoliosis,COMPLETED,2017-07-12,2022-01-26,NA,20,INTERVENTIONAL,"Patrick Cahill, MD",OTHER,True
+NCT04978363,iWalk Hands Free Crutch,COMPLETED,2021-10-05,2022-01-27,NA,21,INTERVENTIONAL,University of Iowa,OTHER,True
+NCT04122248,M6-C Post Approval Study (PAS),ACTIVE_NOT_RECRUITING,2019-11-30,2026-06-30,,152,OBSERVATIONAL,Spinal Kinetics,INDUSTRY,True
+NCT04147559,Post Market Clinical Follow-Up Study for PROFEMUR® Preserve Classic Femoral Stem,ENROLLING_BY_INVITATION,2020-10-21,2033-11-01,,150,OBSERVATIONAL,MicroPort Orthopedics Inc.,INDUSTRY,True
+NCT04630262,ATTUNE Cementless FB Tibial Base Clinical Study,TERMINATED,2022-05-09,2023-03-31,NA,80,INTERVENTIONAL,DePuy Orthopaedics,INDUSTRY,True
+NCT06993090,Efficacy of Dorsal Kinesio Tape Application for Carpal Tunnel Syndrome in Esports Gamers: A Randomized Clinical Trial,COMPLETED,2025-01-22,2025-03-28,NA,11,INTERVENTIONAL,"University of Nevada, Las Vegas",OTHER,True
+NCT06513559,Anatomic Versus Reverse Shoulder Arthroplasty for Primary Glenohumeral Osteoarthritis,WITHDRAWN,2023-08-02,2024-10-30,NA,0,INTERVENTIONAL,University of Utah,OTHER,True
+NCT04636190,Triathlon All-Polyethylene Tibia Outcomes Study,ACTIVE_NOT_RECRUITING,2021-07-02,2033-10,NA,204,INTERVENTIONAL,Stryker Orthopaedics,INDUSTRY,True
+NCT04390425,Limb Occlusion Pressure Tourniquets to Decrease Pain After Surgery,ACTIVE_NOT_RECRUITING,2018-04-06,2026-12,NA,400,INTERVENTIONAL,The Methodist Hospital Research Institute,OTHER,True
+NCT06638138,Study of Artelon FLEXBAND® for Patients Undergoing Soft Tissue Reconstruction of the Anterior Talofibular Ligament (ATFL) to Treat Lateral Ankle Instability,ENROLLING_BY_INVITATION,2023-08-22,2027-06-23,NA,92,INTERVENTIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT02260921,Study to Evaluate the Iovera° Device for Temporary Relief From Knee Pain,COMPLETED,2014-10-20,2016-05-31,NA,180,INTERVENTIONAL,"Pacira Pharmaceuticals, Inc",INDUSTRY,True
+NCT04124978,Evaluation of Prefabricated Adjustable Thermoplastic Mandibular Advancement Devices for Obstructive Sleep Apnoea,COMPLETED,2017-07-21,2019-04-23,NA,32,INTERVENTIONAL,Singapore General Hospital,OTHER,True
+NCT05796908,Aptis PRUJ Prosthesis for the Treatment of Patients With Proximal Radial Ulna Joint Disorders.,RECRUITING,2024-04-12,2030-11,NA,84,INTERVENTIONAL,Aptis Medical,INDUSTRY,True
+NCT02383160,Scaphoid Non-union and Low-intensity Pulsed Ultrasound Trial,UNKNOWN,2014-09,2023-12-31,NA,154,INTERVENTIONAL,University of Calgary,OTHER,True
+NCT03061903,Closed Incision Negative Pressure Therapy vs Standard of Care,COMPLETED,2018-05-14,2022-03-07,NA,122,INTERVENTIONAL,Columbia University,OTHER,True
+NCT03152461,Evaluation of the Clinical Performance of the Quantra System With the Quantra Surgical Cartridge,COMPLETED,2017-05-23,2018-02-09,,302,OBSERVATIONAL,HemoSonics LLC,INDUSTRY,True
+NCT05678101,TENS for Relief of Postoperative Pain in Orthopedic Patients,ACTIVE_NOT_RECRUITING,2022-11-01,2025-12-30,NA,30,INTERVENTIONAL,Karolinska University Hospital,OTHER,True
+NCT05467072,PMCFU of an Annular Closure System,UNKNOWN,2023-09-27,2025-10,,250,OBSERVATIONAL,Intrinsic Therapeutics,INDUSTRY,True
+NCT04031209,G7 Dual Mobility System Used in Total Hip Arthroplasty for the Treatment of Femoral Neck Fracture,ACTIVE_NOT_RECRUITING,2020-01-01,2028-03,,275,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT04566874,SPIRA™-A 3D and HCT/p DBM vs. Medtronic Divergent™-L/Perimeter™ and Recombinant BMP-2,UNKNOWN,2020-07-13,2021-07,NA,100,INTERVENTIONAL,Camber Spine Technologies,INDUSTRY,True
+NCT03980964,Evaluation of NMES for Reducing Pain and Improving Functional Outcomes in Knee OA Patients,COMPLETED,2019-06-07,2021-04-16,NA,40,INTERVENTIONAL,"CyMedica Orthopedics, Inc",INDUSTRY,True
+NCT03438747,P-15L Bone Graft in Transforaminal Lumbar Interbody Fusion With Instrumentation,ACTIVE_NOT_RECRUITING,2018-04-24,2028-02-28,NA,290,INTERVENTIONAL,"CeraPedics, Inc",INDUSTRY,True
+NCT04980547,Evaluation of the Surgical Proficiency and Effectiveness of the Acumed Scapholunate Repair System in Primary Scapholunate Instability Among Canadians,UNKNOWN,2023-01,2025-09,PHASE1,50,INTERVENTIONAL,University of Calgary,OTHER,True
+NCT04835428,STAND - Study of the AGN1 LOEP SV Kit Compared to PMMA in Patients With Vertebral Compression Fractures,RECRUITING,2022-05-31,2027-12-31,NA,408,INTERVENTIONAL,"AgNovos Healthcare, LLC",INDUSTRY,True
+NCT01754363,Survivorship of Attune Primary Total Knee Prosthesis,ACTIVE_NOT_RECRUITING,2013-02-01,2030-02-01,NA,1542,INTERVENTIONAL,DePuy International,INDUSTRY,True
+NCT06071468,Registry of the Patient Experience for Carpal Tunnel Release,ACTIVE_NOT_RECRUITING,2024-01-26,2027-12-31,,2000,OBSERVATIONAL,"Sonex Health, Inc.",INDUSTRY,True
+NCT06089291,Persona IQ Cohort Study,ENROLLING_BY_INVITATION,2024-02-20,2027-12,,200,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT07286513,Persona SoluTion PPS Femur PMCF,NOT_YET_RECRUITING,2026-02-28,2037-12,,200,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT03860259,Auriculotherapy for Surgical Pain,COMPLETED,2020-01-24,2021-09-29,NA,50,INTERVENTIONAL,Jacques E. Chelly,OTHER,True
+NCT04537013,Clinical Study of Chondro-Gide® for Large Chondral Lesions in the Knee,TERMINATED,2020-08-26,2025-09-29,NA,82,INTERVENTIONAL,Geistlich Pharma AG,INDUSTRY,True
+NCT06513182,Do Wound Protectors Reduce Contamination in Total Shoulder Arthroplasty?,ACTIVE_NOT_RECRUITING,2024-06-21,2029-06,NA,100,INTERVENTIONAL,University of Utah,OTHER,True
+NCT04270968,Shock Wave Therapy On Cervical Pain Following Neck Dissection Surgery,COMPLETED,2018-11-03,2019-12-03,NA,46,INTERVENTIONAL,Qassim University,OTHER,True
+NCT05315297,Pulsed Electromagnetic Field (PEMF) Therapy in Thumb CMC Arthritis,COMPLETED,2023-06-20,2024-08-31,NA,61,INTERVENTIONAL,Stanford University,OTHER,True
+NCT05244187,Study to Evaluate the OrthoCor Active System for Pain Relief,COMPLETED,2022-11-07,2023-11-23,NA,120,INTERVENTIONAL,Caerus Corporation,INDUSTRY,True
+NCT03726554,Post-Market Study of Comprehensive Reverse Augmented Glenoid and Mini Humeral Tray in Total Shoulder Arthroplasty,ACTIVE_NOT_RECRUITING,2018-08-28,2030-02,NA,99,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT03908476,"PROLONG Prospective, Multi-center, Open-label, Post-market Study",COMPLETED,2019-04-16,2021-11-15,NA,118,INTERVENTIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT02610855,Effect of Treatment on Activity and Muscle Function in Pediatric Patients With Scoliosis,ENROLLING_BY_INVITATION,2015-11,2026-08,NA,200,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT04425603,Anthology Hip Replacement System - Orthopaedic Data Evolution Panel (ODEP) Surveillance Study,COMPLETED,2007-04-30,2021-11-08,,270,OBSERVATIONAL,Smith & Nephew Orthopaedics AG,INDUSTRY,True
+NCT05697939,3D Body Surface Modeling for Scoliosis Monitoring,RECRUITING,2020-08-26,2030-01-01,,13,OBSERVATIONAL,Stanford University,OTHER,True
+NCT05584553,"PMCF Study on the Safety, Performance and Clinical Benefits Data of the ToggleLoc™ 2.9mm and JuggerLoc™ in the Shoulder",COMPLETED,2022-12-02,2024-06-30,,214,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT05506878,Auriculo-Nerve Stimulation on Post-Operative Opioid Requirement,RECRUITING,2022-10-24,2026-09-30,NA,286,INTERVENTIONAL,Jacques E. Chelly,OTHER,True
+NCT04123600,Origin Stem and Logical Cup Post Market Clinical Follow-up,UNKNOWN,2019-11-19,2023-11-19,,200,OBSERVATIONAL,Signature Orthopaedics,INDUSTRY,True
+NCT05830721,Continuous Compartment Pressure Monitoring for Compartment Syndrome in VA-ECMO Patients,RECRUITING,2024-01-02,2027-12,NA,6,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT04803214,ReActiv8 Stimulation Therapy vs Optimal Medical Management: A Randomized Evaluation,COMPLETED,2021-07-14,2026-01-05,NA,203,INTERVENTIONAL,Mainstay Medical,INDUSTRY,True
+NCT04109638,Pulsed Electromagnetic Field (PEMF) Therapy for Post-operative Pain Following Orthopedic Surgery,RECRUITING,2021-02-01,2027-02,NA,76,INTERVENTIONAL,Stanford University,OTHER,True
+NCT03440632,Functional Electrical Stimulation During Walking in Cerebral Palsy,COMPLETED,2018-08-01,2021-09-30,NA,25,INTERVENTIONAL,Maastricht University Medical Center,OTHER,True
+NCT04875052,Vibration and Post-traumatic Osteoarthritis Risk Following ACL Injury,RECRUITING,2021-01-11,2026-08,NA,114,INTERVENTIONAL,"University of North Carolina, Chapel Hill",OTHER,True
+NCT07498166,Project Tendura: The Impact of Blood Flow Restriction Resistance Training (BFR-RT) in Patients With Achilles Tendon Rupture (ATR) Repair,ACTIVE_NOT_RECRUITING,2026-02-01,2027-02-01,NA,75,INTERVENTIONAL,Massachusetts General Hospital,OTHER,True
+NCT03576079,Effect of Laser Therapy Versus Anterior Re-positioning Splint in the Treatment of Disc Displacement With Reduction,COMPLETED,2015-09-01,2018-06-01,NA,30,INTERVENTIONAL,Cairo University,OTHER,True
+NCT05384093,Outcomes of Treatment Using the ERMI Shoulder Flexionater ®,RECRUITING,2019-06-25,2026-06-25,NA,210,INTERVENTIONAL,Foundation for Orthopaedic Research and Education,OTHER,True
+NCT04230616,Efficacy and Safety of NAVIO,RECRUITING,2021-02-01,2030-02,NA,180,INTERVENTIONAL,Sint-Trudo Hospital,OTHER,True
+NCT05615766,Assessment of a Robotic Exoskeleton for Upper Limb Rehabilitation,RECRUITING,2022-09-01,2026-03,NA,9,INTERVENTIONAL,University of Liverpool,OTHER,True
+NCT03489408,Post-Approval Prospective Study - Conventus CAGE™ PH for Use in Proximal Humerus Fracture Fixation,TERMINATED,2018-02-01,2020-02-17,,40,OBSERVATIONAL,"Conventus Orthopaedics, Inc.",INDUSTRY,True
+NCT05361980,Pediatric Orthopaedic Implant Safety & Efficacy,RECRUITING,2022-01-06,2029-12,,4000,OBSERVATIONAL,University of British Columbia,OTHER,True
+NCT02047955,Tornier Shoulder Outcomes Study to Examine Safety and Functional Outcomes in Shoulder Arthroplasty and Fracture Patients,TERMINATED,2014-03,2024-10-16,,7500,OBSERVATIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT03782675,Air Barrier System for the Reduction of Airborne Colony-forming Units During Total Shoulder Arthroplasty,UNKNOWN,2019-02,2019-07,NA,40,INTERVENTIONAL,"Nimbic Systems, LLC",INDUSTRY,True
+NCT05438719,MOTUS Total Joint Replacement Investigational Device Exemption Study,ACTIVE_NOT_RECRUITING,2022-06-23,2029-06-13,NA,158,INTERVENTIONAL,3Spine,INDUSTRY,True
+NCT05329129,"OssDsign® Spine Registry Study (""Propel"")",RECRUITING,2022-03-23,2027-04-01,,450,OBSERVATIONAL,OssDsign,INDUSTRY,True
+NCT05405218,Trial of Ultrasound Guided Carpal Tunnel Release Versus Traditional Open Release (TUTOR),COMPLETED,2022-08-08,2024-03-30,NA,122,INTERVENTIONAL,"Sonex Health, Inc.",INDUSTRY,True
+NCT03327220,Treatment With Iovera° for Total Knee Arthroplasty (TKA) Post-Operative Pain,COMPLETED,2017-11-06,2019-03-27,NA,124,INTERVENTIONAL,"Pacira Pharmaceuticals, Inc",INDUSTRY,True
+NCT07298460,Stimulation-based Therapy to Improve Balance in DCM,NOT_YET_RECRUITING,2026-07-01,2028-07-01,"PHASE1, PHASE2",45,INTERVENTIONAL,Medical College of Wisconsin,OTHER,True
+NCT05986617,Wearable Bioimpedance Analyzer for Tracking Body Composition Changes,TERMINATED,2023-07-14,2024-10-08,NA,60,INTERVENTIONAL,University of Iowa,OTHER,True
+NCT04995601,Wearable Technology to Reduce Risk of DVT and Increase Patient Compliance,COMPLETED,2022-04-01,2023-03-31,NA,106,INTERVENTIONAL,Recovery Force LLC,INDUSTRY,True
+NCT07287969,The Safety of Reusing Walking Boot Components for Patients Recovering From Acute Foot and Ankle Injuries,ENROLLING_BY_INVITATION,2024-09-25,2026-09,NA,60,INTERVENTIONAL,University of Utah,OTHER,True
+NCT06664827,Blood Flow Restriction (BFR) Training on the Ulnar Collateral Ligament (UCL),RECRUITING,2025-01-16,2028-11,NA,50,INTERVENTIONAL,The Methodist Hospital Research Institute,OTHER,True
+NCT03555266,NSS-2 BRIDGE Device in Post-Operative Pain Management,COMPLETED,2018-10-23,2021-06-30,NA,65,INTERVENTIONAL,Jacques E. Chelly,OTHER,True
+NCT03270982,Comprehensive Segmental Revision System,ACTIVE_NOT_RECRUITING,2016-04,2035-12,,105,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT03628378,Orthosensor vs Conventional Total Knee Arthroplasty,COMPLETED,2017-12-20,2022-06-22,NA,130,INTERVENTIONAL,Columbia University,OTHER,True
+NCT03711175,The Influence of Repairing the Sub-scapularis on Outcomes After Reverse Arthroplasty,ENROLLING_BY_INVITATION,2018-09-28,2028-12-31,NA,200,INTERVENTIONAL,"Encore Medical, L.P.",INDUSTRY,True
+NCT07118501,"A Prospective, Post-Market, Clinical Follow-up Study of the Incompass™ Total Ankle System",RECRUITING,2026-02-06,2038-09-01,,200,OBSERVATIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT05740176,The Synergy Disc for the Treatment of 2 Level Cervical Degenerative Disc Disease Compared With Cervical Fusion Surgery,ACTIVE_NOT_RECRUITING,2023-06-01,2026-12,NA,200,INTERVENTIONAL,Synergy Spine Solutions,INDUSTRY,True
+NCT02067819,Proof of Concept Study of an Oral Orthotic to Reduce Tic Severity in Chronic Tic Disorder and Tourette Syndrome,COMPLETED,2014-03,2021-05,NA,21,INTERVENTIONAL,Weill Medical College of Cornell University,OTHER,True
+NCT07212036,The Utilization of Ultrasound to Diagnose Pediatric Elbow Fractures,RECRUITING,2025-07-22,2027-09-02,NA,225,INTERVENTIONAL,Nemours Children's Clinic,OTHER,True
+NCT07237737,Alexis Retractor in Total Hip Arthroplasty,NOT_YET_RECRUITING,2026-12,2028-01,NA,202,INTERVENTIONAL,University of Miami,OTHER,True
+NCT03642444,Replacing Canes With an Elasticated Orthosis in Chronic Stroke Patients: The Influence on Gait and Balance. A Series of N-of-1 Trials,COMPLETED,2014-01-08,2015-01-30,NA,4,INTERVENTIONAL,Technical University of Bern,OTHER,True
+NCT04208048,FLXfitTM 15 TLIF Interbody Fusion Device,COMPLETED,2018-10-15,2022-08-22,,31,OBSERVATIONAL,Rush University Medical Center,OTHER,True
+NCT07171346,Post Operative Use of Neuromuscular Electrical Stimulation (NMES) Device for ACLR Patients,ENROLLING_BY_INVITATION,2026-02-10,2028-06,NA,25,INTERVENTIONAL,University of Kansas Medical Center,OTHER,True
+NCT06627673,MultiCenter IDE Study of the PEEK-OPTIMA™ Femoral Component vs a CoCr Alloy TKA Femoral Component of Similar Design,NOT_YET_RECRUITING,2025-01-01,2028-03-01,NA,200,INTERVENTIONAL,Maxx Orthopedics Inc,INDUSTRY,True
+NCT04002518,MDR - Biomet Cannulated Screws,ACTIVE_NOT_RECRUITING,2019-08-07,2026-12,,51,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT06451120,Platelet Rich Plasma Injections In Young And Old Human Subjects,RECRUITING,2024-06-01,2027-02-16,PHASE2,60,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT03162666,Patient Outcomes Using an Expandable Spacer,WITHDRAWN,2017-02-28,2020-11-06,,0,OBSERVATIONAL,Globus Medical Inc,INDUSTRY,True
+NCT04469231,The Synergy Disc To Anterior Cervical Discectomy and Fusion,ACTIVE_NOT_RECRUITING,2020-10-30,2026-01-01,NA,175,INTERVENTIONAL,Synergy Spine Solutions,INDUSTRY,True
+NCT05856370,The Ailliance Post-Market Clinical Study,RECRUITING,2023-05-01,2031-05,NA,1000,INTERVENTIONAL,Medtronic Spinal and Biologics,INDUSTRY,True
+NCT06948591,BioBrace® Augmentation in Anterior Cruciate Ligament Reconstruction Procedures,RECRUITING,2025-04-08,2030-06,,500,OBSERVATIONAL,CONMED Corporation,INDUSTRY,True
+NCT05666479,CGM Monitoring in T2DM Patients Undergoing Orthopaedic Replacement Surgery,ACTIVE_NOT_RECRUITING,2022-09-09,2024-09,,32,OBSERVATIONAL,Stony Brook University,OTHER,True
+NCT04275973,Evaluating Mobility Interventions in the Real World,COMPLETED,2021-09-03,2024-08-01,NA,20,INTERVENTIONAL,"University of Wisconsin, Madison",OTHER,True
+NCT04801680,Mpact 3D Metal Cup PMS,RECRUITING,2019-11-07,2032-12-07,,500,OBSERVATIONAL,Medacta International SA,INDUSTRY,True
+NCT07020312,Brain-Computer Interface Visualization Training to Optimize Muscle Activation Following Orthopaedic Surgery,RECRUITING,2025-08-14,2028-08,PHASE2,240,INTERVENTIONAL,Rush University Medical Center,OTHER,True
+NCT05011084,Combined Cryotherapy With Compression Versus Cryotherapy Alone After Orthopaedic Surgery,ACTIVE_NOT_RECRUITING,2020-11-02,2026-07-28,NA,348,INTERVENTIONAL,Walter Reed National Military Medical Center,FED,True
+NCT06772506,Minimally Invasive Non-surgical Therapy for the Treatment of Splinted Stage IV Periodontitis,COMPLETED,2022-08-11,2024-11-30,NA,40,INTERVENTIONAL,Minia University,OTHER,True
+NCT07336264,Characterization of Acute Pain,RECRUITING,2025-12-02,2028-06-02,,100,OBSERVATIONAL,Children's National Research Institute,OTHER,True
+NCT06700109,INJECTABLE COLD ENERGY THERAPY FOR THE MANAGEMENT OF CHRONIC PAIN ASSOCIATED WITH OSTEOARTHRITIS OF THE KNEE,ACTIVE_NOT_RECRUITING,2024-11-19,2027-02-01,NA,263,INTERVENTIONAL,"Brixton Biosciences, Inc.",INDUSTRY,True
+NCT03163017,Assessment of Ability of 3D Fluorscopy in Aiding Accurate Syndesmotic Reduction Following Traumatic Ankle Injury,COMPLETED,2017-03-01,2018-09-11,NA,30,INTERVENTIONAL,"The University of Texas Health Science Center, Houston",OTHER,True
+NCT05329584,InSpace Accelerated Rehabilitation Study,RECRUITING,2022-02-07,2026-12,NA,160,INTERVENTIONAL,Stryker Endoscopy,INDUSTRY,True
+NCT03184545,Comparing the Outcome of Electrical Stimulation and Physical Therapy in Patellofemoral Pain Syndrome,RECRUITING,2017-07-24,2027-06,PHASE3,92,INTERVENTIONAL,Northwell Health,OTHER,True
+NCT05980234,MDR - Longevity IT Oblique and Offset Liners,TERMINATED,2023-08-30,2024-11-07,,6,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT03142958,Clinical Evaluation of Integra® Cadence™ Total Ankle System in Primary Ankle Joint Replacement (CADENCE),SUSPENDED,2017-08-24,2025-04-30,,132,OBSERVATIONAL,"Smith & Nephew, Inc.",INDUSTRY,True
+NCT07455474,Clinical Research Study of the Benefits of BREG Polar Care Wave to Reduce Opioid Use by Patients Having Undergone Arthroscopic Rotator Cuff Repair Shoulder Surgery,COMPLETED,2023-10-01,2026-03-03,NA,50,INTERVENTIONAL,"University of Nevada, Reno",OTHER,True
+NCT01473134,Safety and Efficacy of the Oxford Cementless Partial Knee System,COMPLETED,2011-12,2021-11-30,NA,320,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT04594993,INFINITY™ With ADAPTIS™ Technology Study,ACTIVE_NOT_RECRUITING,2021-02-09,2035-11,,200,OBSERVATIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT03379168,Efficacy of Micro-fragmented Adipose Tissue Injection for Knee Osteoarthritis.,COMPLETED,2018-04-01,2023-10-01,NA,75,INTERVENTIONAL,"Dustin L. Richter, MD",OTHER,True
+NCT04893824,Grappler® Interference Screw Post-Market Clinical Follow-Up Study,COMPLETED,2021-04-19,2022-03-25,,50,OBSERVATIONAL,Paragon 28,INDUSTRY,True
+NCT06501859,Rehabilitation With the Shoulder Pacemaker,ENROLLING_BY_INVITATION,2023-08-02,2027-07,NA,100,INTERVENTIONAL,University of Utah,OTHER,True
+NCT06565468,The Effect of Cold Water Immersion on Recovery and Performance in NCAA Division I Athletes,COMPLETED,2024-09-15,2025-06-30,NA,75,INTERVENTIONAL,"University of California, Los Angeles",OTHER,True
+NCT01005940,Dental Device for Treatment of Sleep Apnea,COMPLETED,2010-01,2014-12,NA,20,INTERVENTIONAL,Ulysses Magalang MD,OTHER,True
+NCT03683017,OrthoPulse 2.0 and 2.1 Feasibility Evaluation,UNKNOWN,2017-12-22,2020-06,NA,35,INTERVENTIONAL,"Biolux Research Holdings, Inc.",INDUSTRY,True
+NCT05505513,Can an Array of Micro-electrodes Implanted in a Human Nerve Record Neural Signals and Provide Feedback?,RECRUITING,2020-12-21,2026-12,NA,3,INTERVENTIONAL,University of Utah,OTHER,True
+NCT03135145,Post-operative Lite Run Study,COMPLETED,2017-05-15,2019-09-15,NA,10,INTERVENTIONAL,Gillette Children's Specialty Healthcare,OTHER,True
+NCT03604029,Evaluating the Diagnostic Performance of ACS Using NIRS in Traumatized Lower Extremities,UNKNOWN,2019-01-07,2022-02-28,,300,OBSERVATIONAL,"Nonin Medical, Inc",INDUSTRY,True
+NCT04770870,Post Approval Study2: Hintermann Series H3 Total Ankle Replacement System,RECRUITING,2022-02-01,2029-04,NA,232,INTERVENTIONAL,"DT MedTech, LLC",INDUSTRY,True
+NCT02525562,"Stryker NTX Registry Scorpio NRG (Re-""Energize""), Triathlon Total Knee, Triathlon Partial Knee Resurfacing (PKR) With X3 Polyethylene Insert",TERMINATED,2012-06-28,2020-05-28,NA,237,INTERVENTIONAL,Stryker Orthopaedics,INDUSTRY,True
+NCT03286868,Balancing Kinematically Aligned Total Knee Replacements During Total Primary Knee Arthroplasty Using Verasense,RECRUITING,2018-07-23,2026-09,NA,60,INTERVENTIONAL,Nova Scotia Health Authority,OTHER,True
+NCT04731077,Avenir Complete Post-Market Clinical Follow-Up Study,ACTIVE_NOT_RECRUITING,2021-09-27,2036-06-01,NA,275,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT04796935,A Study to Test Performance of Needle Placements for Neuraxial Procedures Using Tactile Imaging vs Control,COMPLETED,2021-04-04,2021-11-24,NA,95,INTERVENTIONAL,"IntuiTap Medical, Inc",INDUSTRY,True
+NCT06458816,Non-Invasive Distractor During Knee Arthroscopy,NOT_YET_RECRUITING,2024-06,2025-01,NA,14,INTERVENTIONAL,The Taylor Collaboration,OTHER,True
+NCT03800927,Long-Duration Ultrasound for Knee Osteoarthritis,COMPLETED,2017-01-01,2019-06-01,NA,100,INTERVENTIONAL,"ZetrOZ, Inc.",INDUSTRY,True
+NCT04821154,Persona Revision Knee System Outcomes,RECRUITING,2021-06-14,2027-12-31,,380,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT05548972,G7 Dual Mobility With Vivacit-E or Longevity PMCF,ENROLLING_BY_INVITATION,2023-03-20,2037-08,NA,358,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT04128670,Effects of Kinesio Tape on Delayed Onset Muscle Soreness,RECRUITING,2020-01-30,2026-05-30,NA,36,INTERVENTIONAL,Indiana University,OTHER,True
+NCT05356637,Bipolar Sealer for Reduction of Blood Loss in Anterior Total Hip Arthroplasties,UNKNOWN,2022-04-29,2024-02-01,NA,75,INTERVENTIONAL,"North Texas Medical Research Institute, PLLC",OTHER,True
+NCT03382483,"Observational, Non-interventional Use of LIPUS to Mitigate Fracture Non-union in Patients at Risk",COMPLETED,2017-10-16,2022-05-01,,12387,OBSERVATIONAL,Bioventus LLC,INDUSTRY,True
+NCT03061279,Clinical Trial Evaluating Acutrak Headless Compression Screw Fixation of Medial Malleolus Fractures,TERMINATED,2017-04-01,2017-10-26,NA,1,INTERVENTIONAL,Stanford University,OTHER,True
+NCT04015167,A Post-Market Clinical Evaluation of the Treatment of Tibia Fractures With the T2 Alpha Tibia Nailing System,COMPLETED,2019-09-12,2023-08-08,,103,OBSERVATIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT05487677,Subscapularis Repair Augmentation for Total Shoulder Arthroplasty,RECRUITING,2023-12-01,2028-12-01,NA,100,INTERVENTIONAL,Stanford University,OTHER,True
+NCT04341948,Treatment of Post-Operative Pain Following Orthopedic Surgery With SPRINT® Peripheral Nerve Stimulation (PNS) System,COMPLETED,2020-08-06,2024-06-27,NA,56,INTERVENTIONAL,"SPR Therapeutics, Inc.",INDUSTRY,True
+NCT06320925,SportsPro: Post-Market Clinical Follow Up Study,RECRUITING,2023-12-05,2026-12-01,,1500,OBSERVATIONAL,Stryker Endoscopy,INDUSTRY,True
+NCT06259409,Regenn® Therapy System Safety Study,RECRUITING,2024-10-09,2026-06,PHASE1,30,INTERVENTIONAL,"Progenerative Medical, Inc",INDUSTRY,True
+NCT07107581,Exactech Knee Systems Post Market Clinical Follow-up,ENROLLING_BY_INVITATION,2023-12-01,2036-01,,1879,OBSERVATIONAL,Exactech,INDUSTRY,True
+NCT03877653,Freedom-1 Study for Chronic Knee Pain,RECRUITING,2021-09-01,2027-06,NA,100,INTERVENTIONAL,Curonix LLC,INDUSTRY,True
+NCT07391592,Post Market Clinical Follow-Up Study for EVOLUTION® NitrX™ Keeled Tibia and EVOLUTION® NitrX™ CS/CR Femur With Cruciate Sacrificing Insert,ACTIVE_NOT_RECRUITING,2025-08-18,2032-12-31,,100,OBSERVATIONAL,MicroPort Orthopedics Inc.,INDUSTRY,True
+NCT04781621,Foundational Ingredients of Robotic Gait Training for People with Spinal Cord Injury During Inpatient Therapy,COMPLETED,2021-04-12,2024-03-08,NA,115,INTERVENTIONAL,Baylor Research Institute,OTHER,True
+NCT05523349,An Investigation on Function and Performance of a New Microprocessor Controlled Prosthetic Knee,COMPLETED,2022-08-15,2022-09-30,NA,14,INTERVENTIONAL,Össur Iceland ehf,INDUSTRY,True
+NCT01307384,Zimmer Continuum Metal on Polyethylene (MoP) PostMarket Clinical Followup (PMCF) Study,ACTIVE_NOT_RECRUITING,2011-03-29,2027-12,,165,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT06108934,"A Prospective, Pre-market, Multi-center Study of Insignia Hip Stem in THA to Determine Implant Survivorship and PROMS.",RECRUITING,2024-02-22,2028-12,NA,313,INTERVENTIONAL,Stryker Australia Pty Ltd.,INDUSTRY,True
+NCT07132307,Reducing Obstructive Sleep Apnea After Hypoglossal Nerve Stimulation Through Mandibular Advancement,RECRUITING,2025-07-29,2027-02-01,NA,30,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT01117571,Multi-Center Study to Evaluate the ConforMIS iUni Knee Implant,TERMINATED,2010-04,2023-01-10,,120,OBSERVATIONAL,Restor3D,INDUSTRY,True
+NCT06142669,EVOLUTION® Revision STEMMED CS Post Market Clinical Follow-up Study Protocol,RECRUITING,2023-10-31,2036-12,,45,OBSERVATIONAL,MicroPort Orthopedics Inc.,INDUSTRY,True
+NCT05729542,Comparing Clinical Outcomes of Suture Button Versus Fibulink Fixation for Acute Ankle Syndesmosis Injuries,RECRUITING,2021-11-18,2027-12-31,NA,140,INTERVENTIONAL,"University of California, San Diego",OTHER,True
+NCT04816773,Post Market Clinical Follow-Up Study for EVOLUTION® NitrX™ Keeled Tibia and EVOLUTION® NitrX™ CS/CR Femur With Cruciate Sacrificing Insert,ENROLLING_BY_INVITATION,2022-01-27,2035-01,,150,OBSERVATIONAL,MicroPort Orthopedics Inc.,INDUSTRY,True
+NCT04643743,"A Retrospective, Observational, Multicentre, Study to Evaluate the Safety and Performance of POLYPATCH ® Vascular Patch",COMPLETED,2020-09-01,2022-06-10,,198,OBSERVATIONAL,Perouse Medical,INDUSTRY,True
+NCT04123808,IpsiHand System for Rehabilitation of the Arm and Hand After Stroke,WITHDRAWN,2019-12-02,2020-06-30,NA,0,INTERVENTIONAL,Columbia University,OTHER,True
+NCT06234878,REEV SENSE for Gait Analysis in Post-stroke Gait Impairment (SENS-AG),COMPLETED,2024-01-08,2025-04-01,NA,23,INTERVENTIONAL,REEV LLC,INDUSTRY,True
+NCT05069558,Comparing PFO Outcomes of the Occlutech Flex II PFO Occluder to Standard of Care PFO Occlusion,ACTIVE_NOT_RECRUITING,2022-05-09,2029-11,NA,450,INTERVENTIONAL,Occlutech International AB,INDUSTRY,True
+NCT04133168,Boston Scientific's Cryoballoon in the Treatment of Symptomatic Drug Refractory Paroxysmal Atrial Fibrillation,COMPLETED,2020-06-24,2023-08-17,NA,458,INTERVENTIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT04240574,Debritom - Micro Water Jet Technology and Wound Healing,TERMINATED,2020-01-24,2021-08-06,NA,2,INTERVENTIONAL,Stephanie Wu,OTHER,True
+NCT06335082,"A Registry Based Collaborative to Measure Efficiency, Effectiveness, and Safety of Farapulse PFA Technology for AF",ENROLLING_BY_INVITATION,2024-04-24,2027-01-30,,10000,OBSERVATIONAL,"Heart Rhythm Clinical and Research Solutions, LLC",OTHER,True
+NCT03342664,MIND: Artemis in the Removal of Intracerebral Hemorrhage,COMPLETED,2018-02-06,2024-09-23,NA,236,INTERVENTIONAL,Penumbra Inc.,INDUSTRY,True
+NCT04506684,Reveal LINQ Respiration Clinical Study,COMPLETED,2020-09-25,2021-07-31,,79,OBSERVATIONAL,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True
+NCT06582563,Evaluation of Clinical Ranges of Whole Blood Clotting Times of Patients on Anticoagulants,NOT_YET_RECRUITING,2025-03-01,2025-08-30,,120,OBSERVATIONAL,Perosphere Technologies Inc.,INDUSTRY,True
+NCT04618406,The Effect of Negative Pressure Wound Therapy on Wound Healing in Major Amputations of the Lower Limb,ACTIVE_NOT_RECRUITING,2021-11-01,2025-07,NA,160,INTERVENTIONAL,University of Southern Denmark,OTHER,True
+NCT06911632,Multi-site Study of the Clinical Impact of an AI-assisted Approach to Referring Patients With Interstitial Lung Disease for Diagnostic Evaluation of Pulmonary Hypertension,ACTIVE_NOT_RECRUITING,2025-07-23,2028-07,NA,1000,INTERVENTIONAL,Tempus AI,INDUSTRY,True
+NCT05318092,Evaluating the Safety and Efficacy of the AlphaVac Multipurpose Mechanical Aspiration (MMA) F1885 PE for Treatment of Acute Pulmonary Embolism,COMPLETED,2022-10-19,2024-01-04,NA,122,INTERVENTIONAL,"Angiodynamics, Inc.",INDUSTRY,True
+NCT05838872,Evaluation of the Accuracy and Usability of the Minuteful - Kidney Urine Analysis Test System in the Lay User Hands,COMPLETED,2021-12-09,2022-07-15,NA,216,INTERVENTIONAL,Healthy.io Ltd.,INDUSTRY,True
+NCT04149743,HEMOTAG® Assessment for Short-term Outcomes of Heart Failure,RECRUITING,2022-01-31,2024-12,NA,420,INTERVENTIONAL,"Aventusoft, LLC.",INDUSTRY,True
+NCT05071963,INSPIRE Pipeline™ Shield Post Approval Study,ACTIVE_NOT_RECRUITING,2021-12-20,2028-04,,246,OBSERVATIONAL,Medtronic Neurovascular Clinical Affairs,INDUSTRY,True
+NCT05905536,Perioperative Monitoring of Cardiac Surgery Patients With the Vitalstream Physiological Monitor,COMPLETED,2023-08-15,2024-07-30,NA,58,INTERVENTIONAL,Wake Forest University Health Sciences,OTHER,True
+NCT03864081,Non-invasive Point-of-care Diagnosis Using Machine Learning and Signal Analytics to Transform Early Detection of Heart Disease,UNKNOWN,2018-12-10,2022-07,NA,2500,INTERVENTIONAL,Analytics For Life,INDUSTRY,True
+NCT06029491,The Pivotal Study of RapidPulseTM Aspiration System,RECRUITING,2025-03-27,2027-04,NA,170,INTERVENTIONAL,"RapidPulse, Inc",INDUSTRY,True
+NCT04689620,Helium Neon Laser Versus Gallium Arsenide Laser,UNKNOWN,2020-12-26,2021-02,NA,60,INTERVENTIONAL,Mahmoud Awad Ramadan Elkholy,OTHER,True
+NCT05640323,Prospective Study to Validate the Clinical Accuracy of the Norbert Device to Measure Pulse Rate,COMPLETED,2023-04-26,2023-10-20,,37,OBSERVATIONAL,Norbert Health,INDUSTRY,True
+NCT05373862,"A Study Assessing Arrhythmia Mapping With a Globe-Shaped, High-Density, Multi-Electrode Mapping Catheter",COMPLETED,2022-07-29,2023-02-20,NA,40,INTERVENTIONAL,"Biosense Webster, Inc.",INDUSTRY,True
+NCT03070925,Prospective PuraPly™ AM Case Series Study,COMPLETED,2016-11,2017-05,,43,OBSERVATIONAL,Organogenesis,INDUSTRY,True
+NCT07226518,Walking and tSCS in Non-ambulatory Stroke Survivors,NOT_YET_RECRUITING,2026-01-01,2026-12-31,NA,20,INTERVENTIONAL,University of Kansas Medical Center,OTHER,True
+NCT03852420,"Boston Scientific's Single Shot LUMINIZE RF Balloon Catheter in the Treatment of Symptomatic, Drug Refractory Paroxysmal Atrial Fibrillation",WITHDRAWN,2021-01-31,2022-12-31,NA,0,INTERVENTIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT02718001,Edwards EVOQUE Eos MISCEND Study,ACTIVE_NOT_RECRUITING,2015-02-06,2033-04-30,NA,123,INTERVENTIONAL,Edwards Lifesciences,INDUSTRY,True
+NCT07284511,A Clinical Trial Using Tirzepatide to Help Adults With Type 1 Diabetes Automatically Control Their Blood Sugar,NOT_YET_RECRUITING,2026-01-05,2029-01,"PHASE2, PHASE3",105,INTERVENTIONAL,Melissa-Rosina Pasqua,OTHER,True
+NCT07225101,Evaluation of the Efficacy of STRATAFIX for Neurosurgical Cranial and Spine Procedures,RECRUITING,2025-11-01,2026-12-31,PHASE4,160,INTERVENTIONAL,University of Michigan,OTHER,True
+NCT02862600,Open-Label Study of Perhexiline in Patients With Hypertrophic Cardiomyopathy and Moderate to Severe Heart Failure,TERMINATED,2016-08-01,2017-05-22,PHASE2,35,INTERVENTIONAL,Heart Metabolics Limited,INDUSTRY,True
+NCT04074434,Study Watch Atrial Fibrillation (AF) Detection Investigation,COMPLETED,2018-11-12,2019-07-22,,160,OBSERVATIONAL,Verily Life Sciences LLC,INDUSTRY,True
+NCT05938127,Impact of Respiratory Training in Lymphoma Survivors,TERMINATED,2024-09-16,2024-12-09,NA,1,INTERVENTIONAL,"University of Colorado, Denver",OTHER,True
+NCT04436042,MyHand 2: An Active Hand Orthosis for Stroke Patients,RECRUITING,2020-03-06,2028-01,NA,25,INTERVENTIONAL,Columbia University,OTHER,True
+NCT00483951,Cardiovascular Disease Screening,TERMINATED,2008-01-28,2020-11-03,,1325,OBSERVATIONAL,"National Heart, Lung, and Blood Institute (NHLBI)",NIH,True
+NCT03875651,A Clinical Trial to Confirm Safety & Effectiveness of the SYNERGY 4.50 mm and 5.00 mm Stent for Treatment of Atherosclerotic Lesion(s),COMPLETED,2019-05-09,2023-11-28,,100,OBSERVATIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT06765642,The Effect of Non-invasive Brain Stimulation rTMS on Hand Muscles in Chronic Stroke Patients.,RECRUITING,2025-06-09,2027-04-30,NA,26,INTERVENTIONAL,Duke University,OTHER,True
+NCT04337554,Exoskeleton Footwear to Improve Walking,COMPLETED,2020-08-01,2025-09-30,,47,OBSERVATIONAL,VA Office of Research and Development,FED,True
+NCT05504070,Venclose digiRF System Post Market Study,ACTIVE_NOT_RECRUITING,2023-09-08,2027-06,NA,203,INTERVENTIONAL,C. R. Bard,INDUSTRY,True
+NCT06027788,CTSN Embolic Protection Trial,RECRUITING,2023-09-18,2027-04-01,NA,842,INTERVENTIONAL,Icahn School of Medicine at Mount Sinai,OTHER,True
+NCT05316337,Withings ECG-Monitor Study,COMPLETED,2022-07-15,2023-09-01,NA,650,INTERVENTIONAL,Withings,INDUSTRY,True
+NCT03041168,Evaluation of a Novel Technique to Investigate CAS Piezo Electric Sensors,TERMINATED,2017-01,2018-03-15,,414,OBSERVATIONAL,Thomas Jefferson University,OTHER,True
+NCT06644573,Evaluating the Efficacy and Safety of PROSOMNIA Sleep Therapy™ in Patients With Sleep Deprivation and Chronic Insomnia,NOT_YET_RECRUITING,2025-11-01,2026-05-01,PHASE1,100,INTERVENTIONAL,Nyree Penn,INDUSTRY,True
+NCT04746573,Effect of Natrox Oxygen Wound Therapy on Non-healing Wounds and Implication of Remote Monitoring and Telehealth for Management in the Home.,COMPLETED,2021-02-12,2022-05-15,,8,OBSERVATIONAL,Inotec AMD Limited,INDUSTRY,True
+NCT03997305,AltaValve Early Feasibility Study Protocol,UNKNOWN,2019-12-04,2025-09,NA,15,INTERVENTIONAL,"4C Medical Technologies, Inc.",INDUSTRY,True
+NCT06893588,Registry on NeVa VS for CerebraL VAsospasm ManagemenT in Post SAH PatiEnts,NOT_YET_RECRUITING,2025-04-14,2027-03-15,,200,OBSERVATIONAL,Vesalio,INDUSTRY,True
+NCT02532517,Study to Evaluate the Safety and Effectiveness of the CODMAN ENTERPRISE® Vascular Reconstruction Device,TERMINATED,2015-09-01,2019-09-21,NA,45,INTERVENTIONAL,"Cerenovus, Part of DePuy Synthes Products, Inc.",INDUSTRY,True
+NCT03203291,Reducing Asymmetry During Gait Using the TPAD (Tethered Pelvic Assist Device) for Stroke Patients,COMPLETED,2017-04-01,2018-05-01,NA,12,INTERVENTIONAL,Columbia University,OTHER,True
+NCT06078943,"ABL90 FP MC Neonatal Arterial, Venous, Capillary Blood",UNKNOWN,2023-03-17,2024-01-30,NA,612,INTERVENTIONAL,Radiometer Medical ApS,INDUSTRY,True
+NCT02460809,Home-based Non-invasive Brain Stimulation and Hand Tracking Rehabilitation for People With Chronic Stroke,COMPLETED,2017-01-01,2017-05-01,NA,6,INTERVENTIONAL,University of Minnesota,OTHER,True
+NCT07471308,P-wave Duration and Local Potential as Predictors of AF Recurrence Following Pulmonary Vein Isolation,NOT_YET_RECRUITING,2026-04,2026-08,,300,OBSERVATIONAL,CathVision ApS,INDUSTRY,True
+NCT03257189,"Evaluation of Performance, Usability, and Reliability of a Novel Device for Continuous Collection of Physiological Data",COMPLETED,2017-07-31,2017-08-30,NA,30,INTERVENTIONAL,MC10 Inc.,INDUSTRY,True
+NCT03364023,Post-Market Registry Of Stroke Patients Treated With Medtronic Neuro Thrombectomy Devices to Collect Real World Data in South East Asia,COMPLETED,2018-01-01,2019-07-02,,183,OBSERVATIONAL,Medtronic Neurovascular Clinical Affairs,INDUSTRY,True
+NCT06445608,PIvotal Trial of the KARDION Cory P4 MechANical Circulatory SupporT SystEm,RECRUITING,2024-09-03,2025-12,NA,310,INTERVENTIONAL,Kardion Inc,INDUSTRY,True
+NCT04100148,SyncAV Post-Market Trial,ACTIVE_NOT_RECRUITING,2019-10-03,2026-06-30,NA,1686,INTERVENTIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT07508670,An Observational Study of the NeuroBell EEG Monitor,COMPLETED,2024-09-02,2026-03-03,,17,OBSERVATIONAL,University College Cork,OTHER,True
+NCT03812653,Sleep for Stroke Management and Recovery Trial,ACTIVE_NOT_RECRUITING,2019-05-09,2026-11,NA,3062,INTERVENTIONAL,University of Michigan,OTHER,True
+NCT03226262,FFRangio Accuracy vs. Standard FFR,COMPLETED,2017-09-27,2018-06-08,,382,OBSERVATIONAL,CathWorks Ltd.,INDUSTRY,True
+NCT04518670,Success in Comaneci-assist Coils Embolization Surveillance Study (SUCCESS),COMPLETED,2020-11-24,2024-07-07,,90,OBSERVATIONAL,Rapid Medical,INDUSTRY,True
+NCT03113383,Visceral Manifold Study for the Repair of Thoracoabdominal Aortic Aneurysms,TERMINATED,2017-08-18,2021-10-06,NA,4,INTERVENTIONAL,Vanderbilt University Medical Center,OTHER,True
+NCT06955273,Multi-Centre Based Study Recognition of Atrial Fibrillation With the Corsano CardioWatch 287-2 System,NOT_YET_RECRUITING,2025-05-01,2026-01,,350,OBSERVATIONAL,Corsano Health B.V.,INDUSTRY,True
+NCT06576427,Selective Pulmonary-artery Intervention to Reduce Acute Right-heart tEnsion-II,COMPLETED,2024-10-15,2026-03-03,NA,123,INTERVENTIONAL,Jupiter Endovascular,INDUSTRY,True
+NCT03698149,ECoG BMI for Motor and Speech Control,RECRUITING,2018-11-09,2030-08-15,NA,3,INTERVENTIONAL,Karunesh Ganguly,OTHER,True
+NCT04911985,Viability of Pulsioflex Monitoring in ICU,COMPLETED,2015-07-01,2019-08-30,,42,OBSERVATIONAL,University of Zurich,OTHER,True
+NCT06150274,Comparison of Wire Assisted Percutaneous Balloon Mitral Valvulotomy With Standard Inoue Balloon Valvulotomy,COMPLETED,2024-05-24,2024-06-03,NA,20,INTERVENTIONAL,Helse Stavanger HF,OTHER_GOV,True
+NCT05003843,BOLT: Study of the Indigo® Aspiration System When Used in Patients With Deep Vein Thrombosis,ACTIVE_NOT_RECRUITING,2021-09-30,2027-02,NA,229,INTERVENTIONAL,Penumbra Inc.,INDUSTRY,True
+NCT04619355,Korean NIRS-IVUS Multicenter Registry,RECRUITING,2010-01-01,2027-05-01,,1500,OBSERVATIONAL,Korea University Anam Hospital,OTHER,True
+NCT03669458,Feasibility Clinical Trial Using the SPUR System to Demonstrate Safety and Efficacy.,COMPLETED,2017-10-06,2019-06-04,NA,21,INTERVENTIONAL,"ReFlow Medical, Inc.",INDUSTRY,True
+NCT03702608,BIONICS 38 mm Trial EluNIR Ridaforolimus Eluting Coronary Stent System (EluNIR) In Coronary Stenosis Trial,COMPLETED,2018-11-14,2020-04-30,NA,50,INTERVENTIONAL,Medinol Ltd.,INDUSTRY,True
+NCT03729817,REstoring Flow by REvascularization With Submaximal Angioplasty in Hemodynamic IntraCranial Atherosclerotic Stenosis,NOT_YET_RECRUITING,2027-10,2032-10-31,NA,159,INTERVENTIONAL,Case Western Reserve University,OTHER,True
+NCT05434650,Abbott Atrial Fibrillation Post Approval Study,ACTIVE_NOT_RECRUITING,2022-10-21,2026-11-30,,200,OBSERVATIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT04107298,Safety and Feasibility of Surmodics SUNDANCE™ Drug Coated Balloon,COMPLETED,2020-06-29,2024-01-30,NA,35,INTERVENTIONAL,"SurModics, Inc.",INDUSTRY,True
+NCT06222099,The HEARTFELT Study,RECRUITING,2025-10-23,2030-12-31,NA,1500,INTERVENTIONAL,Heartfelt Technologies,INDUSTRY,True
+NCT05603611,Implementation of the HELIOSTARTM in Real-world Clinical Practice at a High-volume Center,UNKNOWN,2021-10-26,2022-12-30,,40,OBSERVATIONAL,University Hospital Heidelberg,OTHER,True
+NCT04612244,The FARAPULSE ADVENT PIVOTAL Trial PFA System vs SOC Ablation for Paroxysmal Atrial Fibrillation,COMPLETED,2021-03-01,2023-05-15,NA,706,INTERVENTIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT01820182,Prospective Comparison of the Diagnostic Yield of Small Bowel Pillcam SB2 and Capsocam Capsule,COMPLETED,2011-01,2012-06,NA,73,INTERVENTIONAL,Hôpital Edouard Herriot,OTHER,True
+NCT03560167,Early Feasibility Study of the AccuCinch® Ventricular Restoration System in Patients With Prior Mitral Valve Intervention (PMVI) and Recurrent Mitral Regurgitation,COMPLETED,2018-09-24,2024-01-28,NA,5,INTERVENTIONAL,"Ancora Heart, Inc.",INDUSTRY,True
+NCT06053047,Remote Monitoring of the Diabetic Foot to Prevent Re-Ulceration,TERMINATED,2024-01-22,2024-09-18,NA,26,INTERVENTIONAL,Bluedrop Medical Limited,INDUSTRY,True
+NCT07258290,Safety and Clinical Performance of the Freesolve Resorbable Magnesium Scaffold (RMS) System in Subjects With Coronary Artery Lesions,NOT_YET_RECRUITING,2026-05,2033-06,NA,1859,INTERVENTIONAL,Teleflex,INDUSTRY,True
+NCT07220525,Disrupted Sleep and Concurrent Ectopy or Atrial Fibrillation,RECRUITING,2025-12-15,2027-06-01,NA,100,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT05916950,The THOR IDE Study,RECRUITING,2024-10-29,2027-12,NA,155,INTERVENTIONAL,Philips Clinical & Medical Affairs Global,INDUSTRY,True
+NCT04612868,Efficacy and Safety of AEYE-DS Software Device for Automated Detection of Diabetic Retinopathy From Digital Fundus Images,COMPLETED,2020-10-16,2021-12-26,NA,531,INTERVENTIONAL,AEYE Health Inc,INDUSTRY,True
+NCT04960319,Rotablation vs Intravascular Lithotripsy in Calcified Coronary Lesions,UNKNOWN,2022-01,2024-06,NA,100,INTERVENTIONAL,"Medical Care Center Prof. Mathey, Prof. Schofer, Ltd.",OTHER,True
+NCT02080871,A Study of the Gore VIABAHN BX for Treatment of Occlusive Disease in the Iliac Arteries.,COMPLETED,2014-07,2018-10,NA,134,INTERVENTIONAL,W.L.Gore & Associates,INDUSTRY,True
+NCT04088292,"Low Dose Thrombolysis, Ultrasound Assisted Thrombolysis or Heparin for Intermediate High Risk Pulmonary Embolism",ACTIVE_NOT_RECRUITING,2019-06-06,2024-11-30,PHASE3,210,INTERVENTIONAL,"Rigshospitalet, Denmark",OTHER,True
+NCT06700239,The STTAR-US Study: A Pivotal Study of Transcatheter Tricuspid Annular Repair in the US,NOT_YET_RECRUITING,2025-12-31,2032-12,NA,600,INTERVENTIONAL,Micro Interventional Devices,INDUSTRY,True
+NCT01221207,Instant Total Contact Cast to Heal Diabetic Foot Ulcers,COMPLETED,2010-10,2012-10,NA,225,INTERVENTIONAL,University of Texas Southwestern Medical Center,OTHER,True
+NCT03318341,TheraBracelet Phase I,COMPLETED,2018-01-09,2018-11-28,NA,26,INTERVENTIONAL,"TheraBracelet, Inc.",INDUSTRY,True
+NCT05356754,VL-3 Training Study,COMPLETED,2020-07-13,2021-11-08,NA,343,INTERVENTIONAL,Riva Health,INDUSTRY,True
+NCT06007079,Clinical Data Collection Study Using CPM System,UNKNOWN,2023-12-06,2025-12-01,NA,100,INTERVENTIONAL,"Analog Device, Inc.",OTHER,True
+NCT02214069,Using Smart Phone Technology in Detecting the Presence of Atrial Fibrillation,COMPLETED,2014-08,2017-07,,60,OBSERVATIONAL,The Cleveland Clinic,OTHER,True
+NCT03996954,Validation of a Smartphone-based Recorder for Detection of Cardiac Arrhythmias,UNKNOWN,2018-10-08,2020-10-07,NA,400,INTERVENTIONAL,Blackpool Teaching Hospitals NHS Foundation Trust,OTHER,True
+NCT05992623,Clinical Trial Comparing Devices Used for Cardioversion of Atrial Fibrillation,COMPLETED,2023-07-21,2024-12-11,NA,546,INTERVENTIONAL,Inova Health Care Services,OTHER,True
+NCT04018586,AVACEN Hand Heating on Fasting Blood Glucose,COMPLETED,2019-02-28,2019-09-15,NA,17,INTERVENTIONAL,Jeff Moore,OTHER,True
+NCT04514562,The Vesalio NeVa Stent Retriever Study for Treatment of Large Vessel Occlusion Strokes: CLEAR Study,UNKNOWN,2021-04-03,2023-08,NA,120,INTERVENTIONAL,Vesalio,INDUSTRY,True
+NCT06535854,Prevail Global Study,RECRUITING,2025-02-24,2031-02,NA,1205,INTERVENTIONAL,Medtronic Vascular,INDUSTRY,True
+NCT05588583,A Clinical Investigation to Follow the Progress of Exuding Chronic Wounds Using Mepilex® Up as the Primary Dressing.,RECRUITING,2022-10-31,2024-03,NA,68,INTERVENTIONAL,Molnlycke Health Care AB,INDUSTRY,True
+NCT02845466,Study of Combined Topical Growth Factor and Protease Inhibitor in Chronic Wound Healing,UNKNOWN,2018-08,2020-09,PHASE3,80,INTERVENTIONAL,McMaster University,OTHER,True
+NCT05970120,A Study of Intracardiac Ultrasound With the NUVISION NAV Ultrasound Catheter,COMPLETED,2023-09-05,2024-02-22,NA,30,INTERVENTIONAL,"Biosense Webster, Inc.",INDUSTRY,True
+NCT07401784,Efficacy and Safety Evaluation of Remote Ischemic Adaptation ( Intermittent Pressure Stimulation ) in the Treatment of Insomnia After Stroke,NOT_YET_RECRUITING,2026-01-27,2027-12-30,NA,40,INTERVENTIONAL,Second Affiliated Hospital of Nanchang University,OTHER,True
+NCT03322033,Feasibility of Endovascular Repair of Ascending Aortic Pathologies,TERMINATED,2018-12-15,2021-10-22,NA,1,INTERVENTIONAL,Baylor Research Institute,OTHER,True
+NCT01484288,Baroreflex Activation Therapy in Heart Failure,COMPLETED,2011-11,2015-03,NA,12,INTERVENTIONAL,"CVRx, Inc.",INDUSTRY,True
+NCT04548024,Relation of Non-invasively Measured Parameters to Clinical Outcomes in CHF Patients,COMPLETED,2020-09-10,2021-12-10,,50,OBSERVATIONAL,Biobeat Technologies Ltd.,INDUSTRY,True
+NCT05270122,ThrombX Retriever for Acute Ischemic Stroke Trial,UNKNOWN,2022-05,2024-07,NA,200,INTERVENTIONAL,ThrombX Medical,INDUSTRY,True
+NCT05999851,Multiparametric Assessment of Maternal Vascular Function in the Prediction of Hypertensive Disorders of Pregnancy,RECRUITING,2023-09-01,2031-09,NA,400,INTERVENTIONAL,IRCCS Azienda Ospedaliero-Universitaria di Bologna,OTHER,True
+NCT06096337,Pulsed Field Ablation (PFA) vs Anti-Arrhythmic Drug (AAD) Therapy as a First Line Treatment for Persistent Atrial Fibrillation,ACTIVE_NOT_RECRUITING,2023-12-28,2028-02-04,NA,484,INTERVENTIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT05507346,A Clinical Study to Evaluate the Effectiveness of a Novel Portable Non-Pneumatic Active Compression Device vs. an Advanced Pneumatic Compression Device for Treating Lower Extremity Lymphedema,COMPLETED,2022-09-06,2024-01-09,NA,121,INTERVENTIONAL,"Koya Medical, Inc.",INDUSTRY,True
+NCT03357146,Optical Coherence Tomography Angiography Examinations in Chronic Retinal Artery Occlusion,COMPLETED,2017-01-09,2021-08-30,,42,OBSERVATIONAL,Semmelweis University,OTHER,True
+NCT04326842,Optical Coherence Tomography Angiography Evaluation of Ocular Changes in Patients With Carotid Artery Stenosis,COMPLETED,2020-04-02,2020-07-02,,129,OBSERVATIONAL,First Affiliated Hospital of Harbin Medical University,OTHER,True
+NCT07454980,Pivotal Trial to Evaluate TraNsvenous TrIcuspid Valve ReplacemenT With LuX-Valve Plus System (The TRINITY Pivotal Trial),NOT_YET_RECRUITING,2026-05,2038-12,NA,680,INTERVENTIONAL,Jenscare Innovation Inc.,INDUSTRY,True
+NCT00429585,A Multicenter Randomized Trial Comparing IM Nails and Plate Fixation in Proximal Tibial Fractures,COMPLETED,2007-02,2020-12-16,NA,108,INTERVENTIONAL,Boston Medical Center,OTHER,True
+NCT06850259,This Study Will Collect Clinical and Patient Reported Satisfaction Data From Males Requiring Urine Output Management Overnight in the Home Setting.,COMPLETED,2025-03-21,2025-06-15,NA,15,INTERVENTIONAL,C. R. Bard,INDUSTRY,True
+NCT02954952,EEG Data Collection to Evaluate New Patient State Index Performance,TERMINATED,2016-11-11,2018-01-11,NA,44,INTERVENTIONAL,Masimo Corporation,INDUSTRY,True
+NCT02844465,Stereotactic Laser Ablation for Temporal Lobe Epilepsy (Slate),COMPLETED,2016-12,2023-12-11,NA,167,INTERVENTIONAL,MedtronicNeuro,INDUSTRY,True
+NCT01910792,Ultraviolet Light And Vitamin D In Subjects With Fat Malabsorption Or After Gastric Bypass Surgery,COMPLETED,2011-03,2014-02,NA,19,INTERVENTIONAL,Boston University,OTHER,True
+NCT06461663,CairnSurgical Breast Cancer Locator (BCL) Post-Market Study,COMPLETED,2022-07-22,2024-04-19,NA,35,INTERVENTIONAL,"CairnSurgical, Inc.",INDUSTRY,True
+NCT04694599,The Effect of Continuous Pulse Oximetry Monitoring and Early Intervention Using Wearable Device on the Incidence of Postoperative Hypoxemia,UNKNOWN,2021-02-01,2021-07-01,NA,94,INTERVENTIONAL,Seoul National University Hospital,OTHER,True
+NCT04526626,Endovenous RFA Versus Ligation and Striping for Varicose Veins,UNKNOWN,2020-02-01,2022-06-30,NA,300,INTERVENTIONAL,The University of Hong Kong-Shenzhen Hospital,OTHER,True
+NCT05309993,INvestigation of TENS Efficacy Versus Posterior Tibial Nerve Stimulation for Overactive Bladder,TERMINATED,2022-06-30,2025-08-01,NA,27,INTERVENTIONAL,University of New Mexico,OTHER,True
+NCT03369977,BioGlue as an Adjunct for Structural Repair and Hemostasis in Chinese Acute Type A Aortic Dissections Patients,ACTIVE_NOT_RECRUITING,2017-11-01,2020-11,NA,202,INTERVENTIONAL,"CryoLife, Inc.",INDUSTRY,True
+NCT04774965,The Effects of SlumberCurve™ Following Rotator Cuff Surgery: a Randomized Control Trial,WITHDRAWN,2023-06-30,2024-06-24,NA,0,INTERVENTIONAL,University of Alabama at Birmingham,OTHER,True
+NCT03419091,LithoVue Single Use Disposable Ureteroscope,UNKNOWN,2017-12-01,2023-12-30,NA,40,INTERVENTIONAL,University of British Columbia,OTHER,True
+NCT06225362,Quatera 700 vs. Centurion,COMPLETED,2024-01-10,2025-10-06,NA,80,INTERVENTIONAL,"Carolina Eyecare Physicians, LLC",OTHER,True
+NCT02500459,Topotecan in Glioma Undergoing A Clinically-Indicated Surgical Resection,TERMINATED,2015-07-06,2018-11-19,EARLY_PHASE1,9,INTERVENTIONAL,"Michael Vogelbaum, MD, PhD",OTHER,True
+NCT02615990,Impact of the Erigo Machine on Functional Recovery in ICU Patients,TERMINATED,2016-11,2016-11,NA,2,INTERVENTIONAL,Lisa J. Fryman,OTHER,True
+NCT03812276,Neodent Implantable Devices of GM Line,COMPLETED,2019-02-14,2023-01-28,,43,OBSERVATIONAL,Neodent,INDUSTRY,True
+NCT07213167,Clinical Evaluation of Low Contrast Visual Performance and Low Light Phenomena in Patients With Various Intraocular Lens Implants,RECRUITING,2025-09-24,2026-08,,120,OBSERVATIONAL,"Dr. Daniel H. Chang, MD",OTHER,True
+NCT07489001,Opioid Free and Opioid Based Anesthesia in Elective Lumbar Spine Surgery,RECRUITING,2025-12-09,2026-12-10,,75,OBSERVATIONAL,Marmara University,OTHER,True
+NCT05179837,Endoscopic Optical Coherence Tomography for Screening and Diagnosis of Colorectal Precancerous and Malignant Polyps,TERMINATED,2022-01-24,2023-04-22,NA,36,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT05171595,Real Time ST-segment Deviation Detection in High-risk Patients Detected by Wireless Single-lead ECG,COMPLETED,2018-02-20,2020-06-09,,698,OBSERVATIONAL,"Rigshospitalet, Denmark",OTHER,True
+NCT05085730,Assessment Skin Quality and Efficacy of Dermal Line After Four Bipolar Radiofrequency Microneedling Treatments,COMPLETED,2022-01-14,2022-12-22,NA,13,INTERVENTIONAL,University of Texas Southwestern Medical Center,OTHER,True
+NCT05364502,(HALT) Embrace Hydrogel Embolic System (HES) Study of Embolization in Peripheral Arterial Bleeds,ACTIVE_NOT_RECRUITING,2022-12-12,2026-03,NA,130,INTERVENTIONAL,"Instylla, Inc.",INDUSTRY,True
+NCT05786196,Multicenter Glaucoma Study Investigating Standalone Canaloplasty,RECRUITING,2023-05-09,2026-12,NA,86,INTERVENTIONAL,"Nova Eye, Inc.",INDUSTRY,True
+NCT04384679,Benefit of Topical Hemostatic Powder Containing Hydrophilic Polymer With Potassium Ferrate for Hemostasis Following Nail Surgery,WITHDRAWN,2022-06,2023-12,PHASE4,0,INTERVENTIONAL,Weill Medical College of Cornell University,OTHER,True
+NCT05553782,Drug Screening Using Novel IMD in Salivary and Head and Neck Cancers,RECRUITING,2023-11-01,2029-08-01,EARLY_PHASE1,30,INTERVENTIONAL,Brigham and Women's Hospital,OTHER,True
+NCT05394324,A Post-market Clinical Study to Collect Safety and Performance Data on Johnson & Johnson Surgical Vision Products,COMPLETED,2022-06-21,2025-05-31,,1674,OBSERVATIONAL,"Johnson & Johnson Surgical Vision, Inc.",INDUSTRY,True
+NCT04918680,Prospective Post-market Study Examining the Effectiveness of the EcoFit®,NOT_YET_RECRUITING,2021-06-21,2027-03-30,,500,OBSERVATIONAL,"Implantcast North America, LLC",INDUSTRY,True
+NCT03718442,Low Energy Dissection Vs. Electrocautery in Lumpectomy Shaved Surgical Margins,UNKNOWN,2019-03-15,2020-06-15,,20,OBSERVATIONAL,"Invuity, Inc.",INDUSTRY,True
+NCT05674123,Evaluating the Safety and Effectiveness of the Flex Robotic System for the Surgical Removal of Colorectal Lesions,COMPLETED,2020-01-15,2022-06-10,NA,2,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT06472661,FUSA With Intratumoral PolyICLC in Regionally Advanced Resectable Melanoma,RECRUITING,2024-09-27,2026-08,EARLY_PHASE1,11,INTERVENTIONAL,University of Virginia,OTHER,True
+NCT07120386,Irrigating vs Traditional Negative Pressure Wound Therapy to Treat Necrotizing Soft Tissue Infections,RECRUITING,2025-08-01,2026-10,NA,30,INTERVENTIONAL,HealthPartners Institute,OTHER,True
+NCT06844279,The Effects of Anesthesia Depth Monitoring on Postoperative Recovery and Cognitive Functions in the Geriatric Patient Population,RECRUITING,2025-01-10,2025-04,NA,75,INTERVENTIONAL,Aslıhan Güleç,OTHER,True
+NCT03057886,Study to Evaluate the Accuracy of the New Monitor of Temperature in Comparison With the Consecrated Thermometers by Literature,UNKNOWN,2018-07-25,2019-05,,210,OBSERVATIONAL,Ricardo Caio Gracco De Bernardis,OTHER,True
+NCT04226482,Review of Efficacy of Used ultraSonic Energy Device,COMPLETED,2019-05-27,2020-05-14,NA,100,INTERVENTIONAL,"University of Split, School of Medicine",OTHER,True
+NCT03760510,Endotracheal Tube Securement Study,COMPLETED,2017-05-17,2018-06-30,NA,500,INTERVENTIONAL,Vanderbilt University Medical Center,OTHER,True
+NCT05672368,The da Vinci Single Port Robotic System for Use in Abdominal and Pelvic Surgical Procedures,RECRUITING,2024-04-26,2026-01-27,PHASE2,33,INTERVENTIONAL,City of Hope Medical Center,OTHER,True
+NCT03956082,Ultravision™ System to Facilitate Low Impact Laparoscopic Surgery for Endometriosis,COMPLETED,2019-08-07,2021-04-14,NA,15,INTERVENTIONAL,Mercy Research,OTHER,True
+NCT06298838,High-resolution Intra-operative PSMA PET-CT in Prostate Cancer,NOT_YET_RECRUITING,2025-05,2026-04,,10,OBSERVATIONAL,IRCCS San Raffaele,OTHER,True
+NCT04442932,abioSCOPE IgE Assay to Aid in the Diagnosis of Allergies,WITHDRAWN,2020-11-15,2021-03-15,,0,OBSERVATIONAL,Abionic SA,INDUSTRY,True
+NCT06511141,Sacral Neuromodulation for Male Overactive Bladder (MOAB),RECRUITING,2024-10-22,2028-03,NA,150,INTERVENTIONAL,"Axonics, Inc.",INDUSTRY,True
+NCT05307783,EmboCube Gelatin Embolization to Control Bleeding or Hemorrhaging,COMPLETED,2022-11-30,2024-04-10,,101,OBSERVATIONAL,"Merit Medical Systems, Inc.",INDUSTRY,True
+NCT03863522,Automated Method for Breast Cancer Detection,TERMINATED,2019-03-07,2020-12-15,NA,116,INTERVENTIONAL,Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,OTHER,True
+NCT06361303,"The Happiest Baby, Inc. SNOO Postmarket Surveillance Study",RECRUITING,2023-11-29,2026-05,,1000,OBSERVATIONAL,"Happiest Baby, Inc.",INDUSTRY,True
+NCT03057496,Collision Warning Device for Blind and Visually Impaired,COMPLETED,2018-01-22,2019-12-05,NA,49,INTERVENTIONAL,Massachusetts Eye and Ear Infirmary,OTHER,True
+NCT04719156,Fluorescent Intra-operative Tumor Margin Examination,RECRUITING,2021-03-02,2026-12-31,PHASE2,110,INTERVENTIONAL,Kurt Weiss,OTHER,True
+NCT03821831,Treating Children With Obstructive Sleep Apnea After Surgery Failure,TERMINATED,2021-12-03,2023-05-08,,8,OBSERVATIONAL,University of Alberta,OTHER,True
+NCT07185425,Impact of the NeuroCuple Device on Pain Management After Cesarean Delivery,RECRUITING,2025-10-13,2027-09,NA,180,INTERVENTIONAL,Inova Health Care Services,OTHER,True
+NCT04583644,Pilot Trial of Fetoscopic Endoluminal Tracheal Occlusion (FETO) in Severe Left Congenital Diaphragmatic Hernia (CDH),RECRUITING,2020-10-02,2028-04,NA,10,INTERVENTIONAL,Hanmin Lee,OTHER,True
+NCT05127109,The PASTDUe Nutrition Ecosystem Project (PASTDUe),ACTIVE_NOT_RECRUITING,2022-04-25,2027-02-15,PHASE4,300,INTERVENTIONAL,Duke University,OTHER,True
+NCT04811963,SpO2 Accuracy Low Saturation Validation of the OxySoftN Sensor,COMPLETED,2021-04-06,2021-04-09,,10,OBSERVATIONAL,Medtronic - MITG,INDUSTRY,True
+NCT04342767,The Effectiveness of a Mechanical Debridement Instrument in Reducing Bioburden in Chronic Wounds,COMPLETED,2020-05-19,2020-06-16,,28,OBSERVATIONAL,"SerenaGroup, Inc.",NETWORK,True
+NCT05859971,ICG and SLN Mapping,COMPLETED,2023-04-13,2023-06-01,EARLY_PHASE1,10,INTERVENTIONAL,"University of Wisconsin, Madison",OTHER,True
+NCT04016285,Total Knee Replacement With Tourniquet or Aquamantys,COMPLETED,2019-01-15,2023-04-18,NA,73,INTERVENTIONAL,Stephen Duncan,OTHER,True
+NCT05505643,Cryoablation vs Lumpectomy in T1 Breast Cancers,RECRUITING,2024-04-03,2033-04-30,NA,120,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT03628872,Treatment of Periodontitis With Er:YAG Laser,COMPLETED,2018-03-02,2019-06-01,NA,29,INTERVENTIONAL,Columbia University,OTHER,True
+NCT04559685,Study of Sonodynamic Therapy in Participants with Recurrent High-Grade Glioma,RECRUITING,2021-03-15,2028-03-31,EARLY_PHASE1,30,INTERVENTIONAL,Nader Sanai,OTHER,True
+NCT03978195,A Non-invasive Device to Remove Fluid From the Middle Ear,UNKNOWN,2019-07-01,2021-11-01,NA,40,INTERVENTIONAL,Yuinvent Innovations Ltd.,INDUSTRY,True
+NCT04103164,Pilot Study to Evaluate the Effect of Multiple Passes on Port Wine Stain Treatments With the Cutera Excel V™ Laser.,SUSPENDED,2020-01-15,2020-07-15,NA,10,INTERVENTIONAL,Massachusetts General Hospital,OTHER,True
+NCT04329767,"A Prospective Post-Market Study to Evaluate the Clinical Utility of IRIS, a Three-dimensional (3-D) Anatomical Modeling Software for Pre-operative Surgical Planning and Intra-operative Navigation for Nephrectomy",COMPLETED,2020-09-18,2023-08-31,,122,OBSERVATIONAL,Intuitive Surgical,INDUSTRY,True
+NCT03775681,Feasibility of Laryngeal Mask Airway Gastro on Patients Undergoing Endoscopic Retrograde Cholangiopancreatography for Pancreas and Bile Duct Disorders,COMPLETED,2019-01-16,2020-04-20,NA,33,INTERVENTIONAL,M.D. Anderson Cancer Center,OTHER,True
+NCT03496467,Safety/Efficacy of Nepafenac Punctal Plug Delivery System Compared to Placebo to Control Ocular Pain/Inflammation After Cataract,COMPLETED,2018-03-05,2018-12-17,PHASE2,56,INTERVENTIONAL,Mati Therapeutics Inc.,INDUSTRY,True
+NCT03770195,Registry Study for the Use of HEMOBLAST™ Bellows in Abdominoplasty,WITHDRAWN,2018-11-13,2018-12-12,,0,OBSERVATIONAL,Biom'Up France SAS,INDUSTRY,True
+NCT06477003,Multispectral Optoacoustic Tomography in Head and Neck Squamous Cell Cancer,SUSPENDED,2026-05,2027-11,NA,100,INTERVENTIONAL,University of Oklahoma,OTHER,True
+NCT05708885,Striated Esophageal Motor Function Modulation in Health and Disease,RECRUITING,2022-09-13,2026-04,NA,557,INTERVENTIONAL,Medical College of Wisconsin,OTHER,True
+NCT05506358,Evaluation of Low-cost Techniques for Detecting Sickle Cell Disease and β-thalassemia in Nepal and Canada,COMPLETED,2022-09-20,2023-03-30,NA,145,INTERVENTIONAL,University of British Columbia,OTHER,True
+NCT05690880,ForeseeHome NRich Registry,ACTIVE_NOT_RECRUITING,2022-12-15,2027-12-15,,20000,OBSERVATIONAL,Notal Vision Inc.,INDUSTRY,True
+NCT05643144,Enhancing Shared Decision-making to Guide Care for People With Dementia and Diabetes,RECRUITING,2023-06-07,2026-08-17,NA,62,INTERVENTIONAL,Indiana University,OTHER,True
+NCT07485582,Exploration of Current and New Technologies for Accuracy of Diagnosing OSA,NOT_YET_RECRUITING,2026-04,2026-10,,90,OBSERVATIONAL,ResMed,INDUSTRY,True
+NCT06400563,MRg-NIRS Imaging System Breast Cancer Trial,RECRUITING,2024-09-23,2027-03-31,NA,20,INTERVENTIONAL,Keith D. Paulsen,OTHER,True
+NCT07146932,Evaluating the Bambini Teens Exoskeleton for Pediatric Cerebral Palsy,NOT_YET_RECRUITING,2025-10,2026-01,NA,20,INTERVENTIONAL,"COSMO ROBOTICS CO., Ltd",INDUSTRY,True
+NCT07044596,Non-invasive Stimulation of the Glymphatic System for Slowing Cognitive Decline,RECRUITING,2025-11-13,2026-08,NA,55,INTERVENTIONAL,"University of Wisconsin, Madison",OTHER,True
+NCT04425720,Use of Remote Monitoring for COVID-19 Patient,COMPLETED,2020-09-01,2021-12-10,NA,300,INTERVENTIONAL,Montefiore Medical Center,OTHER,True
+NCT05489380,Optical Diagnosis Versus Laser Measurement of Polyps' Size During Colonoscopy and Implications for Surveillance,COMPLETED,2023-06-19,2026-03-01,NA,138,INTERVENTIONAL,Radboud University Medical Center,OTHER,True
+NCT04250779,Evaluating Efficacy of Smart Device in Assisting With Inhaler Technique and Adherence,UNKNOWN,2019-07-01,2021-12-01,EARLY_PHASE1,50,INTERVENTIONAL,Landon Pediatric Foundation,OTHER,True
+NCT03041090,Patterns and Prevalence of FDG Extravasation in PET/CT Scans,COMPLETED,2016-03,2017-12,NA,133,INTERVENTIONAL,St. Louis University,OTHER,True
+NCT07288008,Transcranial Alternating Current Stimulation (tACS) for the Treatment of Anxiety in Veterans: An Open-Label Pilot Study,RECRUITING,2025-12-15,2028-06-30,NA,40,INTERVENTIONAL,Birmingham VA Health Care System,FED,True
+NCT02682030,The Use of Airway Clearance Devices in ALS,COMPLETED,2016-03,2018-12,NA,5,INTERVENTIONAL,Cedars-Sinai Medical Center,OTHER,True
+NCT04967729,COVID-19 and Lung Ultrasound Utility,COMPLETED,2021-06-10,2022-06-06,NA,26,INTERVENTIONAL,Rocket Doctor Inc.,OTHER,True
+NCT06499805,Barriers and Facilitators to OTC Hearing Aids Success,RECRUITING,2025-03-15,2029-04-01,NA,360,INTERVENTIONAL,Yu-Hsiang Wu,OTHER,True
+NCT03663179,Transcranial Magnetic Stimulation for Attention Deficit/Hyperactivity Disorder (ADHD),COMPLETED,2017-01,2020-01-01,NA,32,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT05554042,Kintsugi Voice Device Study,COMPLETED,2022-09-23,2023-07-05,,132,OBSERVATIONAL,"Kintsugi Mindful Wellness, Inc.",INDUSTRY,True
+NCT05569486,Elucidating the Central Mechanisms of Action for Green Light Therapy in Managing Chronic Pain,NOT_YET_RECRUITING,2026-12-01,2029-12-30,NA,70,INTERVENTIONAL,University of Arizona,OTHER,True
+NCT06359080,Transcranial Photobiomodulation for Reducing Autism Symptoms in Children - Open Label Study (TPBMASDOL),COMPLETED,2022-05-08,2022-12-11,NA,25,INTERVENTIONAL,JelikaLite LLC,INDUSTRY,True
+NCT04917354,Superb Micro-vascular Imaging for Evaluation of Hepatic Lesions,UNKNOWN,2017-04-18,2024-04,,150,OBSERVATIONAL,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,True
+NCT05864118,Comparison of Nasopharyngeal Swab v. Nasopharyngeal Saline Wash or Saliva Collection in Testing for Respiratory Viruses,RECRUITING,2023-08-21,2026-12,NA,1000,INTERVENTIONAL,University of Nebraska,OTHER,True
+NCT03434392,QST Study: Predicting Treatment Response in Chronic Pancreatitis Using Quantitative Sensory Testing,RECRUITING,2017-10-24,2026-06-30,NA,500,INTERVENTIONAL,Anna Evans Phillips,OTHER,True
+NCT06294106,eTMS for Veterans and First Responders With PTSD,RECRUITING,2024-06-10,2026-04,NA,20,INTERVENTIONAL,Virginia Polytechnic Institute and State University,OTHER,True
+NCT06822218,High Tone Power Therapy Versus Transcutanuoselectrical Nerve Stimulation on Polyneuropathic Pain in Diabetic Patients,RECRUITING,2023-01-01,2025-02-28,NA,60,INTERVENTIONAL,Cairo University,OTHER,True
+NCT05706025,Study to Evaluate EnteroTracker® as a Sampling Method to Screen for Barrett's Esophagus/Esophageal Cancer,ENROLLING_BY_INVITATION,2023-05-31,2029-03-01,NA,60,INTERVENTIONAL,"University of Colorado, Denver",OTHER,True
+NCT05265234,Dupilmuab for Atopic Dermatitis Monitored With Noninvasive Imaging.,UNKNOWN,2022-03-01,2024-03-01,PHASE4,15,INTERVENTIONAL,OptiSkin Medical,OTHER,True
+NCT05633316,Automated Intracytoplasmic Sperm Injection (ICSIA),UNKNOWN,2022-12-05,2024-11-30,NA,10,INTERVENTIONAL,Overture Life,INDUSTRY,True
+NCT03486444,"Exploring New and Next Generation Ultrasound Technologies for Medical Education, Patient Care, and New Indications",WITHDRAWN,2022-10-01,2024-12-31,NA,0,INTERVENTIONAL,University of Cincinnati,OTHER,True
+NCT06951009,Establishing Baseline Sysmex UF-5000 Flow Cytometer Results in Healthy Men,COMPLETED,2025-04-09,2025-05-07,NA,20,INTERVENTIONAL,Indiana University,OTHER,True
+NCT06716411,Confirming the Effects of Acupuncture Treatments to Relieve Symptoms of Gulf War Illness,RECRUITING,2026-02-03,2028-09-30,NA,200,INTERVENTIONAL,University of Utah,OTHER,True
+NCT04678544,Cooling Cap Trial to Prevent Permanent Chemotherapy-induced Alopecia in Breast Cancer Patients,COMPLETED,2020-12-23,2022-08-30,NA,170,INTERVENTIONAL,Samsung Medical Center,OTHER,True
+NCT05868902,A Registry of Cardiac PET and CardioFlux Magnetocardiography in Patients With Suspected Coronary Ischemia.,RECRUITING,2023-08-28,2025-12-31,,300,OBSERVATIONAL,Genetesis Inc.,INDUSTRY,True
+NCT04395911,Safety and Efficacy of SCD in AKI or ARDS Patients Associated With COVID-19 Infections,COMPLETED,2020-09-10,2021-07-21,NA,22,INTERVENTIONAL,SeaStar Medical,INDUSTRY,True
+NCT04918693,A Study to Evaluate the Performance and Potential Benefits of an Assistive Artificial Intelligence Device ScanNav Anatomy Peripheral Nerve Block - US V1.0 for Ultrasound-guided Regional Anesthesia,COMPLETED,2021-05-16,2021-11-30,,34,OBSERVATIONAL,IntelligentUltrasound Limited,INDUSTRY,True
+NCT06933420,Clinical Protocol CERN Feasibility Study,RECRUITING,2024-11-06,2025-05,NA,9,INTERVENTIONAL,Cern Corporation,INDUSTRY,True
+NCT02994693,Natural History of Barrett's Esophagus Using Tethered Capsule Endomicroscopy,ACTIVE_NOT_RECRUITING,2016-12,2029-12,,100,OBSERVATIONAL,Massachusetts General Hospital,OTHER,True
+NCT05442853,Continuous Glucose Monitoring for Hyperglycemia in Critically Ill Patients,COMPLETED,2023-04-01,2024-08-01,NA,85,INTERVENTIONAL,Malcom Randall VA Medical Center,FED,True
+NCT06612281,Evaluation of Gixam's Performance in a FIT Negative Population,RECRUITING,2024-11-01,2025-04-30,PHASE2,400,INTERVENTIONAL,Jubaan Ltd.,INDUSTRY,True
+NCT06509100,Altitudes: A Digital Intervention to Support Caregivers,COMPLETED,2024-09-03,2025-08-31,NA,17,INTERVENTIONAL,"University of North Carolina, Chapel Hill",OTHER,True
+NCT02214212,TWILIGHT Study: Effect of Light Exposure During Acute Rehabilitation on Sleep After TBI,COMPLETED,2013-12,2017-03,NA,131,INTERVENTIONAL,University of Washington,OTHER,True
+NCT04254172,A Low Interventional Study to Monitor Activity Using Wearable Sensors in Duchenne Muscular Dystrophy,TERMINATED,2020-02-19,2020-08-19,,2,OBSERVATIONAL,Pfizer,INDUSTRY,True
+NCT06463860,Multi-Center Study to Evaluate the Performance of DermDx for Primary Care Physicians in the Detection of Skin Cancers,COMPLETED,2024-06-12,2024-11-27,,81,OBSERVATIONAL,MetaOptima Technology Inc.,INDUSTRY,True
+NCT04134520,Establish ProLung Test Measurement Collection Protocol for Future Studies.,UNKNOWN,2020-02-14,2024-10-16,,500,OBSERVATIONAL,Fresh Medical Laboratories,INDUSTRY,True
+NCT07488780,Language Network Prehab Via fMRI Neurofeedback,NOT_YET_RECRUITING,2026-04,2026-12,NA,4,INTERVENTIONAL,Yale University,OTHER,True
+NCT06368453,"A Study to Evaluate the Performance, Usability, and Result Interpretation of INSTI® HIV Self-Test",COMPLETED,2024-05-02,2025-01-08,NA,1728,INTERVENTIONAL,bioLytical Laboratories,INDUSTRY,True
+NCT03940170,Clinical Effectiveness of(VistaProof)in Comparison With ICDAS-II & Histological Validation for Detecting Occlusal Caries,COMPLETED,2020-05-01,2021-08-09,,24,OBSERVATIONAL,Mohamed samy El-sayed,OTHER,True
+NCT05592769,A Pilot Study to Assess the Suitability of the HealthBeacon Injection Care Management System (ICMS) as a Remote Therapeutic Monitoring (RTM) Device,UNKNOWN,2022-11-10,2023-11,NA,10,INTERVENTIONAL,HealthBeacon Plc,INDUSTRY,True
+NCT02816255,The Efficacy of a New Mathematical Formula to Predict Continuous Positive Air Pressure With an Oronasal Mask Interface.,TERMINATED,2017-01,2018-03-09,NA,11,INTERVENTIONAL,Weill Medical College of Cornell University,OTHER,True
+NCT07221097,Prospective Clinical Evaluation of the BioFire Emerging Coronavirus Panel for the Detection of COVID-19 and Other Coronaviruses,RECRUITING,2025-09-29,2026-08,,1500,OBSERVATIONAL,BioFire Defense LLC,INDUSTRY,True
+NCT03418753,Non-invasive Diagnostic for Assessing Elevated Intracranial Pressure,COMPLETED,2018-05-10,2023-05-10,,60,OBSERVATIONAL,"Oculogica, Inc.",INDUSTRY,True
+NCT05806216,Dynamic Quantification of Social-Visual Engagement in Autism Spectrum Disorder (ASD),COMPLETED,2023-08-23,2025-08-31,,929,OBSERVATIONAL,"EarliTec Diagnostics, Inc",INDUSTRY,True
+NCT04634006,"Home-Based tDCS in Children With ADHD: A Randomized, Sham-Controlled tDCS and fNIRS Study",UNKNOWN,2020-11-05,2022-06,NA,75,INTERVENTIONAL,Onze Lieve Vrouw Hospital,OTHER,True
+NCT03922802,SCI Acute Intermittent Hypoxia and Non-Invasive Spinal Stimulation Combined With Gait Training,COMPLETED,2020-12-01,2023-01-03,NA,14,INTERVENTIONAL,Shirley Ryan AbilityLab,OTHER,True
+NCT05523518,"Which Technique is Effective in Reducing the Pain of Peripheral Intravenous Catheterization in Pediatric Patients, Infra-Red Light or Buzzy®?",UNKNOWN,2022-08-31,2022-11-20,NA,90,INTERVENTIONAL,Uludag University,OTHER,True
+NCT03505372,Role of Contrast Enhanced Spectral Mammography to Predict Upgrade Rates of Biopsy Proven Atypical Ductal Hyperplasia,TERMINATED,2018-05-10,2019-06-28,NA,5,INTERVENTIONAL,Dana-Farber Cancer Institute,OTHER,True
+NCT05353569,Coherent Optical Detection of Middle Ear Disease,RECRUITING,2022-05-24,2028-04,NA,235,INTERVENTIONAL,Medical College of Wisconsin,OTHER,True
+NCT05196880,Biofilm Correlation and Validation,COMPLETED,2022-02-15,2023-11-08,,40,OBSERVATIONAL,MolecuLight Inc.,INDUSTRY,True
+NCT06728969,A Comparative Study to Evaluate a Novel Algorithm As a Diagnostic Aid for ADHD in Youth Ages 6-17.,RECRUITING,2024-06-02,2026-06,NA,120,INTERVENTIONAL,MindTension,INDUSTRY,True
+NCT06338813,Digital Manometry for Intra-Abdominal Pressure Measurement in Ileus,COMPLETED,2022-10-30,2023-03-01,NA,30,INTERVENTIONAL,Ankara City Hospital Bilkent,OTHER,True
+NCT03342560,Beyond Confounders: Addressing Source of Measurement Variability and Error in Shear Wave Elastography,COMPLETED,2017-06-29,2018-08-30,NA,30,INTERVENTIONAL,Massachusetts General Hospital,OTHER,True
+NCT05466942,RDS MultiSense® SpO2 Calibration,COMPLETED,2022-03-15,2022-10-20,NA,16,INTERVENTIONAL,Rhythm Diagnostic Systems,INDUSTRY,True
+NCT06949969,Alesis OSA-1 Obstructive Sleep Apnea Treatment,COMPLETED,2025-05-01,2025-11-30,NA,35,INTERVENTIONAL,"Photonica USA, LLC",INDUSTRY,True
+NCT03492554,Electrocardiogram Clinical Validation Study,COMPLETED,2018-03-12,2018-05-14,NA,602,INTERVENTIONAL,Apple Inc.,INDUSTRY,True
+NCT04805541,Detection and Classification of Diabetic Retinopathy From Posterior Pole Images With A Deep Learning Model,COMPLETED,2022-02-01,2022-07-04,,900,OBSERVATIONAL,Ural Telekomunikasyon Sanayi Ticaret Anonim Sirketi,INDUSTRY,True
+NCT04496557,Feasibility Open Label Study Evaluating The Use Of Process-Instructed Self Neuro-Modulation (PRISM) For Post-Traumatic Stress Disorder,WITHDRAWN,2020-10-01,2021-04-01,NA,0,INTERVENTIONAL,NYU Langone Health,OTHER,True
+NCT04904510,Evaluation of the INDICAID™ COVID-19 Rapid Antigen Test,COMPLETED,2020-11-20,2021-03-09,,297,OBSERVATIONAL,"University of California, Los Angeles",OTHER,True
+NCT06045325,Assessment of Measurement Variability Across Automated Biometry Devices,COMPLETED,2023-07-25,2024-02-16,,204,OBSERVATIONAL,Berkeley Eye Center,OTHER,True
+NCT03365154,Feasibility Clinical Trial of the Cardio Flow Orbital Atherectomy System to Treat Peripheral Artery Disease (PAD),COMPLETED,2018-01-25,2018-11-06,NA,10,INTERVENTIONAL,"Cardio Flow, Inc.",INDUSTRY,True
+NCT06592820,Endoscopic Ultrasound Shear Wave Elastography Study,RECRUITING,2025-09-03,2027-03-28,,300,OBSERVATIONAL,Olympus Corporation of the Americas,INDUSTRY,True
+NCT06915454,High-Resolution PET-CT Imaging for Surgical Margin Visualization,RECRUITING,2025-09-03,2027-07,NA,50,INTERVENTIONAL,Vanderbilt-Ingram Cancer Center,OTHER,True
+NCT06049563,Evaluation of Upper Abdomen Imaging With Low Field MRI Scanner (0.4T),COMPLETED,2023-12-21,2024-08-01,,40,OBSERVATIONAL,Esaote S.p.A.,INDUSTRY,True
+NCT05491993,This Trial is a Clinical Performance Validation Study That Will Evaluate the Clinical Agreement of the Sky Medical™ Rapid Antigen Test Comparing the Antigen Rapid Test to RT-PCR,UNKNOWN,2022-02-22,2023-01-11,NA,200,INTERVENTIONAL,"Sky Medical Supplies & Equipments, LLC",INDUSTRY,True
+NCT04800471,Improving Glycemic Control in DM2 Patients in the Ambulatory Setting,COMPLETED,2021-08-16,2024-07-09,NA,30,INTERVENTIONAL,"University of Maryland, Baltimore",OTHER,True
+NCT04142944,The Impact of a Predictive Hypoglycaemia Alert Function in Physical Activity for People With T1DM,COMPLETED,2019-12-11,2021-07-27,NA,30,INTERVENTIONAL,Imperial College London,OTHER,True
+NCT03893500,Utility of At-home Monitoring of Exercise Capacity by App-based 6-minute Walk Test,ACTIVE_NOT_RECRUITING,2020-07-01,2025-06-30,NA,63,INTERVENTIONAL,Stanford University,OTHER,True
+NCT06376032,EndeavorOTC® Research Study in College Students,ACTIVE_NOT_RECRUITING,2024-01-10,2025-12-31,NA,69,INTERVENTIONAL,"Akili Interactive Labs, Inc.",INDUSTRY,True
+NCT04066634,Vivio AS (Aortic Stenosis) Detection Study,COMPLETED,2019-04-02,2019-10-29,NA,200,INTERVENTIONAL,Avicena LLC,INDUSTRY,True
+NCT07217925,Neurofeedback and Well-Being Among People With Co-Occurring Obsessive Compulsive Disorder and Post-traumatic Stress Symptoms,NOT_YET_RECRUITING,2025-11,2029-01,NA,20,INTERVENTIONAL,Wayne State University,OTHER,True
+NCT04660552,Transcranial Photobiomodulation for Reducing Autism Symptoms in Children,COMPLETED,2020-11-15,2023-12-30,NA,34,INTERVENTIONAL,JelikaLite LLC,INDUSTRY,True
+NCT05647785,Long-term Follow-up of RESTORE Study,UNKNOWN,2022-10-31,2023-06-30,,350,OBSERVATIONAL,Blue Note Therapeutics,INDUSTRY,True
+NCT04556240,RECORD-VP: Real-time Evaluation of Cardiac Outpatient Recording Device With VitalPatch RTM,WITHDRAWN,2020-09-15,2020-11-30,,0,OBSERVATIONAL,VitalConnect Inc.,INDUSTRY,True
+NCT04984447,OCT Guided Trans Nasal Imaging of the Small Intestine in Adults,ENROLLING_BY_INVITATION,2017-09-22,2029-12,NA,30,INTERVENTIONAL,Massachusetts General Hospital,OTHER,True
+NCT05857852,Low-Intensity Focused Ultrasound for Cocaine Use Disorder,UNKNOWN,2023-03-01,2025-03-01,NA,30,INTERVENTIONAL,University of Virginia,OTHER,True
+NCT03125525,Clinical Experience With Transcutaneous Supraorbital Nerve Stimulation in Refractory Migraine,COMPLETED,2016-01-01,2016-06-30,,37,OBSERVATIONAL,Corfu Headache Clinic,OTHER,True
+NCT04061148,Near Infrared Spectroscopy (NIRS) for Assessment of Depression,RECRUITING,2019-01-04,2027-12-30,NA,90,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT03942055,The Association of B-7 Lung Ultrasound Pattern With the Development of Postoperative Pulmonary Edema,WITHDRAWN,2018-10-15,2019-03-15,,0,OBSERVATIONAL,University of Alabama at Birmingham,OTHER,True
+NCT05555485,Understanding the Effects of Transcutaneous Auricular Neurostimulation for Treatment of Chronic Pain,RECRUITING,2023-05-24,2027-09-30,NA,60,INTERVENTIONAL,"The University of Texas Medical Branch, Galveston",OTHER,True
+NCT04169776,Effect of Daily Transcutaneous Auricular Vagus Nerve Stimulation (taVNS) on Proteinuria in Pediatric Patients With Idiopathic Nephrotic Syndrome,COMPLETED,2019-12-01,2021-12-01,NA,7,INTERVENTIONAL,Northwell Health,OTHER,True
+NCT06323447,Pivotal Study to Validate a Novel System to Non-Invasively Detect Severe Neutropenia,NOT_YET_RECRUITING,2025-04-01,2026-04-28,,210,OBSERVATIONAL,"Leuko Labs, Inc.",INDUSTRY,True
+NCT06452355,Safety and Effectiveness of the KOKO Device to Treat Primary Abnormal Postpartum Uterine Bleeding or Hemorrhage,RECRUITING,2024-08-29,2026-08-30,NA,72,INTERVENTIONAL,KOKO Medical Inc.,INDUSTRY,True
+NCT04818645,Insertable Cardiac Monitor for Primary Atrial Fibrillation Detection in High-Risk Heart Failure Patients,ACTIVE_NOT_RECRUITING,2023-01-31,2028-07-01,NA,477,INTERVENTIONAL,University of Rochester,OTHER,True
+NCT05342883,GammaTile and Stupp in Newly Diagnosed GBM,ACTIVE_NOT_RECRUITING,2022-08-17,2027-12-01,PHASE4,61,INTERVENTIONAL,"GT Medical Technologies, Inc.",INDUSTRY,True
+NCT03705351,Tumor Treating Fields With Chemoradiation in Newly Diagnosed GBM,TERMINATED,2019-12-02,2022-02-24,PHASE1,7,INTERVENTIONAL,Providence Health & Services,OTHER,True
+NCT07088835,SeizEAR Safety Study,RECRUITING,2025-05-08,2026-12-31,NA,15,INTERVENTIONAL,Icahn School of Medicine at Mount Sinai,OTHER,True
+NCT05437276,A Therapeutic Experience Program (TEP) Study for Improvement of Gait in People With Multiple Sclerosis (MS),COMPLETED,2022-07-01,2024-12-31,,43,OBSERVATIONAL,Helius Medical Inc,INDUSTRY,True
+NCT03747601,Temporal Interference Brain Stimulation,TERMINATED,2019-09-19,2023-06-30,NA,8,INTERVENTIONAL,Beth Israel Deaconess Medical Center,OTHER,True
+NCT07224607,Transcranial Photobiomodulation (tPBM) in Alzheimer's Disease Study,RECRUITING,2025-12-25,2026-10,NA,45,INTERVENTIONAL,Cedars-Sinai Medical Center,OTHER,True
+NCT03076515,Migraine Treatment With Nerivio Migra Neurostimulation Device,TERMINATED,2017-04-02,2018-04-01,NA,120,INTERVENTIONAL,Theranica,INDUSTRY,True
+NCT03479697,HIRREM for Stage 1 Primary Hypertension,COMPLETED,2018-08-08,2020-11-13,NA,5,INTERVENTIONAL,Wake Forest University Health Sciences,OTHER,True
+NCT04571112,GPi+NBM DBS in Parkinson's Disease With Mild Cognitive Impairment,COMPLETED,2017-12-04,2021-03-01,NA,6,INTERVENTIONAL,University of Toronto,OTHER,True
+NCT07404852,Non-invasive Vagus Nerve Stimulation to Reduce Inflammation and Brain Injury Blood Biomarkers Following an Acute Ischemic Stroke,RECRUITING,2026-02-23,2028-02-29,NA,65,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT03559829,Feasibility of Home-based Virtual Reality Rehabilitation for the Upper Extremity in Subacute and Chronic Stroke,COMPLETED,2016-09-23,2018-02-02,NA,20,INTERVENTIONAL,Stanford University,OTHER,True
+NCT02744911,Development of Software to Provide the SpeechVive Device Via the Internet,COMPLETED,2018-01-26,2019-06-15,NA,143,INTERVENTIONAL,"SpeechVive, Inc",INDUSTRY,True
+NCT07270276,The Impact of Dry Needling on Electrophysiological and Ultrasound-based Biomarkers for Myofascial Pain,RECRUITING,2026-02-01,2028-08-31,NA,70,INTERVENTIONAL,Beth Israel Deaconess Medical Center,OTHER,True
+NCT07215481,Automated Image-Guided Programming of Deep Brain Stimulation (DBS) for Parkinson's Disease,NOT_YET_RECRUITING,2025-12,2026-10,NA,15,INTERVENTIONAL,Stanford University,OTHER,True
+NCT03597100,Prospective Study for Symptomatic Relief of ET With Cala Therapy,COMPLETED,2018-12-14,2019-05-29,NA,263,INTERVENTIONAL,"Cala Health, Inc.",INDUSTRY,True
+NCT06101004,"A Multi-center, Non-interventional Prospective Clinical Trial to Evaluate the Safety and Effectiveness of CVA-FLOW",UNKNOWN,2023-10-23,2024-05-30,,460,OBSERVATIONAL,Cvaid Medical,INDUSTRY,True
+NCT04584762,Automated Variable Pattern Insufflator Device (AVPI) for the Acute Treatment of Migraine,UNKNOWN,2020-03-09,2022-10-31,NA,80,INTERVENTIONAL,"Nocira, LLC",INDUSTRY,True
+NCT04799418,STEM-PD Open Label Extension (OLE),TERMINATED,2022-09-15,2025-02-24,NA,148,INTERVENTIONAL,Scion NeuroStim,INDUSTRY,True
+NCT06867809,Spine and Brain Stimulation for Movement Recovery After Cervical Spinal Cord Injury,RECRUITING,2026-01-15,2027-03-31,NA,20,INTERVENTIONAL,Jason Carmel,OTHER,True
+NCT04250376,The Use of Transcranial Focused Ultrasound for the Treatment of Neurodegenerative Dementias,UNKNOWN,2017-11-27,2025-01,NA,100,INTERVENTIONAL,Neurological Associates of West Los Angeles,OTHER,True
+NCT05338697,"Validation of Early Prognostic Data for Recovery Outcome After Stroke for Future, Higher Yield Trials",RECRUITING,2022-06-18,2027-10,,657,OBSERVATIONAL,University of Cincinnati,OTHER,True
+NCT06135285,Korus: a Device to Prevent Sudden Unexpected Death in Epilepsy (SUDEP),NOT_YET_RECRUITING,2026-05-15,2027-06,NA,10,INTERVENTIONAL,Brigham and Women's Hospital,OTHER,True
+NCT05444335,Screening for Atrial Fibrillation in Elderly Women Older Than 70 Years,ACTIVE_NOT_RECRUITING,2023-07-15,2026-12-15,NA,120,INTERVENTIONAL,"University of Maryland, Baltimore",OTHER,True
+NCT03547687,Neurosciences-Intensive Care Unit Electrical Stimulation,COMPLETED,2018-08-10,2019-12-31,NA,9,INTERVENTIONAL,Oregon Health and Science University,OTHER,True
+NCT06641271,Study to Investigate Vagus Nerve Stimulation Paired With Motor Task for Remyelination and Functional Recovery,RECRUITING,2025-01-21,2027-11,NA,70,INTERVENTIONAL,"University of Colorado, Denver",OTHER,True
+NCT06722755,Stroke and CPAP Outcome Study 3 Randomized Controlled Trial,RECRUITING,2025-01-15,2028-05,NA,250,INTERVENTIONAL,University of Washington,OTHER,True
+NCT03801382,Psychometric Properties of IntelliSpace Cognition,COMPLETED,2019-04-15,2019-08-26,NA,450,INTERVENTIONAL,Philips Electronics Nederland B.V. acting through Philips CTO organization,INDUSTRY,True
+NCT05400512,Cognitive Enhancement in Depression (The COG-D Study),COMPLETED,2023-02-08,2025-08-18,NA,16,INTERVENTIONAL,Vanderbilt University Medical Center,OTHER,True
+NCT03214224,Remote Pulmonary Function Testing in Amyotrophic Lateral Sclerosis (Pilot),COMPLETED,2017-11-01,2019-09-30,NA,49,INTERVENTIONAL,Milton S. Hershey Medical Center,OTHER,True
+NCT05773755,DBS for TRD With the Medtronic Percept PC,RECRUITING,2023-03-01,2028-12,NA,10,INTERVENTIONAL,"Helen Mayberg, MD",OTHER,True
+NCT05949580,Study to Evaluate the Usability and Value of Integrated Digital Solutions in Medical Care of Participants With Multiple Sclerosis,RECRUITING,2024-10-21,2028-03-31,,500,OBSERVATIONAL,Hoffmann-La Roche,INDUSTRY,True
+NCT03557333,Safety and Tolerability of POD-DHE (INP104) in Migraine (STOP 301),COMPLETED,2018-07-13,2020-03-17,PHASE3,360,INTERVENTIONAL,Impel Pharmaceuticals,INDUSTRY,True
+NCT05032482,WeArable Neuromodulation DeVice for the TrEatment of Alzheimer's Disease,WITHDRAWN,2023-12,2024-03,NA,0,INTERVENTIONAL,Scion NeuroStim,INDUSTRY,True
+NCT03716505,Non-invasive Vagus Nerve Stimulation for the Prevention of Migraines,COMPLETED,2018-11-02,2020-09-09,NA,231,INTERVENTIONAL,ElectroCore INC,INDUSTRY,True
+NCT04828707,Assessment of Safety and Efficacy of Nerivio for the Migraine Prevention,COMPLETED,2021-04-13,2022-10-10,NA,335,INTERVENTIONAL,Theranica,INDUSTRY,True
+NCT05408143,An Enhanced Home-Based Telemedicine Program Using Remote Examination Devices for Children With Medical Complexity,RECRUITING,2022-07-12,2025-11-01,NA,300,INTERVENTIONAL,"The University of Texas Health Science Center, Houston",OTHER,True
+NCT06951906,Imaging Biomarkers of FOG Response to DBS,RECRUITING,2024-11-11,2030-01,PHASE4,54,INTERVENTIONAL,Medical University of South Carolina,OTHER,True
+NCT04629469,Low Field and High Field Magnetic Resonance Imaging Assessments on Pediatric Patients,RECRUITING,2020-10-01,2030-12,NA,250,INTERVENTIONAL,Children's Mercy Hospital Kansas City,OTHER,True
+NCT03207685,Generalized Seizure Detection And Alerting In The EMU With The Empatica Embrace Watch And Smartphone-Based Alert System,UNKNOWN,2017-06-30,2022-01,NA,100,INTERVENTIONAL,"Empatica, Inc.",INDUSTRY,True
+NCT07115940,Medical Management With Endovascular Thrombectomy Versus Medical Management Alone in Patients Presenting Beyond 24 Hours of Last Known Well,RECRUITING,2026-05-01,2029-12-01,NA,408,INTERVENTIONAL,Amrou Sarraj,OTHER,True
+NCT04194008,Efficacy and Safety of Nerivio Device for Acute Treatment of Migraine in People With Chronic Migraine,COMPLETED,2019-11-18,2020-08-30,NA,126,INTERVENTIONAL,Theranica,INDUSTRY,True
+NCT03296852,Study: SONAS Ultrasound for Detecting Stroke SONAS Ultrasound for Detecting Stroke,COMPLETED,2018-04-19,2019-01-20,EARLY_PHASE1,12,INTERVENTIONAL,"University of California, Los Angeles",OTHER,True
+NCT06585254,tVNS in Long COVID-19,RECRUITING,2024-11-01,2026-12-31,NA,50,INTERVENTIONAL,Icahn School of Medicine at Mount Sinai,OTHER,True
+NCT05653778,Scrambler Therapy for Corticobasal Syndrome-Associated Pain,RECRUITING,2024-04-05,2027-02,NA,25,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT06008717,Double-Blind Clinical Trial of Subthalamic Nucleus Deep Brain Stimulation in Early-Stage Parkinson's Disease,NOT_YET_RECRUITING,2028-01-01,2032-12-31,NA,40,INTERVENTIONAL,Mallory Hacker,OTHER,True
+NCT06357832,New Investigational Stimulation Protocol for Treatment of Major Depression Disorder (MDD),COMPLETED,2024-04-29,2026-03-05,NA,104,INTERVENTIONAL,Brainsway,INDUSTRY,True
+NCT04650282,Sphenopalatine Ganglion Block for Headache After Concussion,TERMINATED,2021-03-18,2021-04-06,PHASE2,2,INTERVENTIONAL,University of Michigan,OTHER,True
+NCT04652583,Auricular Muscle Zone Stimulation for Parkinson Disease,COMPLETED,2021-05-01,2022-01-05,PHASE2,38,INTERVENTIONAL,Stoparkinson Healthcare Systems LLC,INDUSTRY,True
+NCT06336720,PoNS® Therapy for Gait and Balance Deficits in Chronic Stroke Survivors: A Single-Arm Study,ACTIVE_NOT_RECRUITING,2024-05-01,2026-09-30,NA,30,INTERVENTIONAL,Helius Medical Inc,INDUSTRY,True
+NCT03337620,Efficacy and Safety of Tx360® Transnasal Sphenopalatine Ganglion Block in the Treatment of Chronic Migraine,COMPLETED,2017-09-20,2023-12-29,PHASE3,174,INTERVENTIONAL,Tian Medical Inc.,INDUSTRY,True
+NCT07152145,Pilot Study of tSCS for Improving Upper Limb Function in People With Multiple Sclerosis,NOT_YET_RECRUITING,2025-10,2026-12,NA,60,INTERVENTIONAL,Parc de Salut Mar,OTHER,True
+NCT03465904,A Phase III Trial of e-TNS for the Acute Treatment of Migraine,COMPLETED,2018-04-10,2019-01-11,NA,607,INTERVENTIONAL,Cefaly Technology,INDUSTRY,True
+NCT02340585,Neuroform Atlas Stent System Study,COMPLETED,2015-06-18,2022-09-30,NA,298,INTERVENTIONAL,Stryker Neurovascular,INDUSTRY,True
+NCT06804668,Safety and Feasibility of Tele-supervised Home-based Transcranial Direct Current Stimulation in Parkinson's Disease,RECRUITING,2025-02-06,2026-09-01,NA,6,INTERVENTIONAL,Brigham and Women's Hospital,OTHER,True
+NCT04874155,Noninvasive Peripheral Nerve Stimulation for Medication-Refractory Primary RLS (The RESTFUL Study),COMPLETED,2021-05-06,2022-04-08,NA,133,INTERVENTIONAL,"Noctrix Health, Inc.",INDUSTRY,True
+NCT07001072,Smartshoes for Freezing of Gait in Parkinson's Disease,NOT_YET_RECRUITING,2025-09,2026-09,NA,20,INTERVENTIONAL,Stanford University,OTHER,True
+NCT03529045,Registry of Subjects With Drug Resistant Epilepsy and Treated With the VNS Therapy System.,COMPLETED,2018-02-05,2024-09-11,,827,OBSERVATIONAL,LivaNova,INDUSTRY,True
+NCT03787238,"A Randomized, Multicenter, Study for the prEvention and Acute Treatment of Migraine (REAL)",WITHDRAWN,2019-05-15,2020-10-01,NA,0,INTERVENTIONAL,ElectroCore INC,INDUSTRY,True
+NCT07010705,Digital Measures for Clinical Trial Endpoints in Huntington's Disease,RECRUITING,2025-06-20,2026-09-30,,100,OBSERVATIONAL,University of Rochester,OTHER,True
+NCT04131764,Diagnosis of ON With or Without MS or NMOSD,TERMINATED,2019-10-04,2022-09-06,,112,OBSERVATIONAL,Jagannadha R Avasarala,OTHER,True
+NCT04471844,"Pivotal, Randomized, Open-label Study of Optune® (Tumor Treating Fields) Concomitant With RT & TMZ for the Treatment of Newly Diagnosed GBM",COMPLETED,2020-12-08,2026-02-19,NA,981,INTERVENTIONAL,NovoCure Ltd.,INDUSTRY,True
+NCT06245031,"Extension to a Pivotal Study of Sensory Stimulation in Alzheimer's Disease (OLE Hope Study, CA-0015)",ENROLLING_BY_INVITATION,2024-02-29,2027-03,NA,402,INTERVENTIONAL,"Cognito Therapeutics, Inc.",INDUSTRY,True
+NCT07288437,Deep Brain Stimulation for Spinocerebellar Ataxia,RECRUITING,2026-03,2031-03,NA,5,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT04217551,Influence of Cooling Duration on Efficacy in Cardiac Arrest Patients,ACTIVE_NOT_RECRUITING,2020-05-18,2025-09-05,NA,1158,INTERVENTIONAL,University of Michigan,OTHER,True
+NCT04201834,Risperidone for the Treatment of Huntington's Disease Involuntary Movements,COMPLETED,2020-08-13,2023-12-30,PHASE2,6,INTERVENTIONAL,University of Rochester,OTHER,True
+NCT02791893,Vagus Nerve Stimulation: Treatment for Gulf Veterans With Gulf War Illness,COMPLETED,2017-03-21,2020-04-15,NA,27,INTERVENTIONAL,Benjamin Natelson,OTHER,True
+NCT04205370,Sleep Behaviors in Pregnancy,RECRUITING,2020-01-22,2026-12,NA,500,INTERVENTIONAL,University of Michigan,OTHER,True
+NCT03872453,Acute Treatment Trial in Adult Subjects With Migraines,COMPLETED,2019-03-25,2019-11-11,"PHASE2, PHASE3",2154,INTERVENTIONAL,Pfizer,INDUSTRY,True
+NCT06516354,Evaluation of Obstructive Sleep Apnea (OSA) Using Portable Sleep Testing (PST) Devices on an Inpatient Stroke Unit,WITHDRAWN,2017-08-01,2019-03-31,NA,0,INTERVENTIONAL,Wake Forest University Health Sciences,OTHER,True
+NCT07181174,Early Prediction and Diagnosis of Acute Kidney Injury,ENROLLING_BY_INVITATION,2024-12-01,2026-01-01,,45,OBSERVATIONAL,Aswan University,OTHER,True
+NCT06368193,The Neuralert Stroke Monitor Pilot Trial,RECRUITING,2024-12-12,2027-05-01,NA,50,INTERVENTIONAL,Neuralert Technologies LLC,INDUSTRY,True
+NCT05870124,Clinical Study of a Micro-Implantable Pulse Generator for the Treatment of Peripheral Neuropathic Pain (COMFORT 2),ACTIVE_NOT_RECRUITING,2023-04-27,2027-12-31,NA,185,INTERVENTIONAL,"Nalu Medical, Inc.",INDUSTRY,True
+NCT06747676,GRAViceptive NEGlect Treatment in Acute Stroke Using Targeted Cranial ELECTrotherapy,RECRUITING,2025-01-03,2026-01-15,"PHASE1, PHASE2",28,INTERVENTIONAL,University of Sao Paulo,OTHER,True
+NCT05560867,Neural Mechanisms of Motor Recovery With Technology Assisted Training,TERMINATED,2022-12-14,2024-05-01,NA,4,INTERVENTIONAL,"University of Maryland, Baltimore",OTHER,True
+NCT03741400,Virtual Reality Glove for Hand and Arm Rehabilitation After Stroke,COMPLETED,2018-10-01,2023-09-15,NA,60,INTERVENTIONAL,Stanford University,OTHER,True
+NCT04050501,Non-invasive Vagus Nerve Stimulation in Acute Ischemic Stroke,COMPLETED,2019-10-09,2025-05-05,NA,150,INTERVENTIONAL,Leiden University Medical Center,OTHER,True
+NCT03111277,MR Guided Focused Ultrasound for Treatment of Neuropathic Pain,COMPLETED,2017-09-15,2022-10-09,NA,10,INTERVENTIONAL,"University of Maryland, Baltimore",OTHER,True
+NCT03161067,Investigation on the Bidirectional Cortical Neuroprosthetic System,RECRUITING,2017-08-01,2027-09-30,NA,5,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT04279067,BCI-FES Therapy for Stroke Rehabilitation,COMPLETED,2020-05-15,2024-11-26,NA,62,INTERVENTIONAL,"University of California, Irvine",OTHER,True
+NCT03685578,CERENOVUS Neurothrombectomy Devices Registry,COMPLETED,2018-09-28,2025-02-20,,2000,OBSERVATIONAL,"Cerenovus, Part of DePuy Synthes Products, Inc.",INDUSTRY,True
+NCT04904172,Effectiveness of NIRS (Near-Infrared Spectroscopy) at Acute Ischemic Stroke Patients,UNKNOWN,2020-11-01,2023-05,,54,OBSERVATIONAL,Ege University,OTHER,True
+NCT04799405,Home-based tDCS in Major Depressive Disorder,COMPLETED,2020-09-24,2021-07-02,NA,5,INTERVENTIONAL,Hebrew SeniorLife,OTHER,True
+NCT05196828,Extension Study Evaluating NTX100 Neuromodulation System for Medication-Refractory Primary RLS,COMPLETED,2021-12-20,2022-11-18,NA,103,INTERVENTIONAL,"Noctrix Health, Inc.",INDUSTRY,True
+NCT06963645,Augmented Reality-based Telerehabilitation Platform for Patients With Stroke,NOT_YET_RECRUITING,2025-06,2026-06,NA,30,INTERVENTIONAL,Stanford University,OTHER,True
+NCT04797611,STEM-Parkinson's Disease,COMPLETED,2022-05-19,2024-12-06,NA,188,INTERVENTIONAL,Scion NeuroStim,INDUSTRY,True
+NCT03094715,Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and Extended Time Window,TERMINATED,2018-06-20,2023-11-15,NA,253,INTERVENTIONAL,University Hospital Heidelberg,OTHER,True
+NCT04071847,Abbott DBS Post-Market Study of Outcomes for Indications Over Time,RECRUITING,2019-11-26,2030-09,,1000,OBSERVATIONAL,Abbott Medical Devices,INDUSTRY,True
+NCT03092804,The Brain Structure and Neural Network Changing the Before and After Ventriculo-peritoneal Shunting in the Normal Pressure Hydrocephalus Patients,UNKNOWN,2016-08-01,2019-08,,60,OBSERVATIONAL,Peking Union Medical College Hospital,OTHER,True
+NCT04027049,Biologic Mechanisms of Early Exercise After Intracerebral Hemorrhage,COMPLETED,2019-03-02,2021-02-24,NA,25,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT06328114,Accelerating TMS for Cervical Dystonia,ENROLLING_BY_INVITATION,2024-12-17,2029-07-01,NA,50,INTERVENTIONAL,Duke University,OTHER,True
+NCT04950894,Treating Obstructive Sleep Apnea Using Targeted Hypoglossal Neurostimulation,ACTIVE_NOT_RECRUITING,2021-07-27,2025-10-30,NA,150,INTERVENTIONAL,LivaNova,INDUSTRY,True
+NCT02991430,A Non-Invasive Neuromodulation Device for Prevention of Episodic Migraine Headache,TERMINATED,2017-06-30,2018-05-11,NA,45,INTERVENTIONAL,Scion NeuroStim,INDUSTRY,True
+NCT03903068,Transcranial Alternating Current Stimulation Treating Post-stroke Depression,UNKNOWN,2019-08-15,2020-10-30,NA,70,INTERVENTIONAL,"Xuanwu Hospital, Beijing",OTHER,True
+NCT07071935,A Clinical Trial of Early Ventilation in Amyotrophic Lateral Sclerosis (EVENT ALS),NOT_YET_RECRUITING,2026-03,2029-05,PHASE2,48,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT06374264,Acceptability and Safety of MR-C-014 in Persons With Neuromyelitis Optica Spectrum Disorder,ENROLLING_BY_INVITATION,2024-11-12,2026-03-31,NA,30,INTERVENTIONAL,"MedRhythms, Inc.",INDUSTRY,True
+NCT05977335,Continuous and Non-invasive Measurements by Task Force® CORE/CARDIO in Autonomic Function Testing (AFT),NOT_YET_RECRUITING,2026-11-01,2027-12-01,,75,OBSERVATIONAL,CNSystems Medizintechnik GmbH,INDUSTRY,True
+NCT03353688,Biomarkers to Guide Directional DBS for Parkinson's Disease,COMPLETED,2017-11-03,2024-07-31,NA,31,INTERVENTIONAL,University of Alabama at Birmingham,OTHER,True
+NCT03481205,Ischemic Conditioning During Air tRansport Save penUmbral Tissue,RECRUITING,2020-06-01,2026-12-31,NA,10,INTERVENTIONAL,Enrique Leira,OTHER,True
+NCT03548506,Subthalamic Steering for Therapy Optimization in Parkinson's Disease,UNKNOWN,2018-04-19,2022-04,NA,20,INTERVENTIONAL,University Hospital Tuebingen,OTHER,True
+NCT03443388,Novel Helmet Design in Patients With Seizures,COMPLETED,2017-08-14,2020-03-20,NA,9,INTERVENTIONAL,"Michael A. Gelfand, MD, PhD",OTHER,True
+NCT07221110,rTMS Treatment of Dysphagia in Parkinson's Patients,COMPLETED,2024-08-01,2025-10-08,NA,26,INTERVENTIONAL,Ege University,OTHER,True
+NCT03955432,Long-term Cardiac Monitoring in Epilepsy,TERMINATED,2019-03-19,2023-01-03,NA,7,INTERVENTIONAL,Northwell Health,OTHER,True
+NCT06169852,Stimulus-Evoked Directional Field Potentials to Guide Subthalamic and Pallidal DBS for PD,RECRUITING,2024-01-12,2028-11-30,NA,36,INTERVENTIONAL,University of Alabama at Birmingham,OTHER,True
+NCT06142435,mTBI Identification and Monitoring Through Retinal Scanning,RECRUITING,2023-08-15,2025-08-31,,60,OBSERVATIONAL,"Rebiscan, Inc.",INDUSTRY,True
+NCT05343988,Percutaneous Neurostimulation to Treat Paroxysmal Sympathetic Hyperactivity in Children,TERMINATED,2022-09-22,2025-11-30,NA,20,INTERVENTIONAL,Medical College of Wisconsin,OTHER,True
+NCT03169751,An Exploratory Trial Using sEMG to Differentiate PNES From Epileptic Seizures,UNKNOWN,2017-09-01,2020-02-01,,71,OBSERVATIONAL,Brain Sentinel,OTHER,True
+NCT03625752,Optimization of NIBS for Diabetic Neuropathy Neuropathic Pain,ACTIVE_NOT_RECRUITING,2019-06-06,2026-05-07,NA,60,INTERVENTIONAL,Case Western Reserve University,OTHER,True
+NCT04579692,MR Guided Focused Ultrasound (FUS) for the Treatment of Trigeminal Neuralgia,ACTIVE_NOT_RECRUITING,2021-08-16,2026-05-28,NA,10,INTERVENTIONAL,"University of Maryland, Baltimore",OTHER,True
+NCT05407207,Therapeutic Plantar Electrical Stimulation Intervention During Hemodialysis to Improve Balance and Mobility,RECRUITING,2018-06-01,2022-11-11,NA,100,INTERVENTIONAL,Hamad Medical Corporation,INDUSTRY,True
+NCT04106466,DBS for TRD With the Medtronic Summit RC+S,ACTIVE_NOT_RECRUITING,2020-01-21,2030-12-31,NA,10,INTERVENTIONAL,"Helen Mayberg, MD",OTHER,True
+NCT04499508,Appraising the Embolization of Aneurysms Using Balt Optima™ Coil System (APPLY Study),UNKNOWN,2020-04-10,2023-04-09,NA,30,INTERVENTIONAL,Vascular Neurology of Southern California Inc.,INDUSTRY,True
+NCT04365374,Post-Surgical Stereotactic Radiotherapy (SRT) Versus GammaTile-ROADS (Radiation One and Done Study),ACTIVE_NOT_RECRUITING,2021-04-06,2029-08-30,PHASE3,230,INTERVENTIONAL,"GT Medical Technologies, Inc.",INDUSTRY,True
+NCT04151290,Cognoa ASD Diagnosis Aid Validation Study,COMPLETED,2019-08-07,2020-08-31,NA,711,INTERVENTIONAL,"Cognoa, Inc.",INDUSTRY,True
+NCT03010462,Electric Field Navigated 1hz Rtms for Post-stroke Motor Recovery Trial,COMPLETED,2017-03-01,2018-08-15,NA,60,INTERVENTIONAL,Nexstim Ltd,INDUSTRY,True
+NCT05968703,Combined STN and NBM Deep Brain Stimulation for Mild Cognitive Impairment in Parkinson's Disease,RECRUITING,2025-04-08,2027-07-31,NA,10,INTERVENTIONAL,Helen M. Bronte-Stewart,OTHER,True
+NCT03348956,Biomarkers in Chemotherapy-Induced Peripheral Neurotoxicity,COMPLETED,2018-03-01,2022-02-14,NA,7,INTERVENTIONAL,Dartmouth-Hitchcock Medical Center,OTHER,True
+NCT03733431,Non-invasive TRanscutaneous Cervical Vagus Nerve Stimulation as a Treatment for Acute Stroke; Safety and Feasibility Study,COMPLETED,2019-05-10,2021-04-01,NA,69,INTERVENTIONAL,Turkish Stroke Research and Clinical Trials Network,NETWORK,True
+NCT05958030,GyroGlove Use in Essential Tremor Patients,NOT_YET_RECRUITING,2025-07,2025-12,NA,30,INTERVENTIONAL,GyroGear Ltd,INDUSTRY,True
+NCT03152136,A Pilot Study of the Cala ONE Device for Essential Tremor,COMPLETED,2017-07-26,2018-03-08,NA,62,INTERVENTIONAL,"Cala Health, Inc.",INDUSTRY,True
+NCT06598189,Ear-Seizure Detection (EarSD) Study,RECRUITING,2025-04-03,2032-12,NA,40,INTERVENTIONAL,Felicia Chu,OTHER,True
+NCT03263897,Feasibility of Using a Mobile Device Controlled Micro-pressure Pulse Insufflator for Acute Migraine Relief,TERMINATED,2017-08-21,2020-12-31,NA,59,INTERVENTIONAL,Caps Research Network,OTHER,True
+NCT04298723,Comparison of LAA-Closure vs Oral Anticoagulation in Patients With NVAF and Status Post Intracranial Bleeding.,RECRUITING,2020-06-16,2029-12,NA,530,INTERVENTIONAL,Jena University Hospital,OTHER,True
+NCT07398157,"Simplified, Scalable, 24-hour Adaptive DBS in Parkinson's Disease",NOT_YET_RECRUITING,2026-02-01,2031-11-30,NA,24,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT03222375,SQUED™ Series 28.1 Home-use and Treatment of Autowave Reverberator of Autism,RECRUITING,2017-09-26,2027-12,,80,OBSERVATIONAL,American Federation of Medical Synergetics,OTHER,True
+NCT06477016,OsciPulse D-dimer Pilot Trial,RECRUITING,2025-02-12,2027-02,NA,40,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT04576650,Brain-Computer Interface Implant for Severe Communication Disability,WITHDRAWN,2022-10,2023-10,NA,0,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT06272955,LONG TERM EFFECTS OF SPINAL CORD STIMULATION,UNKNOWN,2024-01-04,2025-06-30,,10,OBSERVATIONAL,Nora Vanegas,OTHER,True
+NCT03567213,Investigation on the Cortical Communication (CortiCom) System,RECRUITING,2021-12-14,2026-08-31,NA,3,INTERVENTIONAL,Johns Hopkins University,OTHER,True
+NCT04729257,Norms Expansion and Validation for IntelliSpace Cognition,COMPLETED,2021-03-08,2021-07-02,NA,508,INTERVENTIONAL,Philips Electronics Nederland B.V. acting through Philips CTO organization,INDUSTRY,True
+NCT04089761,Safety and Efficacy of Nerivio™ for the Acute Treatment of Migraine in Adolescents,TERMINATED,2019-10-01,2020-05-24,NA,60,INTERVENTIONAL,Theranica,INDUSTRY,True
+NCT04552132,Postoperative Pain and Healing in Teeth Treated With GentleWave or EndoActivator,COMPLETED,2020-09-30,2022-03-16,NA,63,INTERVENTIONAL,St. Louis University,OTHER,True
+NCT05038293,Efficacy of Plaque Removal of a Novel Brushing Device,COMPLETED,2021-09-17,2022-02-01,NA,42,INTERVENTIONAL,University of Washington,OTHER,True
+NCT03309748,Phototherapy Remediation of Black Stain,COMPLETED,2014-05-05,2016-04-30,NA,31,INTERVENTIONAL,Cardenal Herrera University,OTHER,True
+NCT03652454,The Evaluation Of The Efficiency Of Micro-osteoperforation,COMPLETED,2017-10-03,2019-06-24,NA,28,INTERVENTIONAL,Izmir Katip Celebi University,OTHER,True
+NCT03033628,"Pain Perception of Dental Local Anesthesia Using ""DentalVibe Comfort System"" in a Group of Egyptian Children",UNKNOWN,2017-04-01,2018-01-01,NA,21,INTERVENTIONAL,Cairo University,OTHER,True
+NCT03374982,Effect of the DentalVibe Injection System on Pain During Local Anesthesia Injections in Children,COMPLETED,2018-02-19,2019-05-20,NA,23,INTERVENTIONAL,University of Nebraska,OTHER,True
+NCT05554133,Precision Optical Guidance for Oral Biopsy,RECRUITING,2023-06-15,2027-03-31,NA,90,INTERVENTIONAL,M.D. Anderson Cancer Center,OTHER,True
+NCT04092062,Safety and Efficacy of the ToothWave Powered Toothbrush for Extrinsic Stain Reduction (Texas),COMPLETED,2019-08-07,2020-01-28,NA,91,INTERVENTIONAL,Home Skinovations Ltd.,INDUSTRY,True
+NCT05661747,Dental Appliance to Treat SDB in Children,UNKNOWN,2022-05-03,2025-03-31,PHASE4,50,INTERVENTIONAL,"Vivos BioTechnologies, Inc.",INDUSTRY,True
+NCT02357979,Fissure Caries Inhibition Study With Solea CO2-9.3μm Short-pulsed Laser,COMPLETED,2018-02-08,2020-03-31,NA,60,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT03663231,Duration of Effect of Biotene Spray in Patients With Dry Mouth,COMPLETED,2019-02-11,2019-11-22,NA,37,INTERVENTIONAL,University of Rochester,OTHER,True
+NCT05311735,Mineralized and Partial Demineralized Dentin Graft Compared to FDBA,COMPLETED,2021-10-29,2024-06-19,NA,45,INTERVENTIONAL,University of Oklahoma,OTHER,True
+NCT04199026,Implantable Microdevice for the Delivery of Drugs and Their Effect on Tumors in Patients With Metastatic or Recurrent Sarcoma,RECRUITING,2025-02-25,2028-12-31,NA,20,INTERVENTIONAL,M.D. Anderson Cancer Center,OTHER,True
+NCT02818972,RelayPro Thoracic Stent-Graft in Subjects With Thoracic Aortic Aneurysms and Penetrating Atherosclerotic Ulcers,ACTIVE_NOT_RECRUITING,2017-05-10,2025-12,NA,110,INTERVENTIONAL,Bolton Medical,INDUSTRY,True
+NCT03635515,Occurrence of Post-op Pain Following Gentlewave,COMPLETED,2018-09-01,2021-07-31,NA,87,INTERVENTIONAL,University of Minnesota,OTHER,True
+NCT03578549,Diagnostic Device for the Assessment of Pulpal Blood Flow,COMPLETED,2018-07-12,2019-06-30,,30,OBSERVATIONAL,University of Michigan,OTHER,True
+NCT06761248,Comparing Fluorescent Starch Nanoparticles Rinse with ICDAS for Early Caries Detection in Children,NOT_YET_RECRUITING,2025-03-10,2026-08-15,NA,78,INTERVENTIONAL,Cairo University,OTHER,True
+NCT06990945,The Study Aims to Compare the Effectiveness of Mesoporous Bioactive Glass-containing Adhesives vs Conventional Universal Adhesives on the Clinical Performance Composite Restorations Through Promoting Dentin Remineralization After Selective Caries Removal Over a Two-year Follow-up,NOT_YET_RECRUITING,2025-10,2027-12,NA,80,INTERVENTIONAL,Cairo University,OTHER,True
+NCT04892355,Postoperative Pain After İntracanal Procedures,UNKNOWN,2022-08-06,2022-11-06,NA,140,INTERVENTIONAL,Afyonkarahisar Health Sciences University,OTHER,True
+NCT07461506,NeuroCuple to Mitigate Post-Wisdom Teeth Extraction Opioid Risks,NOT_YET_RECRUITING,2026-06-30,2027-09-30,NA,120,INTERVENTIONAL,nCap Medical,INDUSTRY,True
+NCT05196490,Analyzing the Effect of Air Polishing on Tooth Surfaces With Two Imaging Methods,COMPLETED,2020-06-17,2020-09-14,,14,OBSERVATIONAL,Kocaeli University,OTHER,True
+NCT03003689,Effects of Scaling and Root Planing With and Without Er:YAG Laser in Chronic Periodontitis Patients,UNKNOWN,2017-04-20,2018-03,NA,56,INTERVENTIONAL,Tufts University School of Dental Medicine,OTHER,True
+NCT05264545,Non-Guided vs. Guided Surgery to Immediately Loaded PrimeTaper Implants in Partially Edentulous Patients,ACTIVE_NOT_RECRUITING,2022-03-22,2026-10,NA,100,INTERVENTIONAL,McGuire Institute,INDUSTRY,True
+NCT04092075,Safety and Efficacy of the ToothWave -12 Weeks Calculus Study,COMPLETED,2019-08-07,2020-04-30,NA,87,INTERVENTIONAL,Home Skinovations Ltd.,INDUSTRY,True
+NCT06539676,A Study to Compare Nighttime Aligners to Daytime Aligners,TERMINATED,2024-09-04,2025-01-17,NA,7,INTERVENTIONAL,Dentsply Sirona Implants and Consumables,INDUSTRY,True
+NCT05022368,Oral Device Clinical Trial,UNKNOWN,2021-05-24,2024-08-01,PHASE1,250,INTERVENTIONAL,Nationwide Children's Hospital,OTHER,True
+NCT06958250,Novel Endoscopic Bite Block,RECRUITING,2025-12-22,2026-12,NA,50,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT03512769,Feasibility Testing of a New Way to Support the Jaw During 3rd Molar Extractions,COMPLETED,2018-06-01,2018-12-30,,19,OBSERVATIONAL,University of Minnesota,OTHER,True
+NCT04415281,Photobiomodulation for the Management of Temporomandibular Disorder Pain,TERMINATED,2021-04-28,2022-12-16,NA,14,INTERVENTIONAL,University of Florida,OTHER,True
+NCT03812692,Validation of a Simplified MATRx Plus,COMPLETED,2019-02-06,2021-03-01,,59,OBSERVATIONAL,Zephyr Sleep Technologies,INDUSTRY,True
+NCT04875104,Upper Sequential Distalization With TADs and Aligners,UNKNOWN,2021-11,2023-12,NA,392,INTERVENTIONAL,Universidad Complutense de Madrid,OTHER,True
+NCT07287956,The Use of Adjunct Oxygen High-Level Laser Therapy on the Clinical and Microbiological Outcomes of Peri-implant Disease,COMPLETED,2024-02-05,2025-08-01,NA,16,INTERVENTIONAL,King Abdullah University Hospital,OTHER,True
+NCT02873585,"Conventional Bite Wing Radiography Versus Stationary Intraoral Tomosynthesis, a Comparison Study",COMPLETED,2018-04-19,2019-09-30,NA,32,INTERVENTIONAL,"University of North Carolina, Chapel Hill",OTHER,True
+NCT03075865,A Cohort Study for Clinical Evaluation of OmniMax MMF System,COMPLETED,2017-06-28,2019-06-28,,39,OBSERVATIONAL,Zimmer Biomet,INDUSTRY,True
+NCT05084742,Long-term Performance and Safety of Biodentine™ in Patients Treated for Endodontic Indications,RECRUITING,2021-11-08,2031-09,,160,OBSERVATIONAL,Septodont,INDUSTRY,True
+NCT07053969,The Effect Of Enamel Matrix Derivatives On Gingival Tissue Thickness,RECRUITING,2025-08-31,2027-09,NA,32,INTERVENTIONAL,The University of Texas Health Science Center at San Antonio,OTHER,True
+NCT05671861,Evaluating a Low-Cost Therapeutic Device in Managing Head and Neck Cancer Patients With Radiation-Related Trismus,ACTIVE_NOT_RECRUITING,2023-04-27,2028-03-31,NA,35,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT03551496,The DES BTK Vascular Stent System vs PTA in Subjects With Critical Limb Ischemia,COMPLETED,2018-08-31,2023-12-20,PHASE3,201,INTERVENTIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT04237545,A Clinical Study of the T3 Short Dental Implant System,COMPLETED,2019-10-01,2026-01-31,NA,106,INTERVENTIONAL,ZimVie,INDUSTRY,True
+NCT07342595,Evaluation of Radiation-Free Caries Detection Integrated Into Intraoral Scanners Compared With Conventional Diagnostic Methods,NOT_YET_RECRUITING,2026-04,2027-07,NA,50,INTERVENTIONAL,Albert Mehl,OTHER,True
+NCT06480877,Effect of Aerosol From THS and Cigarette Smoke on Periodontal Tissues and Its Microbiome,COMPLETED,2022-06-01,2023-06-01,,66,OBSERVATIONAL,Clinical Hospital Center Rijeka,OTHER,True
+NCT04680806,Laser-Assisted Gingival Depigmentation,COMPLETED,2015-04-05,2019-10-20,NA,60,INTERVENTIONAL,Academy of Laser Dentistry - Gulf Laser Chapter,OTHER,True
+NCT03033134,A Study to Evaluate the Safety and Effectiveness of the Left Atrial Appendage Closure Therapy Using BSJ003W,COMPLETED,2017-02-27,2019-09-05,NA,54,INTERVENTIONAL,Boston Scientific Japan K.K.,INDUSTRY,True
+NCT05260892,Incisors Single-Unit Rehabilitation With Narrow GM Implants,UNKNOWN,2022-10-01,2025-12-15,,55,OBSERVATIONAL,Neodent,INDUSTRY,True
+NCT04081311,A Comparison of the Efficacy of Interdental Floss to Water Flosser Around Dental Implants,COMPLETED,2019-09-06,2021-03-31,NA,33,INTERVENTIONAL,University of Manitoba,OTHER,True
+NCT05126797,3D Printed Oral Stents for Patients With Head and Neck Cancer Receiving Radiation Therapy,TERMINATED,2017-10-11,2025-03-21,NA,57,INTERVENTIONAL,M.D. Anderson Cancer Center,OTHER,True
+NCT03891004,Skin Closure With Tissue Adhesives vs. Subcuticular Suture After Robotic Urogynecologic Procedures,COMPLETED,2018-03-20,2018-12-31,NA,47,INTERVENTIONAL,St. John Hospital & Medical Center,OTHER,True
+NCT04701762,Endotracheal Intubation Using Videolaryngoscopy Versus Conventional Direct Laryngoscopy,COMPLETED,2021-03-01,2022-12-23,NA,7736,INTERVENTIONAL,The Cleveland Clinic,OTHER,True
+NCT06573996,The Effect of Intraoral Transcutaneous Electrical Nerve Stimulation in Orthodontics Pain,RECRUITING,2024-09-16,2029-09-01,NA,150,INTERVENTIONAL,University of the Pacific,OTHER,True
+NCT04779203,Study Comparing Osseodensification With Standard Drilling,COMPLETED,2020-07-27,2020-12-18,,23,OBSERVATIONAL,Jackson Implant Surgery,INDUSTRY,True
+NCT04957342,Effect of Using Placental Membranes on Healing and Post-op Pain After Gum Surgery,COMPLETED,2021-05-15,2023-07-01,NA,10,INTERVENTIONAL,Harvard Medical School (HMS and HSDM),OTHER,True
+NCT03231254,Differences in Predicted Therapeutic Outcome of Oral Appliance Determined by RCMP in Quebec Versus Shenyang Patients With OSA.,UNKNOWN,2017-07-01,2017-10-29,,100,OBSERVATIONAL,First Hospital of China Medical University,OTHER,True
+NCT05562388,Mandibular Advancement Device and Changes in Nocturia,RECRUITING,2023-12-11,2026-03-12,NA,36,INTERVENTIONAL,Fernanda Yanez Regonesi,OTHER,True
+NCT06955429,Clinical Investigation Measuring the Long Term Clinical Performance and Safety of Biodentine™ XP in Patients Treated for Coronal Restorative or Endodontic Dental Indications.,NOT_YET_RECRUITING,2025-09-01,2036-07-15,,275,OBSERVATIONAL,Septodont,INDUSTRY,True
+NCT04591158,COVID-19 and Lung Ultrasound Utility,COMPLETED,2020-09-15,2021-06-09,NA,6,INTERVENTIONAL,Bridge to Health Medical and Dental USA,OTHER,True
+NCT02569671,Bone Level Tapered Multi-Center Study,ACTIVE_NOT_RECRUITING,2016-03,2025-09,NA,53,INTERVENTIONAL,Institut Straumann AG,INDUSTRY,True
+NCT05988385,The Effects of Successful OSA Treatment on Memory and AD Biomarkers in Older Adults Study,RECRUITING,2024-04-22,2028-05-31,NA,200,INTERVENTIONAL,California Pacific Medical Center Research Institute,OTHER,True
+NCT04985461,Minimally Invasive Dental Occlusion Ties,COMPLETED,2017-06-30,2020-03-12,,10,OBSERVATIONAL,Altru Health System,OTHER,True
+NCT03862482,Peri-Implant Healing Around Two Different Machined-Collar Designs After 25 Years of Function,COMPLETED,2019-06-03,2019-12-31,NA,22,INTERVENTIONAL,Université de Montréal,OTHER,True
+NCT06570044,Evaluation of PerioMonitor for Detection of Oral Inflammatory (OI) in Human Subjects in Medical Practice,COMPLETED,2024-07-30,2025-05-01,NA,86,INTERVENTIONAL,Oral Science International Inc.,INDUSTRY,True
+NCT03198520,REFRAME RPD Post-Market Clinical Study,COMPLETED,2017-06-06,2019-10-07,NA,46,INTERVENTIONAL,Solvay Dental 360,INDUSTRY,True
+NCT04369638,Fabrication of Naso-alveolar Molding (NAM) Appliance in Cleft Lip and Palate (CLP) From Digital Magnetic Resonance Imaging (MRI) Face Scan,TERMINATED,2021-01-27,2021-04-01,NA,1,INTERVENTIONAL,"The University of Texas Health Science Center, Houston",OTHER,True
+NCT07290790,A Prospective Multicenter Clinical Investigation Evaluating the Accuracy of the Trimline Design When Treated With SureSmile® Aligners.,RECRUITING,2026-01-29,2028-02-01,NA,90,INTERVENTIONAL,Dentsply Sirona Implants and Consumables,INDUSTRY,True
+NCT05361746,Scotchbond Universal Plus Compared to Scotchbond Universal With Filtek Universal Restorative to Restore Class V NCCLs,ACTIVE_NOT_RECRUITING,2022-08-18,2025-07-30,NA,38,INTERVENTIONAL,Solventum US LLC,INDUSTRY,True
+NCT06519149,Safety and Effectiveness of Slow Wave Device for the Treatment of Obstructive Sleep Apnea,RECRUITING,2024-10-01,2025-09-30,,70,OBSERVATIONAL,"Slow Wave, Inc.",INDUSTRY,True
+NCT03538899,Autologous Gene Therapy for Artemis-Deficient SCID,RECRUITING,2018-05-31,2038-06,"PHASE1, PHASE2",24,INTERVENTIONAL,"University of California, San Francisco",OTHER,True
+NCT04900285,Pilot Study for Feasibility of Using an Oral Appliance for Decreasing Snoring,UNKNOWN,2021-06-01,2023-12-31,NA,30,INTERVENTIONAL,Norton Healthcare,OTHER,True
+NCT05818527,Effectiveness of Low Frequency Vibration on the Rate of Canine Retraction,COMPLETED,2015-09,2017-09,NA,32,INTERVENTIONAL,mohamed abdelmotaleb,OTHER,True
+NCT06152081,Caries Detection With Two Different Caries Detecting Devices,RECRUITING,2025-04-01,2027-10,NA,60,INTERVENTIONAL,Tufts University,OTHER,True
+NCT03445286,Silver Diamine Fluoride and Gingivitis in Geriatric Patients,COMPLETED,2019-01-29,2020-05-22,NA,48,INTERVENTIONAL,Texas A & M University Baylor College Of Dentistry,OTHER,True
+NCT07306403,THE COMPARISON OF GELATIN SPONGE TO SUTURE ALONE ON POST OPERATIVE SWELLING AFTER EXTRACTION OF IMPACTED MANDIBULAR THIRD MOLAR.,COMPLETED,2024-08-30,2025-03-30,NA,60,INTERVENTIONAL,Watim Medical & Dental College,OTHER,True
+NCT03753906,Evaluation of Self-filling Osmotic Tissue Expander in Augmenting Keratinized Tissue Around Dentulous Region,COMPLETED,2016-11-05,2019-01,NA,10,INTERVENTIONAL,Krishnadevaraya College of Dental Sciences & Hospital,OTHER,True
+NCT01224158,Study of an Experimental Toothbrush for Treatment and Prevention of Gingivitis,COMPLETED,2010-09-13,2010-10-29,NA,153,INTERVENTIONAL,Johnson & Johnson Consumer and Personal Products Worldwide,INDUSTRY,True
+NCT03078127,Researching the Effects of Airway Clearance Therapies in Cystic Fibrosis,COMPLETED,2017-02-01,2018-01-10,NA,10,INTERVENTIONAL,"University of North Carolina, Chapel Hill",OTHER,True
+NCT06713577,Clinical Study of a 3D Shaded Zirconia for Chairside CAD/CAM Restorations,ACTIVE_NOT_RECRUITING,2024-12-03,2031-11-22,,82,OBSERVATIONAL,Dentsply Sirona Implants and Consumables,INDUSTRY,True
+NCT04414917,Reducing Opioid Use and Misuse After Wisdom Molar Extractions,NOT_YET_RECRUITING,2024-11,2027-04,PHASE2,133,INTERVENTIONAL,"Rutgers, The State University of New Jersey",OTHER,True
+NCT05166434,Assessment Crestal Maxillary Sinus Membrane Elevation Using Different Implant Heights,UNKNOWN,2021-10-01,2022-05-01,PHASE1,32,INTERVENTIONAL,Cairo University,OTHER,True
+NCT04023006,An Observational Clinical Case Series Study to Assess Fit and Quality of Full Dentures Fabricated by AM,TERMINATED,2019-08-01,2020-04-01,,10,OBSERVATIONAL,Dentsply International,INDUSTRY,True
+NCT03671512,Standard Root Planing vs. Periodontal Structure Repair Device for Treatment of Pockets Caused by Periodontal Disease,COMPLETED,2018-12-06,2020-03-09,NA,60,INTERVENTIONAL,"Periovance, Inc",INDUSTRY,True
+NCT06656325,An Evaluation of the Effect of the Erchonia FX-405 Laser as an Adjunctive Treatment of Periodontitis,RECRUITING,2025-01-01,2027-02-01,NA,70,INTERVENTIONAL,Erchonia Corporation,INDUSTRY,True
+NCT02340767,Decision Aids for the Management of Suspicious Occlusal Caries Lesions,COMPLETED,2014-12,2016-12,NA,3085,INTERVENTIONAL,The National Dental Practice-Based Research Network,NETWORK,True
+NCT03975920,Assessing a New Jaw Support Device During Third Molar Extractions,COMPLETED,2019-06-25,2021-02-25,NA,180,INTERVENTIONAL,University of Minnesota,OTHER,True
+NCT06173648,Histopathological Evaluation of the Periodontal Ligament Subjected to Laser Ablation.,COMPLETED,2023-08-01,2023-10-31,NA,10,INTERVENTIONAL,"CAO Group, Inc.",INDUSTRY,True
+NCT02805764,"Changes in Upper Airway Anatomy, Quality of Life Measures, and Polysomnographic Parameters Using A Functional Dental Appliance",WITHDRAWN,2018-04-01,2019-01-02,NA,0,INTERVENTIONAL,Montefiore Medical Center,OTHER,True
+NCT04596761,ToothWave Calculus Reduction and Accumulation Prevention Study,COMPLETED,2020-07-15,2020-12-10,NA,90,INTERVENTIONAL,Home Skinovations Ltd.,INDUSTRY,True
+NCT05461417,"Long-term Efficacy, Tolerance and Compliance of Panthera D-SAD® Mandibular Advancement Orthosis in Sleep Apnea",ACTIVE_NOT_RECRUITING,2022-04-07,2029-05,,337,OBSERVATIONAL,Panthera Dental Inc.,INDUSTRY,True
+NCT07186725,Home-based Under Mattress Monitor for OSA,RECRUITING,2026-01-07,2027-03,NA,70,INTERVENTIONAL,Isabel Moreno Hay,OTHER,True
+NCT06035952,Study of 3D Scanning for Adolescent Scoliosis,UNKNOWN,2023-08-07,2023-12-15,,70,OBSERVATIONAL,NSite Medical,INDUSTRY,True
+NCT04233112,Melatonin and Osteogenic Loading on Osteopenia,ACTIVE_NOT_RECRUITING,2020-05-26,2025-09-01,EARLY_PHASE1,40,INTERVENTIONAL,Duquesne University,OTHER,True
+NCT01852032,Computed Tomography Versus Standard 2D Mammography Versus 3D Tomosynthesis,COMPLETED,2010-11,2016-03-04,NA,23,INTERVENTIONAL,"University of California, Davis",OTHER,True
+NCT04266470,Monitoring Blood Flow and Metabolic Activity in Malignant Tissue of Head and Neck Region,WITHDRAWN,2020-03-09,2022-03-10,NA,0,INTERVENTIONAL,Wake Forest University Health Sciences,OTHER,True
+NCT04176562,Prospective SPINE Registry,UNKNOWN,2020-01-28,2025-06,,5000,OBSERVATIONAL,Xtant Medical,INDUSTRY,True
+NCT02060630,Best Endovascular vs. Best Surgical Therapy in Patients With Critical Limb Ischemia,COMPLETED,2014-08,2022-03-01,NA,1843,INTERVENTIONAL,Carelon Research,OTHER,True
+NCT07296055,Endobronchial Valve in Tubercular and NTM Pulmonary Cavities.,NOT_YET_RECRUITING,2026-01-12,2028-12-12,NA,30,INTERVENTIONAL,Azienda Ospedaliero-Universitaria Careggi,OTHER,True
+NCT04634916,Post-market Surveillance Study of the BD® WavelinQ™ EndoAVF System,RECRUITING,2021-03-26,2027-09,NA,280,INTERVENTIONAL,C. R. Bard,INDUSTRY,True
+NCT03438565,SURE 18 Registry -Asahi Chikai Black 18 in LVO Stroke,COMPLETED,2018-03-18,2020-02-01,,100,OBSERVATIONAL,Icahn School of Medicine at Mount Sinai,OTHER,True
+NCT03650712,EnVision CF Multicenter Study of Glucose Tolerance in Cystic Fibrosis,COMPLETED,2019-07-01,2023-08-31,NA,317,INTERVENTIONAL,Katie Larson Ode,OTHER,True
+NCT03222739,Ultrasound for Scoliosis Diagnostic Evaluation,UNKNOWN,2018-03-14,2023-12-06,NA,30,INTERVENTIONAL,Children's National Research Institute,OTHER,True
+NCT04092881,Efficacy of Short Pulsed 1064 nm Nd-YAG Laser Versus 10600 nm Fractional CO2 Laser in Treatment of Striae Alba,UNKNOWN,2019-02-01,2021-12-31,NA,31,INTERVENTIONAL,Cairo University,OTHER,True
+NCT07020000,"The Objective of the Protocol is to Generate Real World Evidence (RWE) Supporting the Safety, Performance, and Health Economics of Using the Regulatory Approved and Commercially Available EARP Interbody System Used During Lumbar Interbody Fusion (LIF) Procedures With the EARP Nerve Cuff Electrode",NOT_YET_RECRUITING,2025-08-30,2027-09-30,,120,OBSERVATIONAL,"Retropsoas Technologies, LLC",INDUSTRY,True
+NCT06220214,Neoadjuvant Therapy and Contrast-enhanced Mammography for Early Stage Breast Cancer,RECRUITING,2024-03-06,2026-08-31,EARLY_PHASE1,30,INTERVENTIONAL,Alison Stopeck,OTHER,True
+NCT06410313,First In Human Study to Assess Safety and Efficacy of the ChampioNIR™ Drug Eluting Peripheral Stent in the Treatment of Patients With Superficial Femoral Artery Disease and/or Proximal Popliteal Artery Disease,RECRUITING,2024-08-15,2030-02-28,NA,30,INTERVENTIONAL,Medinol Ltd.,INDUSTRY,True
+NCT04005235,FOT Assessment of Hemi-diaphragm Dysfunction After Upper Extremity Nerve Blocks,TERMINATED,2019-07-31,2020-03-12,,19,OBSERVATIONAL,Nova Scotia Health Authority,OTHER,True
+NCT03477110,"Temozolomide, Radiation Therapy, and Tumor Treating Fields Therapy in Treating Participants With Glioblastoma",COMPLETED,2018-05-04,2024-01-26,EARLY_PHASE1,30,INTERVENTIONAL,Sidney Kimmel Comprehensive Cancer Center at Thomas Jefferson University,OTHER,True
+NCT03381989,Bioprosthetic or Native Aortic Scallop Intentional Laceration to Prevent Iatrogenic Coronary Artery Obstruction (BASILICA) Prospective Investigation,COMPLETED,2018-02-14,2019-08-22,NA,31,INTERVENTIONAL,"National Heart, Lung, and Blood Institute (NHLBI)",NIH,True
+NCT05824676,DePuy Synthes Variable Angle LCP Patella Plating System Study,NOT_YET_RECRUITING,2023-05,2027-12,NA,36,INTERVENTIONAL,Hartford Hospital,OTHER,True
+NCT00004732,Carotid Revascularization Endarterectomy Versus Stenting Trial,COMPLETED,2000-12,2016-12,NA,2502,INTERVENTIONAL,"Rutgers, The State University of New Jersey",OTHER,True
+NCT03300206,A Post-Market Clinical Trial to Evaluate the Performance and Operation of the Brevera Breast Biopsy System,COMPLETED,2017-09-13,2019-03-19,,525,OBSERVATIONAL,"Hologic, Inc.",INDUSTRY,True
+NCT07042815,Long-term Follow-up for Epidural Stimulation in SCI,ENROLLING_BY_INVITATION,2025-01-13,2028-08,NA,91,INTERVENTIONAL,Kessler Foundation,OTHER,True
+NCT07414745,MDT-0123 Japan Study,NOT_YET_RECRUITING,2026-02-28,2028-03-31,NA,140,INTERVENTIONAL,Medtronic Spinal and Biologics,INDUSTRY,True
+NCT04911257,Interbody Systems: Post Market Clinical Follow-up Study,TERMINATED,2021-12-07,2025-03-21,,28,OBSERVATIONAL,"K2M, Inc.",INDUSTRY,True
+NCT04523350,Instylla HES Hypervascular Tumor Pivotal Study,COMPLETED,2021-01-04,2024-11-19,NA,150,INTERVENTIONAL,"Instylla, Inc.",INDUSTRY,True
+NCT03986203,Evaluation of the Spry Belt for Improving Bone Quality,UNKNOWN,2019-08-13,2022-05-31,NA,140,INTERVENTIONAL,"Theranova, L.L.C.",INDUSTRY,True
+NCT04631718,MRI QSM Imaging for Iron Overload,COMPLETED,2022-01-18,2024-04-29,,63,OBSERVATIONAL,"University of Wisconsin, Madison",OTHER,True
+NCT06453785,Comparing pOrtable MRI and TRUS-Fusion Prostate Biopsy to Assess aCcuracy of Prostate Cancer Detection,NOT_YET_RECRUITING,2025-03,2027-07,NA,85,INTERVENTIONAL,Imperial College London,OTHER,True
+NCT01463423,Individualized Lung Tumor Stereotactic Ablative Radiotherapy (iSABR),COMPLETED,2011-10-21,2022-02-07,NA,256,INTERVENTIONAL,Stanford University,OTHER,True
+NCT05811364,The GORE VBX FORWARD Clinical Study: A Comparison of the GORE® VIABAHN® VBX Balloon Expandable Endoprosthesis to Bare Metal Stenting for Patients With Complex Iliac Occlusive Disease,RECRUITING,2023-10-17,2032-01-31,NA,244,INTERVENTIONAL,W.L.Gore & Associates,INDUSTRY,True
+NCT03008603,"Evaluation of the Safety, Effectiveness & Usability of the XACT Robotic System for Image Guided Percutaneous Procedures",COMPLETED,2018-09-04,2021-02-16,NA,60,INTERVENTIONAL,Xact Robotics Ltd.,INDUSTRY,True
+NCT06710795,AFFIX: Post-market Study of MaxTack™ Motorized Fixation Device in Subjects Undergoing Ventral Hernia Repair,RECRUITING,2024-11-26,2027-02-15,NA,110,INTERVENTIONAL,Medtronic - MITG,INDUSTRY,True
+NCT04171037,Optiflow THRIVE for Delivery of Oxygen to Patients During Total Intravenous Anesthesia While Undergoing Radiology Procedures,COMPLETED,2019-10-04,2024-06-21,NA,108,INTERVENTIONAL,M.D. Anderson Cancer Center,OTHER,True
+NCT03232151,C-arm Cone Beam CT Perfusion Guided Cerebrovascular Interventions,COMPLETED,2017-07-01,2020-03-26,NA,60,INTERVENTIONAL,"University of Wisconsin, Madison",OTHER,True
+NCT04622696,HydroMARK Post-market Clinical Follow-up Study,COMPLETED,2021-02-16,2023-08-07,,730,OBSERVATIONAL,"Devicor Medical Products, Inc.",INDUSTRY,True
+NCT03797144,Fenestrated Screw Study,TERMINATED,2019-04-18,2020-07-15,NA,27,INTERVENTIONAL,Medtronic Spinal and Biologics,INDUSTRY,True
+NCT03427333,Rook Epicardial Access Device Study,COMPLETED,2018-01-18,2019-02-25,NA,13,INTERVENTIONAL,Talon Surgical,INDUSTRY,True
+NCT04105062,"LS301 Uptake in Tumors of Patients Undergoing Liver, Pancreas, or Gastric Surgery",WITHDRAWN,2021-12-31,2023-12-31,"PHASE1, PHASE2",0,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT05299762,A Post Market Surveillance on INFUSE Bone Graft,RECRUITING,2022-08-10,2025-08-31,,600,OBSERVATIONAL,Medtronic Spinal and Biologics,INDUSTRY,True
+NCT03959982,"HHHFA in COPD Patients, With Chronic Bronchitis",COMPLETED,2021-02-24,2022-12-05,NA,11,INTERVENTIONAL,Spyridon Fortis,OTHER,True
+NCT06810427,"A Novel, Low-Cost, Handheld 3D Imaging System for Improved Screening for Cervical Neoplasia in Resource-Limited Settings",ACTIVE_NOT_RECRUITING,2025-01-16,2026-07-31,NA,18,INTERVENTIONAL,Carilion Clinic,OTHER,True
+NCT03531840,Olaparib in People With Malignant Mesothelioma,COMPLETED,2018-07-11,2020-10-21,PHASE2,23,INTERVENTIONAL,National Cancer Institute (NCI),NIH,True
+NCT01595217,MRCP Diagnoses EHCC Better When Combined DWI,COMPLETED,2012-03,2013-05,NA,99,INTERVENTIONAL,"China Medical University, China",OTHER,True
+NCT04814693,Conventional Endoscopic Techniques Versus EndoRotor® System for Necrosectomy of Walled of Necrosis,ENROLLING_BY_INVITATION,2022-09-02,2027-02-01,NA,60,INTERVENTIONAL,Erasmus Medical Center,OTHER,True
+NCT07118202,TheraBionic P1 Device in Subjects With Advanced Hepatocellular Carcinoma,RECRUITING,2025-10-20,2027-08-31,NA,198,INTERVENTIONAL,Barbara Ann Karmanos Cancer Institute,OTHER,True
+NCT07110922,Angiography and Electrogram Guided Bachmann Bundle Pacing,RECRUITING,2025-08-15,2027-12-26,NA,50,INTERVENTIONAL,Pugazhendhi Vijayaraman,OTHER,True
+NCT02512874,Does Pulmonary Rehabilitation Improve Frailty?,COMPLETED,2015-07-21,2018-10-16,NA,65,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT04241250,Neuromodulation Techniques After SCI,COMPLETED,2020-06-01,2024-12-31,PHASE2,4,INTERVENTIONAL,VA Office of Research and Development,FED,True
+NCT04721262,Ferumoxytol Enhanced Hyperfine Low Field Strength MRI,COMPLETED,2020-11-09,2022-08-29,,2,OBSERVATIONAL,University of Pennsylvania,OTHER,True
+NCT06636136,Transtibial Osseointegration,RECRUITING,2025-05-20,2030-04-30,NA,30,INTERVENTIONAL,Walter Reed National Military Medical Center,FED,True
+NCT02628873,Can SIS Using Air Bubbles Replace HSG for Fallopian Tubal Patency After Essure Placement,TERMINATED,2015-12,2018-10,NA,21,INTERVENTIONAL,Wright State University,OTHER,True
+NCT04039529,"Novel Guidance Device for Image Fusion and Needle Guidance in Lung, Liver or Kidney Biopsy",WITHDRAWN,2019-12-31,2020-12-31,NA,0,INTERVENTIONAL,Clear Guide Medical,INDUSTRY,True
+NCT06846801,Balloon Dilation Under Portable X-ray System in the Treatment of Pharyngo-oesphageal Strictures,ACTIVE_NOT_RECRUITING,2024-11-01,2025-05-30,NA,20,INTERVENTIONAL,Mohammed Elrabie Ahmed,OTHER,True
+NCT06321575,The Golazo® Peripheral Atherectomy System for a Safe and Effective Atherectomy (GREAT Trial),RECRUITING,2024-06-20,2026-11,NA,159,INTERVENTIONAL,Avantec Vascular,INDUSTRY,True
+NCT04389281,"X-ray Psoralen Activated Cancer Therapy in Head and Neck, Breast, Sarcoma and Melanoma",RECRUITING,2021-12-08,2029-03,PHASE1,52,INTERVENTIONAL,"Immunolight, LLC",INDUSTRY,True
+NCT01766102,Intra-operative Digital vs. Standard Mammography,COMPLETED,2013-01,2014-12,PHASE4,72,INTERVENTIONAL,Massachusetts General Hospital,OTHER,True
+NCT04485949,A Phase 2b Clinical Study With a Combination Immunotherapy in Newly Diagnosed Patients With Glioblastoma,ACTIVE_NOT_RECRUITING,2023-03-20,2027-07,PHASE2,93,INTERVENTIONAL,Imvax,INDUSTRY,True
+NCT06565559,EMUs: Enhanced Monitoring Using Sensors After Surgery,RECRUITING,2024-02-28,2027-07-31,,1332,OBSERVATIONAL,University of Edinburgh,OTHER,True
+NCT04092192,Forceps vs. Snare IVC Filter Removal,RECRUITING,2018-12-26,2028-01-30,NA,100,INTERVENTIONAL,University of Chicago,OTHER,True
+NCT06780436,3D Transcranial Ultrasound Brain Imaging (3D-TRUBI) Instrument for Point-of-Care Diagnosis of Intracranial Hemorrhages,ACTIVE_NOT_RECRUITING,2024-12-04,2026-09,,20,OBSERVATIONAL,The Geneva Foundation,OTHER,True
+NCT05504499,REFINE Study: A Study In a Novel Interspinous Fusion Device In Subjects With Low Back Pain,RECRUITING,2021-03-19,2028-01-01,NA,100,INTERVENTIONAL,Pacific Research Institute,NETWORK,True
+NCT04404257,Reduce Radiation Exposure in Fluoroscopic Interventions Evaluation,COMPLETED,2020-11-05,2021-12-03,NA,170,INTERVENTIONAL,Corewell Health East,OTHER,True
+NCT03562299,OrthoPure™ XT Pilot Clinical Study,WITHDRAWN,2018-07,2020-12,NA,0,INTERVENTIONAL,TRX Orthopedics,INDUSTRY,True
+NCT04761055,"Study of iBreast, a Handheld Device to Detect Breast Abnormalities During Screening Visits for Breast Cancer",COMPLETED,2021-01-29,2025-08-19,NA,309,INTERVENTIONAL,Memorial Sloan Kettering Cancer Center,OTHER,True
+NCT07219797,Study of Monochromatic X-ray Mammography System,NOT_YET_RECRUITING,2026-06,2027-04,NA,52,INTERVENTIONAL,"Imagine Scientific, Inc.",INDUSTRY,True
+NCT05303467,A Feasibility Study to Evaluate the Safety of the TheraSphere Glioblastoma (GBM) Device in Patients With Recurrent GBM,RECRUITING,2022-07-30,2027-01-31,PHASE1,36,INTERVENTIONAL,Boston Scientific Corporation,INDUSTRY,True
+NCT04429009,A Randomized Control Trial of ZEPHYRx Gamified Incentive Spirometry Compared to Traditional Spirometry,UNKNOWN,2021-09-01,2023-09-30,NA,100,INTERVENTIONAL,My Music Machines Inc.,INDUSTRY,True
+NCT03431467,Impella CP With VA ECMO for Cardiogenic Shock,TERMINATED,2018-03-19,2023-09-01,NA,17,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT06540807,SafeHeal Anastomosis Feasibility Evaluation (SAFE)-2023 Study,ACTIVE_NOT_RECRUITING,2024-07-31,2025-12-31,NA,15,INTERVENTIONAL,SafeHeal Inc,INDUSTRY,True
+NCT03929913,NHLBI DIR Transcatheter Mitral Cerclage Annuloplasty Early Feasibility Study,ACTIVE_NOT_RECRUITING,2019-05-07,2025-12-31,NA,19,INTERVENTIONAL,"National Heart, Lung, and Blood Institute (NHLBI)",NIH,True
+NCT05327062,Cardiac Resynchronization Therapy Delivery Guided Non-Invasive Electrical and Venous Anatomy Assessment,RECRUITING,2023-03-06,2025-09,NA,150,INTERVENTIONAL,XSpline S.p.A.,INDUSTRY,True
+NCT04436068,Hyperfine Portable MRI in Hydrocephalus and Other Conditions Prompting Outpatient Brain Imaging,ACTIVE_NOT_RECRUITING,2019-06-28,2027-01-31,NA,100,INTERVENTIONAL,University of Pennsylvania,OTHER,True
+NCT07300631,SpaceOAR Post-Market Registry Study,RECRUITING,2025-12-31,2030-02,,320,OBSERVATIONAL,Sheffield Teaching Hospitals NHS Foundation Trust,OTHER,True
+NCT06267248,Spine Registration Using 3D-Scanning,ENROLLING_BY_INVITATION,2026-11,2028-11,,10,OBSERVATIONAL,Advanced Scanners Inc.,INDUSTRY,True
+NCT03226535,Ultrasound-CT Fusion System for Interventional Radiology Procedures,UNKNOWN,2017-06-22,2018-06-22,NA,20,INTERVENTIONAL,Clear Guide Medical,INDUSTRY,True
+NCT02783274,Actis Total Hip System 2 Year Follow-up,COMPLETED,2016-07-01,2024-03-13,NA,266,INTERVENTIONAL,DePuy Orthopaedics,INDUSTRY,True
+NCT04447482,ENB Vs. Conventional Bronchoscopy With Fluoroscopy for Safe and Effective Biopsy of Pulmonary Lesions,UNKNOWN,2020-07-10,2021-09-30,NA,212,INTERVENTIONAL,"Shanghai Youhe Medical Technology Co., Ltd.",INDUSTRY,True
+NCT02079818,Visceral Artery Aneurysm Embolization by the Penumbra Ruby™ Coil System,WITHDRAWN,2017-06,2018-09,PHASE4,0,INTERVENTIONAL,Penumbra Inc.,INDUSTRY,True
+NCT06671847,"Feasibility of At-Home Chair-Based Resistance Band Training to Improve Balance, Strength, and Bone Density in Older Adults",NOT_YET_RECRUITING,2025-01-01,2026-09-30,NA,40,INTERVENTIONAL,"The University of Texas Health Science Center, Houston",OTHER,True
+NCT04955704,Performance Study for InferRead CT Pneumonia.AI,UNKNOWN,2021-09-01,2022-01-31,,423,OBSERVATIONAL,Infervision,INDUSTRY,True
+NCT06944509,RADIQAL Study (Radiation Dose and Image Quality Trial),RECRUITING,2025-05-14,2026-12-31,NA,824,INTERVENTIONAL,Philips Clinical & Medical Affairs Global,INDUSTRY,True
+NCT05868148,Shoulder iD™ Primary Reversed Glenoid Outcomes Clinical Study,ACTIVE_NOT_RECRUITING,2023-10-20,2035-12,,200,OBSERVATIONAL,Stryker Trauma and Extremities,INDUSTRY,True
+NCT03438383,Bi-PAP vs Sham Bi-PAP on Pulmonary Function in Morbidly Obese Patients After Bariatric Surgery,COMPLETED,2011-05-23,2012-05-31,NA,48,INTERVENTIONAL,Evangelismos Hospital,OTHER,True
+NCT03043222,Innovative Minimally Invasive Options in Treatment of Urinary Problems Related to Prostate Enlargement (BPH) in Men,WITHDRAWN,2018-03-01,2019-06-01,NA,0,INTERVENTIONAL,St. Louis University,OTHER,True
+NCT04580160,Venous Stent for the Iliofemoral Vein Investigational Clinical Trial Using the DUO Venous Stent System,COMPLETED,2020-11-30,2025-04-15,NA,162,INTERVENTIONAL,"Vesper Medical, Inc.",INDUSTRY,True
+NCT04393948,Lung Irradiation for COVID-19 Pneumonia,WITHDRAWN,2020-06-19,2021-09,NA,0,INTERVENTIONAL,Brigham and Women's Hospital,OTHER,True
+NCT05701059,Comparison of Artificial Disc Implants in Cervical Disc Arthroplasty,RECRUITING,2023-05-01,2026-12-01,,20,OBSERVATIONAL,"University of California, Los Angeles",OTHER,True
+NCT03226808,Vivacit-E Post-market Follow-up Study,ACTIVE_NOT_RECRUITING,2013-10-01,2028-06-30,NA,258,INTERVENTIONAL,Zimmer Biomet,INDUSTRY,True
+NCT04653701,Safety and Efficacy of DEB-TACE Performed With a Novel Reflux-control Microcatheter in Patients With HCC,UNKNOWN,2020-11-14,2022-02-20,,30,OBSERVATIONAL,Juan José Ciampi Dopazo,OTHER,True
+NCT07046832,Clinical Evaluation of an Augmented Reality Intraprocedural Needle Guidance Platform for Soft Tissue Biopsy,ENROLLING_BY_INVITATION,2025-06-27,2027-07,NA,104,INTERVENTIONAL,"MediView XR, Inc.",INDUSTRY,True
+NCT05955534,Concomitant Bedside Percutaneous Tracheostomy and Ultrasound Gastrostomy,WITHDRAWN,2024-07,2026-12-01,NA,0,INTERVENTIONAL,"University of Maryland, Baltimore",OTHER,True
+NCT07274787,Safety And Effectiveness Of NaviFUS System With Bevacizumab In Recurrent Glioblastoma,NOT_YET_RECRUITING,2026-01-01,2029-06-01,NA,10,INTERVENTIONAL,University of Cincinnati,OTHER,True
+NCT03690401,Body Composition Post Cancer Treatment,COMPLETED,2018-10-01,2023-11-15,,52,OBSERVATIONAL,Prisma Health-Upstate,OTHER,True
+NCT07016698,Real-World Registry of the Rotarex(TM) Rotational Excisional Atherectomy System (XTRACT Registry),RECRUITING,2025-09-29,2029-05-31,NA,600,INTERVENTIONAL,C. R. Bard,INDUSTRY,True
+NCT07131787,Optimizing Rehabilitation After Achilles Tendon Rupture Repair: The Role of Blood Flow Restriction Training in Tendon and Muscle Recovery,RECRUITING,2025-08-20,2028-11,NA,82,INTERVENTIONAL,"University Hospital, Ghent",OTHER,True
+NCT02186561,Prospective Study on Embolization of Intracranial Aneurysms With Pipeline™ Embolization Device,COMPLETED,2014-07-24,2018-12-13,NA,197,INTERVENTIONAL,Medtronic Neurovascular Clinical Affairs,INDUSTRY,True
+NCT07226011,Accelerated High-Dose tDCS for Depression,RECRUITING,2025-12-15,2026-06-01,NA,20,INTERVENTIONAL,Medical University of South Carolina,OTHER,True
+NCT04798261,Study of the Long-Term Safety and Outcomes of Treating Pulmonary Embolism With the Indigo Aspiration System,RECRUITING,2021-06-25,2028-02,,1500,OBSERVATIONAL,Penumbra Inc.,INDUSTRY,True
+NCT05513027,Augmented Whole-body Scanning Via Magnifying PET/CT (AWSM-PET/CT) Techniques Abilities to Improve Upon the Diagnostic Accuracy of the Standard-of-care (SOC) PET/CT for Malignant Lesion Detection,TERMINATED,2024-03-06,2026-03-17,NA,11,INTERVENTIONAL,Washington University School of Medicine,OTHER,True
+NCT05541016,De-Escalated Adjuvant and Definitive Radiation Therapy Informed by DART 2.0 ctHPV-DNA,RECRUITING,2023-02-21,2029-08-01,PHASE2,455,INTERVENTIONAL,Mayo Clinic,OTHER,True
+NCT06490874,Continuous Glucose Monitoring (CGM) Substudy of the DECIDE RCT,WITHDRAWN,2025-09,2030-12,,0,OBSERVATIONAL,Ohio State University,OTHER,True
+NCT04730180,Comparison of Targeting Methods for Transcranial Magnetic Stimulation Treatment of Depression,NOT_YET_RECRUITING,2024-01-01,2026-12-31,NA,60,INTERVENTIONAL,Stanford University,OTHER,True
+NCT04095481,Obalon Navigation/Touch System Post-Approval Study,UNKNOWN,2019-12-03,2023-05-30,,1600,OBSERVATIONAL,"Obalon Therapeutics, Inc.",INDUSTRY,True
+NCT06999122,Diagnostic Performance Study of the EMVision Emu™ Brain Scanner in the Detection of Intracranial Hemorrhage in Suspected Stroke Patients,RECRUITING,2025-03-26,2026-11-28,,300,OBSERVATIONAL,EMVision Medical Devices Ltd,NETWORK,True
+NCT06645873,Exploration of Continuous Glucose Monitoring on the Intensive Care Unit,COMPLETED,2024-12-17,2025-09-30,NA,100,INTERVENTIONAL,Kim Kamphorst,OTHER,True
+NCT06940453,CONDUIT™ Anterior Lumbar Interbody Fusion (ALIF) Cage System in Lumbar Degenerative Disease,RECRUITING,2024-06-28,2027-12-31,,35,OBSERVATIONAL,University College Dublin,OTHER,True
+NCT03177473,Study Using the CervicalStim Device Following Cervical Fusion,COMPLETED,2017-06-28,2021-08-03,,211,OBSERVATIONAL,Orthofix Inc.,INDUSTRY,True
+NCT06732570,Effect of High Intensity Laser on Shoulder Impingement.,ACTIVE_NOT_RECRUITING,2024-02-18,2026-12-30,NA,40,INTERVENTIONAL,Cairo University,OTHER,True
+NCT02046096,Cook IVC Filter Study,COMPLETED,2014-01,2019-08-09,NA,473,INTERVENTIONAL,Cook Research Incorporated,INDUSTRY,True
+NCT05501574,"An Open Label Trial Evaluating the Safety, Tolerability, Efficacy and Pharmacokinetic Profile of Tacrolimus Inhalation Powder in Adult Lung Transplant Recipients",TERMINATED,2023-04-18,2024-12-23,PHASE2,14,INTERVENTIONAL,"TFF Pharmaceuticals, Inc.",INDUSTRY,True
+NCT03517553,Effects of Exercise by Neuromuscular Stimulation in Dialysis Patients,TERMINATED,2013-07-29,2014-11-12,NA,15,INTERVENTIONAL,University of Iowa,OTHER,True
